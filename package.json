@@ -1,0 +1,12 @@
+{
+  "name": "reltroner-studio-remodeling",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:worldbuilding": "node --test tests/asthortera-nccm-baseline.test.mjs tests/asthortera-cross-domain-regression.test.mjs tests/asthortera-nccm-v6-active.test.mjs tests/asthortera-canon-profile-renderer.test.mjs tests/asthortera-nccm-v65-integrated-profiles.test.mjs tests/asthortera-nccm-v65-crossdocs.test.mjs",
+    "canon:v65:reconcile:check": "node tools/reconcile-asthortera-nccm-v65.mjs --check",
+    "canon:v65:crossdocs:check": "node tools/sync-asthortera-nccm-crossdocs.mjs --check",
+    "canon:qa:strict": "node tools/audit-asthortera-cross-domain.mjs --json"
+  }
+}

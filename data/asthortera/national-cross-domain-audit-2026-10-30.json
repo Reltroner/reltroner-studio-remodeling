@@ -1,0 +1,345 @@
+{
+  "schema": "ast-qa-national-profile-snapshot-v1",
+  "generated_utc_date": "2026-10-30",
+  "status": "development material; manual extraction of current national profiles; not a new canon",
+  "planet": {
+    "population_billion": 4412,
+    "ancestry_ratified_pct": {
+      "depeisit": 58,
+      "cistheta": 22,
+      "cosmeilia_human_mixed": 10,
+      "native": 7,
+      "other": 3
+    },
+    "sdi": 0.947,
+    "land_area_million_km2": 4503,
+    "sovereign_country_count": 37
+  },
+  "coverage": {
+    "faction_documents_reviewed": 21,
+    "statistics_documents_reviewed": 19,
+    "content_tree_files_indexed": 433,
+    "sovereign_country_profiles_with_extractable_statistics": 14,
+    "sovereign_countries_total": 37,
+    "sovereign_countries_without_profiled_demographics": 23
+  },
+  "countries": [
+    {
+      "name": "Reltronland",
+      "source": "content/factions/reltronland.md",
+      "population_billion": 855,
+      "area_million_km2": 104,
+      "sdi": 0.984,
+      "reported_ancestry_pct": {
+        "depeisit": 66,
+        "cistheta": 22,
+        "cosmeilia_or_mixed": 4,
+        "native": 5,
+        "other_or_unclassified": 3,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Depcutland",
+      "source": "content/factions/depcutland.md",
+      "population_billion": 343,
+      "area_million_km2": 52,
+      "sdi": 0.981,
+      "reported_ancestry_pct": {
+        "depeisit": 81,
+        "cistheta": 10,
+        "cosmeilia_or_mixed": 3,
+        "native": 4,
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Kalgered",
+      "source": "content/factions/kalgered.md",
+      "population_billion": 108,
+      "area_million_km2": 108,
+      "sdi": 0.979,
+      "reported_ancestry_pct": {
+        "depeisit": 40,
+        "cistheta": 10,
+        "cosmeilia_or_mixed": 13,
+        "native": 35,
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Aurastelia",
+      "source": "content/factions/aurastelia.md",
+      "population_billion": 164,
+      "area_million_km2": 433,
+      "sdi": 0.97,
+      "reported_ancestry_pct": {
+        "depeisit": 5,
+        "cistheta": 7,
+        "cosmeilia_or_mixed": 80,
+        "native": 4,
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Astrostelia",
+      "source": "content/factions/astrostelia.md",
+      "population_billion": 220,
+      "area_million_km2": 216,
+      "sdi": 0.957,
+      "reported_ancestry_pct": {
+        "depeisit": 9,
+        "cistheta": 16,
+        "cosmeilia_or_mixed": 65,
+        "native": 6,
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Lenternow",
+      "source": "content/factions/lenternow.md",
+      "population_billion": 214,
+      "area_million_km2": 117,
+      "sdi": 0.935,
+      "reported_ancestry_pct": {
+        "depeisit": 26,
+        "cistheta": 29,
+        "cosmeilia_or_mixed": 38,
+        "native": 5,
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Taramistry",
+      "source": "content/factions/taramistry.md",
+      "population_billion": 242,
+      "area_million_km2": 125,
+      "sdi": 0.954,
+      "reported_ancestry_pct": {
+        "depeisit": 54,
+        "cistheta": 25,
+        "cosmeilia_or_mixed": 12,
+        "native": 5,
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30",
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Moreg",
+      "source": "content/factions/moreg.md",
+      "population_billion": 205,
+      "area_million_km2": 79,
+      "sdi": 0.931,
+      "reported_ancestry_pct": {
+        "depeisit": 45,
+        "cistheta": 30,
+        "cosmeilia_or_mixed": 13,
+        "native": 10,
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Pencilfania",
+      "source": "content/factions/pencilfania.md",
+      "population_billion": 182,
+      "area_million_km2": 166,
+      "sdi": 0.94,
+      "reported_ancestry_pct": {
+        "depeisit": 56,
+        "cistheta": 23,
+        "cosmeilia_or_mixed": 14,
+        "native": 3,
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30",
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Stelpadland",
+      "source": "content/factions/stelpadland.md",
+      "population_billion": 141,
+      "area_million_km2": 200,
+      "sdi": 0.961,
+      "reported_ancestry_pct": {
+        "depeisit": 52,
+        "cistheta": 22,
+        "cosmeilia_or_mixed": 6,
+        "native": 18,
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Pasgerflit",
+      "source": "content/factions/pasgerflit.md",
+      "population_billion": 279,
+      "area_million_km2": 72,
+      "sdi": 0.949,
+      "reported_ancestry_pct": {
+        "depeisit": 62,
+        "cistheta": 21,
+        "cosmeilia_or_mixed": 5,
+        "native": 6,
+        "other_or_unclassified": 6,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Hargenbor",
+      "source": "content/factions/hargenbor.md",
+      "population_billion": 133,
+      "area_million_km2": 39,
+      "sdi": 0.925,
+      "reported_ancestry_pct": {
+        "depeisit": 44,
+        "cistheta": 40,
+        "cosmeilia_or_mixed": 6,
+        "native": 8,
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30",
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    },
+    {
+      "name": "Beluftner",
+      "source": "content/factions/beluftner.md",
+      "population_billion": 91,
+      "area_million_km2": 88,
+      "sdi": 0.896,
+      "reported_ancestry_pct": {
+        "depeisit": 0.2,
+        "cistheta": 0.5,
+        "cosmeilia_or_mixed": 2,
+        "native": 90.3,
+        "other_or_unclassified": 1,
+        "phantomkind_or_spiritual_hybrid": 6
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30_six_category_v4",
+      "ancestry_taxonomy_status": "new_six_way_ratifed"
+    },
+    {
+      "name": "Cenrestier",
+      "source": "content/factions/cenrestier.md",
+      "population_billion": 111,
+      "area_million_km2": 102,
+      "sdi": 0.911,
+      "reported_ancestry_pct": {
+        "depeisit": 7,
+        "cistheta": 8,
+        "cosmeilia_or_mixed": 7,
+        "native": 73,
+        "other_or_unclassified": 5,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
+    }
+  ],
+  "audit": {
+    "profiled_population_billion": 3288,
+    "unprofiled_or_unreconciled_population_billion": 1124,
+    "native_profiled_billion": 378.753,
+    "reported_cosmeilia_or_mixed_profiled_billion": 535.2,
+    "census_37_country_remainder_explained": "1.124 trillion residents belong to the remaining 23 sovereign countries; this is an accounting remainder, not missing inhabitants or a proposed equal split.",
+    "ancestry_scopes": {
+      "primary_partition": "Legacy five-part primary-assignment shares only, not bounds on inclusive ancestry.",
+      "inclusive_cosmeilian": "One unified all-manifestation Cosmeilian ancestry variable, encompassing Cosmic Races and Cosmeilia-Human mixed. Source-country subtotal 535.200 billion across 14 audited countries; exact 37-country global inclusive total unratified.",
+      "inclusive_native": "Source-country native subtotal 378.753 billion from 14 countries; primary 7% is not an inclusive-lineage cap.",
+      "candidate_only": {
+        "cosmeilian_planet_percent": 15,
+        "native_planet_percent": 12,
+        "cosmeilian_remaining_23_billion": 126.6,
+        "native_remaining_23_billion": 150.687,
+        "status": "hypothetical_not_ratified"
+      },
+      "phantomkind_v4": "Beluftner 6% of 91 billion = 5.460 billion confirmed primary; 13 other profiled nations unknown (not 0), with no six-category global crosswalk yet"
+    },
+    "sdi_remodeling_v3": {
+      "planet_sdi": 0.947,
+      "aggregation": "population_weighted_mean_of_national_composite_SDI_candidate_operator",
+      "known_14_weighted_mean": 0.9586380778588809,
+      "remaining_23_population_billion": 1124,
+      "required_remaining_23_weighted_sdi": 0.9129555160142343,
+      "individual_and_institutional_combined": true,
+      "component_weights": "candidate_pending_independent_validation"
+    },
+    "phantomkind_primary_confirmed_billion": 5.46
+  },
+  "known_gaps": [
+    {
+      "severity": "P0",
+      "code": "INCOMPLETE_37_COUNTRY_LINEAGE_CENSUS",
+      "status": "OPEN",
+      "notes": "14 of 37 countries have recorded population and lineage totals; remaining 23 countries' 1.124T inhabitants must be distributed with compatible Year 0 census boundaries. Inclusive Cosmeilian >478.160B and Native >377.423B; exact planetary totals pending ratification."
+    },
+    {
+      "severity": "P1",
+      "code": "KALGERED_SPENDING_99_PERCENT",
+      "status": "OPEN",
+      "notes": "1 percentage point discrepancy, cannot invent class."
+    },
+    {
+      "severity": "P1",
+      "code": "SDI_WEIGHTING_AND_REMAINDER",
+      "status": "OPEN",
+      "notes": "Planetary SDI 0.947 (creator-ratified) and population-weighted national composite operator imply 23-country weighted mean 0.912955516; national 14 SDI unchanged. Individual/institutional split calibration pending evidence."
+    },
+    {
+      "severity": "P1",
+      "code": "GDP_NATIONAL_FX_PPP_INCOMPLETE",
+      "status": "OPEN",
+      "notes": "GDP/GNI and AUC conversions cannot be fully reconciled without FX rates and GDP deflator."
+    },
+    {
+      "severity": "P2",
+      "code": "EMPTY_STATISTICS_DOCUMENT",
+      "status": "OPEN",
+      "notes": "content/statistics/sdi-character.md is empty."
+    },
+    {
+      "severity": "P1",
+      "code": "INCLUSIVE_LINEAGE_CANDIDATES_NOT_RATIFIED",
+      "status": "OPEN",
+      "notes": "Cosmeilian 15% and Native 12% are illustrative nonexclusive lineage scenarios; historical primary 10% and 7% reporting cells must not be mistaken for population ceilings."
+    },
+    {
+      "severity": "P0",
+      "code": "V4_PHANTOMKIND_13_COUNTRY_CROSSWALK",
+      "status": "OPEN",
+      "notes": "Thirteen national census shares unknown; planet legacy 58/22/10/7/3 not reconciled to six-way primary"
+    }
+  ],
+  "archived_snapshot_notice": {
+    "status": "historical_provenance_only_not_active_canon",
+    "archived_as_of": "2026-10-31",
+    "active_reference": "data/asthortera/nccm-v6-active-cross-domain.json",
+    "active_schema": "NCCM-V6.4-stelpadland-debt-and-industry-active",
+    "superseded_model_references": [
+      "The original 14-country population denominator 3288B became 3213B after 75B internal migration and 5 new nation total changed 320B to 395B.",
+      "The ancient five-way 58/22/10/7/3 planet ancestry was replaced by six mutually exclusive current categories.",
+      "Historical nominal GDP levels were uplifted 10x under creator-approved integrated income-output Model B.",
+      "Taramistry founded 1210 BAC not 1186; Lenternow 2072, Hargenbor 1984, Moreg 1713, Pasgerflit 1545 BAC.",
+      "Stelpadland current public debt 52% GDP, not archived V3 42% unratified scenario; high-value finished furniture and wood processing are canonical.",
+      "The planet still has 4412 billion unique sentients and SDI 0.947, 37 total sovereign states, with 18 individual states deferred."
+    ],
+    "policy": "Preserve historical figures for reproducible archived regressions, but do not generate Year 0 current factual claims from this snapshot."
+  }
+}

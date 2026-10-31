@@ -1,0 +1,78 @@
+---
+title: "Sentient Composition Across Planets"
+description: "An overview of the dominant sentient species and human lineages inhabiting the primary planets in the Asthortera galaxy."
+author: "Rei Reltroner"
+published: true
+date: "2025-04-04"
+image: "/images/sentient-population.webp"
+---
+
+# 🌌 Sentient Composition Across Planets
+
+This document provides a detailed overview of the sentient population structures across the three major inhabited planets within the Asthortera galaxy: **Asthortera**, **Depeisit**, and **Cosmeilia**.
+
+---
+
+## 🌍 **Planet Asthortera**
+- **Dominant Population:** Humans with East Asian Mongoloid and Western European features
+- **Total Sentient Population:** **~4.412 trillion**
+- **Primary ancestry assignment (Year 0, one category per person, not inclusive lineage census):**
+  - 58% Humans of Depeisit planetary descent
+  - 22% Humans of Cistheta planetary descent
+  - 10% Primary Cosmeilian affiliation (any physical manifestation, including human hybrids)
+  - 7% Native Asthorteran Human-Wizard-Witch
+  - 3% Others (alien humanoids, hybrids)
+- **37 sovereign countries:** 14 profiled nations hold **3.288 trillion** sentients; the other **23 hold 1.124 trillion**. In the separate all-manifestation lineage count, the 14 already include **535.200 billion Cosmeilian** and **378.753 billion native** lineage reports. Inclusive global totals are higher and not yet assigned exact percentages. **NCCM V4:** Beluftner separately registers **6% Phantomkind / Spiritual Hybrid** (5.460 billion primary residents). Thirteen other national Phantomkind rates are unknown, not zero; the five-way global categories await a six-way crosswalk. A shapeshifting sentient remains one counted person.
+- **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization, attracting those seeking long-term prosperity and development.
+
+---
+
+## 🏛️ **Planet Depeisit**
+- **Dominant Population:** White/Caucasian Human race (Victorian-European resemblance)
+- **Total Sentient Population:** **~25 trillion**
+- **Composition:**
+  - 92% Human (Caucasian origin)
+  - 5% East Asian Mongoloid
+  - 3% Technocratic descendants from lost colonies
+- **Notable Characteristic:** Reflects classical 19th-century European civilization. Most of the immigrants from Depeisit have migrated to Asthortera.
+
+---
+
+## 🌠 **Planet Cosmeilia**
+
+The following composition follows the planet-specific [Cosmeilia Identity](./cosmeilia_identity.md), the canonical source for this planet's census. This corrects the global summary's conflicting group weights without changing its 3.7 trillion total population.
+- **Dominant Population:** Cosmeilia-Human (cosmic aesthetic sentient lineage)
+- **Total Sentient Population:** **~3.7 trillion**
+- **Composition:**
+  - 85% Cosmeilia-Human
+  - 5% Other Cosmeilian Sentients
+  - 4% Immigrants from Asthortera
+  - 3% Immigrants from Depeisit
+  - 2% Immigrants from Cistheta
+  - 1% Others (alien humanoids, hybrids)
+- **Notable Characteristic:** Ethereal beauty and cosmic spirituality define the dominant population. No full-blooded Earth-human exists in Cosmeilia as native.
+
+---
+
+## 🪐 **Planet Cistheta**
+- **Dominant Population:** Humans of East Asian Mongoloid origin, known for high-speed innovation, structured collectivism, and cultural preservation
+- **Total Sentient Population:** **~10 trillion**
+- **Composition:**
+  - 88% Human (East Asian Mongoloid Origin)
+  - 6% Immigrants from Depeisit
+  - 3% Immigrants from Asthortera
+  - 2% Immigrants from Cosmeilia
+  - 1% Others (mixed-origin sentients, hybrids)
+- **Notable Characteristic:** Cistheta is a highly urbanized and digitalized planet that specializes in technocultural exports. Its population is known for integrating precision, ancestral reverence, and futuristic planning.
+
+## 🧠 **Philosophical Summary**
+> _“Sentience in Asthortera is not merely about species or race, but about alignment—spiritually, mentally, and structurally.”_
+
+The racial composition of each planet reflects its function and aesthetic in the wider narrative:
+- **Asthortera** is the balance of modern civilization and spiritual resistance.
+- **Depeisit** preserves the old power, system, and decay.
+- **Cosmeilia** advances beauty and universal consciousness.
+- **Cistheta** embodies precision, order, and a futuristic collectivism rooted in ancestral honor.
+
+Each planet has a different distribution, but all tie back into the larger cosmic balance of the Astralis and the threat of Nytherion.
+
