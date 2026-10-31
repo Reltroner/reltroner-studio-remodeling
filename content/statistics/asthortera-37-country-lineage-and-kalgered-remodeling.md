@@ -16,6 +16,8 @@ tags:
 
 # Asthortera 37-Country Census and Kalgered Economic Remodeling
 
+> **ARCHIVED — V3/V4; NOT CURRENT YEAR 0 CANON (2026-10-31).** This unpublished historical paper is retained as provenance only. Its old census, ancestry, economic, SDI or country-code crosswalks do not supersede [NCCM V6.5 Canon C](./asthortera-nccm-v6-active-cross-domain.md).
+
 **NCCM V4 demographic update (2026-10-30):** Beluftner now has **2% Cosmeilian primary**, **6% Phantomkind / Spiritual Hybrid primary** and **1% Other primary**, with Native 90.3%, Cistheta 0.5%, and Depeisit 0.2% unchanged. The fourteen-state Cosmeilian source subtotal is now **535.200 billion**; known Phantomkind-primary minimum **5.460 billion**. Thirteen national Phantomkind primary rates and global six-way partition are **unknown, not zero**. See [V4 ancestry census](./asthortera-phantomkind-demography-v4.md). Older five-way Beluftner values are superseded.
 
 **Creator directives (2026-10-30):** Asthortera population stays at **4.412 trillion**, distributed across **37 sovereign nations**. The current 14 profiled nations total **3.288 trillion** and are a **partial census**, not the entire planetary roster. The remaining **23 nations together contain 1.124 trillion sentients**; their individual national populations must not be fabricated or allocated uniformly without historical/national sources.

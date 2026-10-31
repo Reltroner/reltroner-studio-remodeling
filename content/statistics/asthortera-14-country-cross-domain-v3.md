@@ -12,6 +12,8 @@ tags: ["Asthortera", "NCCM", "countries", "SDI", "economic modeling"]
 
 # Asthortera NCCM V3 — 14 Countries, One Statistical Denominator
 
+> **ARCHIVED — V3; NOT CURRENT YEAR 0 CANON (2026-10-31).** This unpublished historical paper is retained as provenance only. Its old census, ancestry, economic, SDI or country-code crosswalks do not supersede [NCCM V6.5 Canon C](./asthortera-nccm-v6-active-cross-domain.md).
+
 > **ARCHIVED STATISTICAL SNAPSHOT — NOT CURRENT YEAR 0 CANON (2026-10-31).** This document retains pre-migration 14-country census totals (3,288B), pre-10× GDP, and the historical unratified Stelpadland 42%-GDP debt candidate. **Current source-of-truth is [NCCM V6.4](./asthortera-nccm-v6-active-cross-domain.md)**: the 14 original countries now total **3,213B**, five additional nations total **395B**, residual 18 nations **804B**; planet **4,412B**, Stelpadland debt **52% GDP** with finished-furniture production, and ratified 2072 / 1984 / 1713 / 1545 / 1210 BAC national foundations. Historical V3 entries below are preserved for regression/provenance, **not current benchmark values**.
 
 **Creator decisions:** Year 0 Asthortera contains **4.412 trillion** unique sentients in **37 sovereign countries** and has a composite **planetary SDI 0.947**. The **14 countries' SDI scores remain unchanged**. National origins for Taramistry, Pencilfania, Beluftner and Hargenbor were updated on **2026-10-30**. SDI now means **average individual capability combined with institutional quality**. See the [SDI methodology V3](./asthortera-sdi-methodology-v3.md).

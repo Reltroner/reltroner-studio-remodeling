@@ -70,8 +70,10 @@ To achieve social and economic justice through the protection of workers' rights
 - **Reltronland:** $85 REL/hour
 - **Depcutland:** $80 DEL/hour
 - **Kalgered:** $100 KLG/hour
-- **Mapether:** $75 MPT/hour
-- **Krisberia:** $78 KRB/hour
+- **Mapether:** 75 MWV/hour
+- **Krisberia:** 78 KRF/hour
+
+**NCCM V6.5 Canon C currency convention:** Mapether uses **MWV**; Krisberia uses **KRF**. The inherited hourly amounts remain policy references, not independently measured current wages or evidence for a conversion rate.
 
 Nations below these standards face **economic sanctions** from ALREO.
 

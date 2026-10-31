@@ -12,6 +12,8 @@ tags: ["Asthortera", "Phantomkind", "Spiritual Hybrid", "NCCM"]
 
 # NCCM V4 — Phantomkind / Spiritual Hybrid Census
 
+> **ARCHIVED — V4; NOT CURRENT YEAR 0 CANON (2026-10-31).** This unpublished historical paper is retained as provenance only. Its old census, ancestry, economic, SDI or country-code crosswalks do not supersede [NCCM V6.5 Canon C](./asthortera-nccm-v6-active-cross-domain.md).
+
 > **ARCHIVED V4 CENSUS WORKING PAPER (2026-10-31 status).** Its 13 unmeasured Phantomkind country percentages were subsequently assigned in the **creator-approved NCCM V6 six-way modeling baseline**. Use the current [NCCM V6.4 source of truth](./asthortera-nccm-v6-active-cross-domain.md) for six-category ancestry, 75B migrant preservation, and 14+5+18 population accounting. The V4 tables below remain a historical snapshot.
 
 ## Creator-ratified population ontology

@@ -5,22 +5,20 @@ on:
   push:
     paths:
       - "content/**"
+      - "docs/**"
       - "data/asthortera/**"
-      - "tools/audit-asthortera-cross-domain.mjs"
-      - "tools/sync-asthortera-nccm-crossdocs.mjs"
-      - "tools/audit-asthortera-metric-mentions.mjs"
+      - "tools/**"
       - "package.json"
-      - "tests/asthortera-*.test.mjs"
+      - "tests/**"
       - ".github/workflows/asthortera-canon-qa.yml"
   pull_request:
     paths:
       - "content/**"
+      - "docs/**"
       - "data/asthortera/**"
-      - "tools/audit-asthortera-cross-domain.mjs"
-      - "tools/sync-asthortera-nccm-crossdocs.mjs"
-      - "tools/audit-asthortera-metric-mentions.mjs"
+      - "tools/**"
       - "package.json"
-      - "tests/asthortera-*.test.mjs"
+      - "tests/**"
       - ".github/workflows/asthortera-canon-qa.yml"
 
 permissions:

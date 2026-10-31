@@ -13,7 +13,6 @@
     "legacy_ratios_58_22_10_7_3": "superseded; never current planet primary distribution",
     "deferred_18_states": "Canon C: 18-country combined 804B residual (SDI 0.8984017412935316; TFR 1.900696517412935; real growth 0.03688730813469307) is approved as ONE statistical aggregate, not 18 independent invented national censuses",
     "missing_local_facts": "five new country land area/ancestry/fertility/inflation/gini remain unavailable; no values are fabricated",
-    "legacy_local_fx_ambiguities": "KRB vs KRF (Krisberia) and MPT vs MWV (Mapether) remain unresolved historical code crosswalks",
     "migration_decision": "Creator ratified: Astrostelia exports 35B and Lenternow exports 40B to Scenrepolia/Calespia/Ethaptoria/Krisberia. Source percentages and SDI stay fixed; conserve all six ancestry categories globally.",
     "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
     "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix.",
@@ -22,7 +21,14 @@
     "pencilfania_krisberia_foundation_correction": "Creator ratified Pencilfania 2732 BAC (supersedes 2694); Krisberia 2320 BAC unconditional, no historic territorial-completion precondition.",
     "planet_growth_2026_10_31": "Planet Year 0 real GDP growth recalibrated to creator-ratified 4%, not 7.5%; other period 1010 BAC/950 BAC historic references unchanged.",
     "fertility_recalibration_2026_10_31": "14 original countries: V6.4 candidate TFR ×1.02, 2-decimal; five additions: independent scenario values 1.66,1.72,1.89,1.73,2.01; aggregate 18-state TFR is population-weighted mathematical residual. This is explicitly not a biological true age-specific TFR aggregation without childbearing-age denominator.; The creator has now adopted these V6.5 numerical TFR outputs as CANON C, preserving population-weighted aggregation as the working definition rather than reclassifying as raw survey fact.",
-    "national_growth_recalibration_2026_10_31": "14 national pre-rebase real GDP growth ×0.535, round to 0.01 percentage point; five new country growth scenarios 4.25%,3.90%,4.10%,4.20%,4.00%; remaining 18-country GDP-weighted growth residual chosen to close planet 4%. Relative historic rates preserved approximately, absolute planet 7.5% replaced.; The creator has now adopted these V6.5 national and 18-state residual growth figures as CANON C, with GDP share weighted accounting assumptions preserved."
+    "national_growth_recalibration_2026_10_31": "14 national pre-rebase real GDP growth ×0.535, round to 0.01 percentage point; five new country growth scenarios 4.25%,3.90%,4.10%,4.20%,4.00%; remaining 18-country GDP-weighted growth residual chosen to close planet 4%. Relative historic rates preserved approximately, absolute planet 7.5% replaced.; The creator has now adopted these V6.5 national and 18-state residual growth figures as CANON C, with GDP share weighted accounting assumptions preserved.",
+    "current_currency_codes": {
+      "Krisberia": "KRF",
+      "Mapether": "MWV",
+      "status": "Canon C — sole active code each",
+      "ratified_date": "2026-10-31"
+    },
+    "kalgered_consumption_ratification_2026_10_31": "Creator adopted Option C (2/18/45/30/5) and respective daily KAL category boundaries for Year 0. Historical 99% survey remains archived under content/statistics/kalgered-remodeling-history-log.md; unratified representative points and hypothetical mean are not observed national expenditure."
   },
   "planet": {
     "population_billion": 4412,
@@ -1063,18 +1069,8 @@
     },
     {
       "severity": "P1",
-      "code": "SOURCE_MIGRATION_V4_V6",
-      "description": "V3/V4 historical JSON and many content paragraphs still carry superseded five-way ratios or 14-state ancestry; active V6.5 C ledger is newest decision; legacy archive labels are historical provenance"
-    },
-    {
-      "severity": "P1",
       "code": "GDP_SECTOR_VALIDATION",
       "description": "sector GDP value added targets require bottom-up capital/labor/trade calibration, no double counting"
-    },
-    {
-      "severity": "P1",
-      "code": "FX_LOCAL_CODE_CROSSWALK",
-      "description": "KRB/KRF and MPT/MWV historical currency codes not resolved"
     },
     {
       "severity": "P1",
@@ -1082,14 +1078,9 @@
       "description": "planet representation 14-based is not separate census of each new state"
     },
     {
-      "severity": "P1",
-      "code": "KALGERED_SPENDING_99_PERCENT",
-      "description": "legacy 99% spending strata still lacks creator approved reclassification"
-    },
-    {
       "severity": "P2",
-      "code": "EMPTY_CONTENT_STUBS",
-      "description": "two existing blank Markdown files outside current country-profile scope"
+      "code": "KALGERED_CONSUMPTION_SURVEY_MICRODATA_UNASSIGNED",
+      "description": "Creator ratified five-band fictional Year 0 consumption distribution; observed household/person microdata, within-band means and sample uncertainty remain unavailable; former 99% classification is archival only."
     }
   ],
   "migration_year0": {
@@ -1330,15 +1321,28 @@
     "status": "C",
     "ratified_date": "2026-10-31",
     "authority": "Creator's most recent decision in this conversation supersedes contradictory historic V2/V3/V4 sources",
-    "scope": "ALL currently populated NCCM V6.5 Year 0 worldbuilding remodeling values are adopted as canonical model values, including 14+5+18 nation partition, 75B migration, six-way primary ancestry, 19 national population/SDI/TFR/growth, macro GDP/GNI accounting, 18-state aggregate residuals, sovereign founding chronology and Stelpadland debt/finished furniture",
+    "scope": "ALL currently populated NCCM V6.5 Year 0 worldbuilding remodeling values are adopted as canonical model values, including 14+5+18 nation partition, 75B migration, six-way primary ancestry, 19 national population/SDI/TFR/growth, macro GDP/GNI accounting, 18-state aggregate residuals, sovereign founding chronology and Stelpadland debt/finished furniture; sole active national currency codes KRF (Krisberia) and MWV (Mapether)",
     "interpretation": "C means creator-approved truth within the adopted modeling universe, including derived/accounting parameters; it does not assert independent historical observation, clinical species-specific cohort evidence, or detailed production microdata",
     "unknowns_remain_unknown": [
       "18 unallocated individual national profiles",
       "five added countries individual primary ancestry/land area and other unassigned measures",
       "species-specific reproductive cohort ages and underlying total fertility measurement",
-      "separately measured real GDP chain-volume deflators",
-      "unresolved historical currency-code equivalences"
+      "separately measured real GDP chain-volume deflators"
     ],
     "supersedes": "Older V2/V3/V4 current-year tables, five-category 58/22/10/7/3 lineage, 23-state residual, 7.5% Year 0 growth, unratified 42% Stelpadland debt and any conditional 2320 BAC Krisberia founding"
+  },
+  "kalgered_year0_private_consumption": {
+    "classification": "creator_ratified_C_fictional_model",
+    "dataset": "data/asthortera/kalgered-consumption-v65.json",
+    "methodology": "content/statistics/kalgered-consumption-methodology-v65.md",
+    "historical_log": "content/statistics/kalgered-remodeling-history-log.md",
+    "year0_population_billion": 108,
+    "category_count": 5,
+    "share_sum": 1,
+    "reference_unit": "KAL per resident per day",
+    "ratification_date": "2026-10-31",
+    "empirical_survey": false,
+    "mean_observed": null,
+    "representative_spending_scenario_not_ratified": true
   }
 }

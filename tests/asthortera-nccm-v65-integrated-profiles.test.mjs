@@ -24,9 +24,16 @@ test('All 19 Year 0 national profiles are creator-ratified C and deterministical
   if(c.ancestry_primary_pct==null)assert.match(gate,/national six-way primary ancestry: \*\*Unassigned \(not zero\)\*\*/i,c.name);
  }
 });
-test('All 14 old V3 national tables are labelled historical and cannot override V6.5',()=>{
+test('Fourteen historic V3 tables remain archived; published Kalgered is clean',()=>{
  for(const c of ledger.countries_14){
   const src=read(c);
+  if(c.name==='Kalgered'){
+   assert.doesNotMatch(src,/## ARCHIVED — NCCM V3|<!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->/);
+   const log=readFileSync(path.join(root,'content/statistics/kalgered-remodeling-history-log.md'),'utf8');
+   assert.match(log,/## ARCHIVED — NCCM V3/);
+   assert.match(log,/<!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->/);
+   continue;
+  }
   assert.match(src,/## ARCHIVED — NCCM V3/,c.name);
   if(c.name!=='Reltronland')assert.match(src,/<!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->/,c.name);
  }
