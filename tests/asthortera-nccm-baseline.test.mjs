@@ -62,6 +62,6 @@ test("12-percent compounding is corrected and Kalgered residual is not hidden",(
   close(1e9*1.12**250,2.0160702802211032e21);
   assert.match(read("content/factions/reltronland.md"),/not a claim of 12% GDP growth every year for 250 years/);
   assert.equal(1+30+45+18+5,99);
-  assert.match(read("content/statistics/kalgered-remodeling-history-log.md"),/unreconciled 1 percentage point/);
+  assert.match(read("content/remodeling/kalgered-remodeling-history-log.md"),/unreconciled 1 percentage point/);
   assert.doesNotMatch(read("content/factions/kalgered.md"),/unreconciled 1 percentage point/);
 });

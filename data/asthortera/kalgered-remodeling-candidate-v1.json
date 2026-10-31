@@ -98,5 +98,5 @@
   },
   "gdp_status": "unknown; do not set GDP equal to population times GNI/capita without a net foreign primary income bridge",
   "current_canon_reference": "data/asthortera/kalgered-consumption-v65.json",
-  "historical_log": "content/statistics/kalgered-remodeling-history-log.md"
+  "historical_log": "content/remodeling/kalgered-remodeling-history-log.md"
 }
