@@ -129,6 +129,10 @@ test('Fourteen state GDP simulation sums to fixed world GDP but does not imperso
  eq(v.countries.reduce((s,x)=>s+x.census.population_billion,0),3288);
  for(const c of v.countries){
   if(c.name==='Reltronland')assert.match(read(c.source),/ARCHIVED — NCCM V3 Cross-Domain Benchmark/);
+  else if(c.name==='Kalgered'){
+   assert.doesNotMatch(read(c.source),/NCCM V3 — Cross-Domain Benchmark/);
+   assert.match(read('content/statistics/kalgered-remodeling-history-log.md'),/NCCM V3 — Cross-Domain Benchmark/);
+  }
   else assert.match(read(c.source),/NCCM V3 — Cross-Domain Benchmark/);
   if(c.name!=='Reltronland')assert.match(c.economy.core_gdp_nominal_usd_reference.status,/scenario/);
  }
