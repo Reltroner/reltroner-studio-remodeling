@@ -28,7 +28,7 @@
       "status": "Canon C — sole active code each",
       "ratified_date": "2026-10-31"
     },
-    "kalgered_consumption_ratification_2026_10_31": "Creator adopted Option C (2/18/45/30/5) and respective daily KAL category boundaries for Year 0. Historical 99% survey remains archived under content/statistics/kalgered-remodeling-history-log.md; unratified representative points and hypothetical mean are not observed national expenditure."
+    "kalgered_consumption_ratification_2026_10_31": "Creator adopted Option C (2/18/45/30/5) and respective daily KAL category boundaries for Year 0. Historical 99% survey remains archived under content/remodeling/kalgered-remodeling-history-log.md; unratified representative points and hypothetical mean are not observed national expenditure."
   },
   "planet": {
     "population_billion": 4412,
@@ -1334,8 +1334,8 @@
   "kalgered_year0_private_consumption": {
     "classification": "creator_ratified_C_fictional_model",
     "dataset": "data/asthortera/kalgered-consumption-v65.json",
-    "methodology": "content/statistics/kalgered-consumption-methodology-v65.md",
-    "historical_log": "content/statistics/kalgered-remodeling-history-log.md",
+    "methodology": "content/remodeling/kalgered-consumption-methodology-v65.md",
+    "historical_log": "content/remodeling/kalgered-remodeling-history-log.md",
     "year0_population_billion": 108,
     "category_count": 5,
     "share_sum": 1,

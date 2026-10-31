@@ -34,7 +34,7 @@ test('KAL 23050/day is only hypothetical reference mean, not surveyed national m
 });
 test('Historical 99% survey and V3/V4 data are archived outside production Kalgered',()=>{
  const profile=read('content/factions/kalgered.md');
- const history=read('content/statistics/kalgered-remodeling-history-log.md');
+ const history=read('content/remodeling/kalgered-remodeling-history-log.md');
  assert.match(profile,/Year 0 Daily Private Expenditure — NCCM V6\.5 Canon C/);
  assert.ok(profile.includes('**100%**'));
  assert.doesNotMatch(profile,/ARCHIVED UNRECONCILED 99%|NCCM V3 — Cross-Domain Benchmark|KAL 47,530\/day|KAL 17,956,408/);
@@ -44,8 +44,9 @@ test('Historical 99% survey and V3/V4 data are archived outside production Kalge
  assert.ok(!model.open_issues.some(x=>x.code==='KALGERED_SPENDING_99_PERCENT'));
 });
 test('Public methodology and glossary disclose provenance, and lack of empirical sampling',()=>{
- const m=read('content/statistics/kalgered-consumption-methodology-v65.md');
+ const m=read('content/remodeling/kalgered-consumption-methodology-v65.md');
  for(const v of ['World Population Prospects 2024','Trading Economics','Glossary','creator-ratified','not independent','Missing','Year 0','108.00 billion']) assert.ok(m.toLowerCase().includes(v.toLowerCase()),v);
- assert.match(m,/published: true/);
+ assert.match(m,/published: false/);
+ assert.match(m,/visibility: internal/);
  assert.equal(kal.external_real_world_sources_are_methodological_analogies_only,true);
 });

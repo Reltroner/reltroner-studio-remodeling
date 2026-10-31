@@ -1,8 +1,8 @@
 # NCCM V6.5 — Kalgered Decision Record and Sector Production Design Lab
 
-**Current decision:** Kalgered Option C five consumption brackets **RATIFIED CANON C** (2026-10-31), with 2/18/45/30/5 population shares and KAL/day boundaries. For current numbers and methodological definitions, see [Kalgered Statistical Release](../content/statistics/kalgered-consumption-methodology-v65.md) and [machine-readable Canon C record](../data/asthortera/kalgered-consumption-v65.json).
+**Current decision:** Kalgered Option C five consumption brackets **RATIFIED CANON C** (2026-10-31), with 2/18/45/30/5 population shares and KAL/day boundaries. For current numbers and methodological definitions, see [Kalgered Statistical Release](../content/remodeling/kalgered-consumption-methodology-v65.md) and [machine-readable Canon C record](../data/asthortera/kalgered-consumption-v65.json).
 
-**Historical Option A:** The previous 99% classified, 1% unassigned five-tier survey now exists **only in the [historical remodeling log](../content/statistics/kalgered-remodeling-history-log.md)**. It is **ARCHIVED**, not a competing current Year 0 census. The older candidate dataset is historical input, not a second active source.
+**Historical Option A:** The previous 99% classified, 1% unassigned five-tier survey now exists **only in the [historical remodeling log](../content/remodeling/kalgered-remodeling-history-log.md)**. It is **ARCHIVED**, not a competing current Year 0 census. The older candidate dataset is historical input, not a second active source.
 
 **What was *not* ratified:** Representative points of KAL 500/3,000/12,000/37,000/120,000 and their weighted scenario mean KAL 23,050/day are assumptions, not observed microdata; actual within-band means, age-specific sampling, confidence intervals and household-income links remain unassigned.
 

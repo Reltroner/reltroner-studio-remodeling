@@ -5,6 +5,8 @@ author: "Reltroner Studio"
 date: "2026-10-31"
 lastUpdated: "2026-10-31"
 published: false
+visibility: internal
+epistemicClassification: CREATIVE_FRAMEWORK
 canonStatus: "ARCHIVE ONLY — historical evidence, not Year 0 Canon C"
 category: "Worldbuilding · Statistics · Data History"
 tags: ["Kalgered", "NCCM", "Historical Statistical Ledger", "Provenance", "Asthortera"]
@@ -14,7 +16,7 @@ tags: ["Kalgered", "NCCM", "Historical Statistical Ledger", "Provenance", "Astho
 
 **Archive scope and rule:** This is a non-production-facing archive of Kalgered's *statistical and modeling version history*, not a deletion of actual Asthorteran cultural or political history. Historical narrative events (e.g. 1010 BAC Treaty) remain in the country profile. **None of the archived statistics or candidate assumptions below override the current NCCM V6.5 Canon C.**
 
-**Current authoritative model:** [NCCM V6.5 ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [Kalgered Year 0 consumption dataset](../../data/asthortera/kalgered-consumption-v65.json) · [Public statistical methodology and glossary](./kalgered-consumption-methodology-v65.md) · [National profile](../factions/kalgered.md).
+**Current authoritative model:** [NCCM V6.5 ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [Kalgered Year 0 consumption dataset](../../data/asthortera/kalgered-consumption-v65.json) · [Internal statistical methodology and glossary](./kalgered-consumption-methodology-v65.md) · [National profile](../factions/kalgered.md).
 
 ## Source lineage and version-controlled audit
 

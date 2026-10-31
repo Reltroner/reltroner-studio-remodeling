@@ -294,7 +294,7 @@ Primary ancestry is mutually exclusive; all six currently assigned classes total
 
 These are **daily spending** brackets, **not** salary, wealth, GDP per person or the basis of income Gini **0.210**. The value for average *observed* daily spending is **not assigned**. Category population estimates are derived from the resident denominator, not from an independently conducted census.
 
-[Indicator methodology, data sources and glossary](../statistics/kalgered-consumption-methodology-v65.md).
+[Indicator methodology, data sources and glossary](../statistics/kalgered-consumption-v65.md).
 
 ------------------------------------------------------------------------
 
@@ -302,7 +302,7 @@ These are **daily spending** brackets, **not** salary, wealth, GDP per person or
 
 ### Year 0 Economic Growth
 
-The NCCM V6.5 creator-ratified Year 0 real GDP growth model is **3.69%**. The country's national accounts keep **GDP**, **GNI**, **household private expenditure** and **government spending** as distinct statistics. [Definitions and sources](../statistics/kalgered-consumption-methodology-v65.md).
+The NCCM V6.5 creator-ratified Year 0 real GDP growth model is **3.69%**. The country's national accounts keep **GDP**, **GNI**, **household private expenditure** and **government spending** as distinct statistics. [Definitions and sources](../statistics/kalgered-consumption-v65.md).
 
 ## Main Economic Sectors
 

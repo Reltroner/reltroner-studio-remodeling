@@ -131,7 +131,7 @@ test('Fourteen state GDP simulation sums to fixed world GDP but does not imperso
   if(c.name==='Reltronland')assert.match(read(c.source),/ARCHIVED — NCCM V3 Cross-Domain Benchmark/);
   else if(c.name==='Kalgered'){
    assert.doesNotMatch(read(c.source),/NCCM V3 — Cross-Domain Benchmark/);
-   assert.match(read('content/statistics/kalgered-remodeling-history-log.md'),/NCCM V3 — Cross-Domain Benchmark/);
+   assert.match(read('content/remodeling/kalgered-remodeling-history-log.md'),/NCCM V3 — Cross-Domain Benchmark/);
   }
   else assert.match(read(c.source),/NCCM V3 — Cross-Domain Benchmark/);
   if(c.name!=='Reltronland')assert.match(c.economy.core_gdp_nominal_usd_reference.status,/scenario/);
@@ -141,7 +141,7 @@ test('Historic Kalgered and Taramistry century-growth perpetual claims were remo
  const k=read('content/factions/kalgered.md');
  const t=read('content/factions/taramistry.md');
  assert.doesNotMatch(k,/3\.0% real CAGR/);
- assert.match(read('content/statistics/kalgered-remodeling-history-log.md'),/3\.0% real CAGR/);
+ assert.match(read('content/remodeling/kalgered-remodeling-history-log.md'),/3\.0% real CAGR/);
  assert.match(k,/Year 0 Real GDP Growth \(NCCM V6\.5 C\):\*\* 3\.69%/);
  assert.match(t,/3\.5%/);
  assert.doesNotMatch(k,/Annual Economic Growth:\*\* 7% \(last 100 years average\)/);

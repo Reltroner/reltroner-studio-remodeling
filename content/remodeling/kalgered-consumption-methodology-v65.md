@@ -1,10 +1,12 @@
 ---
 title: "Kalgered Year 0 Consumption — Statistical Release, Sources and Glossary (NCCM V6.5)"
-description: "Public-oriented fictional statistical bulletin with creator-adopted daily spending brackets, transparent in-universe model provenance, denominators and limitations."
+description: "Internal reusable reference implementation for a fictional statistical bulletin with creator-adopted daily spending brackets, transparent in-universe model provenance, denominators and limitations."
 author: "Reltroner Studio"
 date: "2026-10-31"
 lastUpdated: "2026-10-31"
-published: true
+published: false
+visibility: internal
+epistemicClassification: CREATIVE_FRAMEWORK
 canonStatus: "C — fictional modeled category shares and boundaries; no empirical household survey"
 category: "Worldbuilding · Statistical Methodology"
 tags: ["Kalgered", "NCCM V6.5", "Data-Driven Worldbuilding", "Methodology"]
@@ -45,7 +47,7 @@ tags: ["Kalgered", "NCCM V6.5", "Data-Driven Worldbuilding", "Methodology"]
 
 The **fictional author/creator's ratification**, not a real-world statistics office, is the authoritative input. No imaginary government census bureau, field survey, primary questionnaire, ministry survey or external dataset is claimed as real evidence.
 
-## Glossary — how to read Reltroner Studio statistical releases
+## Glossary — reference implementation for all Reltroner Studio releases
 
 | Term | Definition |
 |---|---|
