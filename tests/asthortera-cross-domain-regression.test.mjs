@@ -70,14 +70,19 @@ test('Inclusive native/Cosmeilian lineage counts are not capped by primary ances
   assert.ok(scopes.native_asthorteran_lineage.candidate_planet_headcount > n*1e9);
   assert.equal(model.year0_planet_population,4.412e12);
 });
-test('Kalgered private expenditure candidate is explicitly noncanonical and sums to 100%',()=>{
+test('Archived Kalgered candidate is historical; new Canon C model has five spending classes summing to 100%',()=>{
   const k=JSON.parse(read('data/asthortera/kalgered-remodeling-candidate-v1.json'));
   assert.match(k.status,/not ratified/);
   eq(k.remodel_scenario.bands.reduce((s,b)=>s+b.share,0),1);
   const avg=k.remodel_scenario.bands.reduce((s,b)=>s+b.share*b.representative,0);
   eq(avg,23050);
   eq(k.year0.population,108e9);
-  eq(k.year0.gni_per_capita_kal_year,17956408);
+  eq(k.year0.gni_per_capita_kal_year,17956408); // archived model only
+  assert.match(k.year0.gni_per_capita_kal_year_status,/ARCHIVED/);
+  const release=JSON.parse(read('data/asthortera/kalgered-consumption-v65.json'));
+  assert.match(release.classification,/creator_ratified_C/);
+  eq(release.bands.reduce((a,x)=>a+x.population_share,0),1);
+  eq(release.bands.reduce((a,x)=>a+x.population_billion,0),108);
   eq(k.year0.sdi,.979);
 });
 
@@ -131,7 +136,9 @@ test('Fourteen state GDP simulation sums to fixed world GDP but does not imperso
 test('Historic Kalgered and Taramistry century-growth perpetual claims were remodeled',()=>{
  const k=read('content/factions/kalgered.md');
  const t=read('content/factions/taramistry.md');
- assert.match(k,/3\.0% real CAGR/);
+ assert.doesNotMatch(k,/3\.0% real CAGR/);
+ assert.match(read('content/statistics/kalgered-remodeling-history-log.md'),/3\.0% real CAGR/);
+ assert.match(k,/Year 0 Real GDP Growth \(NCCM V6\.5 C\):\*\* 3\.69%/);
  assert.match(t,/3\.5%/);
  assert.doesNotMatch(k,/Annual Economic Growth:\*\* 7% \(last 100 years average\)/);
  assert.doesNotMatch(t,/8% average over the past 100 years/);

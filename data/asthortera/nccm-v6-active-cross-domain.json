@@ -27,7 +27,8 @@
       "Mapether": "MWV",
       "status": "Canon C — sole active code each",
       "ratified_date": "2026-10-31"
-    }
+    },
+    "kalgered_consumption_ratification_2026_10_31": "Creator adopted Option C (2/18/45/30/5) and respective daily KAL category boundaries for Year 0. Historical 99% survey remains archived under content/statistics/kalgered-remodeling-history-log.md; unratified representative points and hypothetical mean are not observed national expenditure."
   },
   "planet": {
     "population_billion": 4412,
@@ -1077,9 +1078,9 @@
       "description": "planet representation 14-based is not separate census of each new state"
     },
     {
-      "severity": "P1",
-      "code": "KALGERED_SPENDING_99_PERCENT",
-      "description": "legacy 99% spending strata still lacks creator approved reclassification"
+      "severity": "P2",
+      "code": "KALGERED_CONSUMPTION_SURVEY_MICRODATA_UNASSIGNED",
+      "description": "Creator ratified five-band fictional Year 0 consumption distribution; observed household/person microdata, within-band means and sample uncertainty remain unavailable; former 99% classification is archival only."
     }
   ],
   "migration_year0": {
@@ -1329,5 +1330,19 @@
       "separately measured real GDP chain-volume deflators"
     ],
     "supersedes": "Older V2/V3/V4 current-year tables, five-category 58/22/10/7/3 lineage, 23-state residual, 7.5% Year 0 growth, unratified 42% Stelpadland debt and any conditional 2320 BAC Krisberia founding"
+  },
+  "kalgered_year0_private_consumption": {
+    "classification": "creator_ratified_C_fictional_model",
+    "dataset": "data/asthortera/kalgered-consumption-v65.json",
+    "methodology": "content/statistics/kalgered-consumption-methodology-v65.md",
+    "historical_log": "content/statistics/kalgered-remodeling-history-log.md",
+    "year0_population_billion": 108,
+    "category_count": 5,
+    "share_sum": 1,
+    "reference_unit": "KAL per resident per day",
+    "ratification_date": "2026-10-31",
+    "empirical_survey": false,
+    "mean_observed": null,
+    "representative_spending_scenario_not_ratified": true
   }
 }

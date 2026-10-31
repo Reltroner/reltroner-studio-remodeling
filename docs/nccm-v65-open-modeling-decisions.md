@@ -1,24 +1,12 @@
-# NCCM V6.5 — Kalgered Spending and Sector Production Design Lab
+# NCCM V6.5 — Kalgered Decision Record and Sector Production Design Lab
 
-**Status: NONCANONICAL / FOR CREATOR REVIEW.** No new numerical ratification is made in this file.
+**Current decision:** Kalgered Option C five consumption brackets **RATIFIED CANON C** (2026-10-31), with 2/18/45/30/5 population shares and KAL/day boundaries. For current numbers and methodological definitions, see [Kalgered Statistical Release](../content/statistics/kalgered-consumption-methodology-v65.md) and [machine-readable Canon C record](../data/asthortera/kalgered-consumption-v65.json).
 
-## Fixed canon constraints
+**Historical Option A:** The previous 99% classified, 1% unassigned five-tier survey now exists **only in the [historical remodeling log](../content/statistics/kalgered-remodeling-history-log.md)**. It is **ARCHIVED**, not a competing current Year 0 census. The older candidate dataset is historical input, not a second active source.
 
-Planet: 37 sovereign states; **4,412B** residents, split **3,213B (14) + 395B (5) + 804B (18 aggregate)**, and 75B **internal** transfer. SDI 0.947, TFR proxy 1.63, real GDP growth 4.00%, and Model B nominal GDP USD 1.12973806397464e23. Kalgered 108B residents, SDI 0.979, Gini 0.210, KAL currency, and currently ratified national GDP/GNI anchors cannot be changed by this brainstorm.
+**What was *not* ratified:** Representative points of KAL 500/3,000/12,000/37,000/120,000 and their weighted scenario mean KAL 23,050/day are assumptions, not observed microdata; actual within-band means, age-specific sampling, confidence intervals and household-income links remain unassigned.
 
-## A. Kalgered spending: incomplete historical sample
-
-Historical bands classify **1% / 30% / 45% / 18% / 5% = 99%**. These are daily PRIVATE SPENDING categories, not income quintiles or a complete Year 0 household survey.
-
-| Alternative | Interpretation | Recommendation |
-|---|---|---|
-| A. Missingness preserved | **99% classified + 1% unassigned, not zero** | Safest archival disclosure; no invented category |
-| B. Rescale by 99 | Normalize all old percentages mathematically but alter observed values | Avoid without explicit approval |
-| C. Independent new census | Existing candidate **2/18/45/30/5** under revised daily brackets **0–999.99 / 1,000–4,999.99 / 5,000–19,999.99 / 20,000–59,999.99 / 60,000+ KAL** | Consider for future model; **NOT RATIFIED** |
-
-Under the existing NONCANONICAL candidate representative spending values **KAL 500/3,000/12,000/37,000/120,000**, option C yields **KAL 23,050/day** as modeled mean private spending, not audited expenditure. Year 0 Model B GDP/GNI per person is **not disposable income**. Comparing the two without tax, transfers, corporate retention, government in-kind services, household structures and CPI would be an accounting category error.
-
-**To ratify a new distribution**, settle: denominator resident/household, sample period Year 0, exclusive category thresholds, survey uncertainty, actual representative within-band spending, fiscal/in-kind benefits, independent INCOME Gini reconstruction, and consumption expenditure accounts. The outstanding 1% is never silently allocated.
+**Other unresolved domain:** The five-country sector capital/labor/input-output design below remains **NONCANONICAL / NOT RATIFIED** and does not change the existing sector target percentages.
 
 ## B. Five-country sector value-added: reconcile labor and capital without inventing them
 

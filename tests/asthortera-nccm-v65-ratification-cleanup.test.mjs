@@ -21,9 +21,11 @@ test('Old dev papers are archives and empty stub files are deleted',()=>{
  for(const p of ['content/blog/how-i-built-249k-startup-idea.md','content/statistics/sdi-character.md'])assert.ok(!fs.existsSync(path.join(root,p)),p);
  for(const p of ['content/statistics/asthortera-nccm-remodeling.md','content/statistics/asthortera-phantomkind-demography-v4.md','content/statistics/asthortera-37-country-lineage-and-kalgered-remodeling.md'])assert.match(read(p),/ARCHIVED — V[234]/);
 });
-test('Open Kalgered spending and sector accounts cannot silently ratify new data',()=>{
+test('Kalgered spending is separately ratified while sector accounts remain proposals',()=>{
  const s=read('docs/nccm-v65-open-modeling-decisions.md');
- for(const t of ['NONCANONICAL','99% classified','NOT RATIFIED','gross output − intermediate consumption'])assert.ok(s.includes(t),t);
+ for(const t of ['NONCANONICAL','RATIFIED CANON C','NOT RATIFIED','gross output − intermediate consumption'])assert.ok(s.includes(t),t);
+ assert.match(read('content/statistics/kalgered-remodeling-history-log.md'),/99% classified/);
+ assert.doesNotMatch(read('content/factions/kalgered.md'),/ARCHIVED UNRECONCILED 99%|NCCM V3 — Cross-Domain Benchmark/);
  for(const c of m.countries_5)assert.equal(c.sectors_value_added_pct.reduce((n,x)=>n+x.share,0),100);
  assert.equal(m.planet.year0.tfr,1.63);assert.equal(m.planet.year0.real_gdp_growth,.04);
 });

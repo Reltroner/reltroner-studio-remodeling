@@ -91,7 +91,7 @@ function patchNational(raw,c,j){
  }
  if(c.name==="Kalgered"){
   const begin=text.indexOf("## Population by Origin"),end=text.indexOf("## Gender Ratio",begin);
-  if(begin>=0&&end>begin)text=text.slice(0,begin)+table("## Population by Origin")+"Primary ancestry is mutually exclusive; the old 35% Native five-way classification was superseded by 33% Native and 2% Phantomkind in NCCM V6.5.\n\n"+text.slice(end);
+  if(begin>=0&&end>begin)text=text.slice(0,begin)+table("## Population by Origin")+"Primary ancestry is mutually exclusive; all six currently assigned classes total 100%.\n\n"+text.slice(end);
  }
  if(c.name==="Aurastelia"){
   text=text.replace("**🔹 Ethnic Group:** *Cosmic Entities & Light Beings*\n**📊 Percentage:** 4%","**🔹 Ethnic Group:** *Cosmic Entities & Light Beings (Other primary)*\n**📊 Percentage:** 3%");
