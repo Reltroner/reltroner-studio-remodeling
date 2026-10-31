@@ -16,6 +16,8 @@ tags:
 
 # Asthortera — Narrative-Constrained Civilizational Modeling (NCCM V2)
 
+> **ARCHIVED — V2; NOT CURRENT YEAR 0 CANON (2026-10-31).** This unpublished historical paper is retained as provenance only. Its old census, ancestry, economic, SDI or country-code crosswalks do not supersede [NCCM V6.5 Canon C](./asthortera-nccm-v6-active-cross-domain.md).
+
 **Decision record: 2026-10-30.** The creator ratifies **58/22/10/7/3** as the Year 0 planetary ancestry split and requests explicit mathematical repair of all P0 contradictions alongside methodological design for P1. This development ledger follows the binding [Master Source of Truth](../principles/reltroner-studio-master-source-of-truth.md), the [Civilizational Systems framework](../principles/civilizational-systems-worldbuilding-asthortera.md), and dated [historical narrative](../events/history-timeline.md). It does **not** falsely claim an already completed full annual 1010-year simulation.
 
 ## Source hierarchy and evidence status

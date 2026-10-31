@@ -122,7 +122,7 @@ Mapether is a highly developed society with factories, trade institutions and pu
 | Cultural urban center | **Bonether**, referenced in development notes for fashion and classical visual culture |
 | Government capital | **Not independently established**; Bonether must not be silently designated capital |
 | Modern language ancestry | Primarily Depeisian, with an earlier Beluftner linguistic substrate |
-| Scenario currency | **MWV**; legacy **MPT** in ALREO must be reconciled |
+| Scenario currency | **MWV**, sole active national currency code (Canon C) |
 | National flag | Not yet formally ratified; character hat motif is distinct from a constitutional flag |
 
 ### Civilizational proposition
@@ -266,7 +266,7 @@ Individual dignity must not depend on clothing brand, personal aesthetics, econo
 | Nominal annual GDP after 10× uplift | **approximately USD 1.1346 × 10²¹** | Provisional output allocation |
 | Annual GDP/head | **approximately USD 15.332 billion** | Derived proxy from GDP / population |
 | Annual GNI/head | **approximately USD 15.332 billion** | Assumes net foreign primary income = zero |
-| V6 proposed currency code | **MWV** | Subject to legacy-code reconciliation |
+| Current currency code (Canon C) | **MWV** | Sole active national identifier |
 | Proposed FX quotation | **1 MWV = USD 77.60** | Hypothetical, not historical market quotation |
 | Illustrative local GNI/head | **approximately 197.58 million MWV/year** | Derived via proposed FX |
 | National census ancestry / Phantomkind rate | **Open** | Do not copy 14-country planetary representative distribution into national statistics |
@@ -299,7 +299,7 @@ The total is **100% gross value added**. These percentages do **not** describe s
 - **Currency:** an expensive nominal currency unit alone does not demonstrate higher real purchasing power or welfare.
 - **SDI:** represents individual capability and institutional conditions, not nationality-based biological superiority.
 
-**Legacy currency conflict:** the more recent FX proposal uses **MWV** and **USD 77.60 per MWV**. The existing [ALREO source](../laws/alreo.md) quotes Mapether hourly labor amounts in **MPT**. These codes must **not** be treated as equivalent at a 1:1 conversion until an explicit monetary crosswalk, obsolete-code designation or redenomination law is approved. Keep historical MPT text intact.
+**Currency code ratified (2026-10-31):** **MWV** is the sole active Mapetheran code, also used in [ALREO](../laws/alreo.md). USD 77.60 per MWV is a canon model quotation, not independent evidence of actual FX, real wages or any historical conversion.
 
 **Nominal versus real:** fashion luxury prices and strong nominal USD quotations cannot establish household purchasing power. Model actual wages, household distribution, materials, import content, manufacturing automation, final consumption and prices independently.
 
@@ -387,7 +387,7 @@ This is a **Countryball storytelling persona**, not a universal psychological pr
 Outstanding issues:
 
 - Confirm the political **capital**, distinct from the cultural references to **Bonether**.
-- Resolve **MWV versus MPT** and define any currency redenomination and foreign exchange history.
+- **Resolved:** MWV is the sole active national currency; market FX and purchasing power remain to be measured.
 - Establish the modern land area, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration.
 - Ratify the six-category national ancestry table; the planetary representative average is not a local census.
 - Differentiate fashion manufacturing, textiles, design IP and export margins without double counting.
@@ -404,7 +404,7 @@ Outstanding issues:
 | Sovereign foundation 2164 BAC | **Canon C**; distinct from historical expansion scenarios |
 | Distinct cultural and economic identity | Worldbuilding identity developed from existing source motifs |
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
-| Currency codes and exchange-rate assignments | Explicit crosswalk needed against legacy records |
+| Currency code and modeled FX | **MWV** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
 | Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |

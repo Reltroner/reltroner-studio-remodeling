@@ -122,7 +122,7 @@ Krisberia is described in a Reltronland border source as a **crystalline kingdom
 | Language lineage | **Aurastelian-derived** branch; specific national language name unresolved |
 | Existing special relationship | Peaceful eastern border with Reltronland's **Leastroper** province |
 | National flag and emblem | Proposed crystal facet; not yet separately canonized as the sovereign flag |
-| Currency | **KRF**, scenario; older legal source **KRB** requires explicit reconciliation |
+| Currency | **KRF**, sole active national currency code (Canon C) |
 | Working motto | *Precision Without Vanity. Beauty With Integrity* — proposed |
 
 **Krisberia was founded as a sovereign nation in 2320 BAC, unconditionally ratified by the creator on 2026-10-31.** No prior attainment of 100% territorial extent by Aurastelia or Astrostelia is required. Earlier conditions are superseded, not outstanding.
@@ -246,7 +246,7 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 | Nominal annual GDP after 10× uplift | **approximately USD 0.9545 × 10²¹** | Provisional output allocation |
 | Annual GDP/head | **approximately USD 16.457 billion** | Derived proxy from GDP / population |
 | Annual GNI/head | **approximately USD 16.457 billion** | Assumes net foreign primary income = zero |
-| V6 proposed currency code | **KRF** | Subject to legacy-code reconciliation |
+| Current currency code (Canon C) | **KRF** | Sole active national identifier |
 | Proposed FX quotation | **1 KRF = USD 86.20** | Hypothetical, not historical market quotation |
 | Illustrative local GNI/head | **approximately 190.92 million KRF/year** | Derived via proposed FX |
 | National census ancestry / Phantomkind rate | **Open** | Do not copy 14-country planetary representative distribution into national statistics |
@@ -279,7 +279,7 @@ The total is **100% gross value added**. These percentages do **not** describe s
 - **Currency:** an expensive nominal currency unit alone does not demonstrate higher real purchasing power or welfare.
 - **SDI:** represents individual capability and institutional conditions, not nationality-based biological superiority.
 
-**Legacy currency conflict:** the preceding FX discussion proposed **KRF** with **USD 86.20 per KRF**, while the existing [ALREO legal text](../laws/alreo.md) quotes wages in **KRB**. Until the creator establishes whether KRF supersedes KRB, represents a redenomination, or is a separate reporting code, **do not convert historical KRB contracts by treating them as KRF at parity**. Historical legal text must be preserved as an unresolved source discrepancy.
+**Currency code ratified (2026-10-31):** **KRF** is the sole active Krisberian code, also used in [ALREO](../laws/alreo.md). USD 86.20 per KRF is a canon model quotation, not independent evidence of actual FX, real wages or any historical conversion.
 
 **Resource cost:** mining and purification consume energy, labor and materials; a high market price and the country's peaceful diplomacy do not automatically ensure that extraction is sustainable.
 
@@ -361,7 +361,7 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 
 1. Research the earliest Aurastelian migration and the initial rise of independent Krisberian craft institutions; **2320 BAC is already finalized** and needs no prerequisite.
 2. Name the actual capital, formal government system and the relationship between the kingdom title and constitutional accountability.
-3. Decide whether the national currency is **KRF**, **KRB**, or a documented redenomination/legacy code arrangement.
+3. **Resolved:** KRF is the sole active national currency; market FX and purchasing power remain to be measured.
 4. Create the national six-category ancestry table, species-aware longevity, cohort model and local demographic series.
 5. Establish geology, modern land area, reserve extraction rules and national density.
 6. Derive actual GDP through materials supply chains and services while preserving the NCCM V6 macro contribution target.
@@ -377,7 +377,7 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 | Sovereign foundation 2320 BAC | **Canon C — unconditional**, no Aurastelia/Astrostelia territorial prerequisite |
 | Distinct cultural and economic identity | Worldbuilding identity developed from existing source motifs |
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
-| Currency codes and exchange-rate assignments | Explicit crosswalk needed against legacy records |
+| Currency code and modeled FX | **KRF** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
 | Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |

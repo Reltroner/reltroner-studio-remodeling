@@ -180,9 +180,13 @@ for(const x of ['**307 years**','**249 years**','**215 years**','0.852'])inspect
 for(const [file,txt] of files)if(!txt.trim())warning('EMPTY_CONTENT_STUB',file);
 warning('DEFERRED_18_CENSUS','18 nations retain creator-approved unsplit 804B resident aggregate; not independent observations');
 warning('MIGRATION_RESIDUAL_SDI_CALIBRATION','The residual 18-nation SDI is recalibrated to maintain 0.947 planetary SDI while all 19 individual national SDIs remain fixed');
-warning('HISTORICAL_SOURCE_CROSSWALK','V3/V4 historical content still contains superseded ancestries and nominal GDP before integrated uplift');
+warning('ARCHIVE_V2_V3_V4_ONLY','Old model snapshots are provenance, not live NCCM V6.5 values');
 warning('KALGERED_SPENDING_99','Pre-V6 spending strata sum to 99%, require separate creator decision');
-warning('NCCM_FX_CODE_CROSSWALK','Mapether MPT/MWV and Krisberia KRB/KRF historical currency identifiers still open');
+inspect(v.countries_5.find(x=>x.name==='Krisberia')?.fx.code==='KRF'&&v.countries_5.find(x=>x.name==='Mapether')?.fx.code==='MWV','RATIFIED_NATIONAL_FX_CODES','KRF / MWV Canon C');
+inspect(v.provenance.current_currency_codes?.Krisberia==='KRF'&&v.provenance.current_currency_codes?.Mapether==='MWV'&&!v.open_issues.some(x=>x.code==='FX_LOCAL_CODE_CROSSWALK'),'FX_CODE_CROSSWALK_CLOSED','Code ambiguity removed');
+inspect((files.get('content/laws/alreo.md')||'').includes('75 MWV/hour')&&(files.get('content/laws/alreo.md')||'').includes('78 KRF/hour'),'ALREO_FX_CLEAN','ALREO must use new codes');
+inspect((files.get('content/statistics/sentient-population.md')||'').includes('47.511618%')&&!(files.get('content/statistics/sentient-population.md')||'').includes('58% Humans of Depeisit'),'PUBLISHED_ANCESTRY_V65','Published content must use V6.5');
+inspect(!files.has('content/blog/how-i-built-249k-startup-idea.md')&&!files.has('content/statistics/sdi-character.md'),'STUB_DELETIONS_CONFIRMED','Both placeholders deleted');
 warning('SECTOR_CAPITAL_LABOR_MODEL','Sector shares are value-added targets, not independently calibrated input-output matrices');
 info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_original_14_billion',value:3213},{metric:'population_eastern_5_billion',value:395},{metric:'migration_billion',value:75},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});
 const output={status:issues.some(x=>x.severity==='P0')?'FAIL_UNRESOLVED_P0':'PASS_P0',scanned_markdown_count:docs.length,info,issues};

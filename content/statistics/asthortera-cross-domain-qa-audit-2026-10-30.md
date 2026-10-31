@@ -17,6 +17,8 @@ tags:
 
 # Asthortera Cross-Domain Statistical QA Audit
 
+> **ARCHIVED — V3; NOT CURRENT YEAR 0 CANON (2026-10-31).** This unpublished historical paper is retained as provenance only. Its old census, ancestry, economic, SDI or country-code crosswalks do not supersede [NCCM V6.5 Canon C](./asthortera-nccm-v6-active-cross-domain.md).
+
 **Historical V3 audit snapshot, superseded for Beluftner census on 2026-10-30.** The historical figures below (7% Beluftner Cosmeilian, 2% Other, 539.750B Cosmeilian subtotal) remain archival records only. The later creator-ratified **6% Phantomkind / 2% Cosmeilian / 1% Other** partition yields a **535.200B** fourteen-country Cosmeilian primary subtotal and a **5.460B** known Phantomkind-primary count. Refer to [NCCM V4 demography](./asthortera-phantomkind-demography-v4.md) and [NCCM V4 QA findings](./asthortera-cross-domain-qa-v4-2026-10-30.md) for current source of truth.
 
 **Audit scope:** repository `Reltroner/reltroner-studio`, branch `main`, **2026-10-30**. At inventory time, **427 Markdown files in `content/`**, **21 files in `content/factions/`**, and **19 in `content/statistics/`** (before adding this report). **All 21 faction files and all 19 then-existing statistics files were read for relevant quantitative facts**. Additional planetary, timeline, philosophical, and infrastructure references were searched and selectively verified. This is **not** a false claim of manually performing a line-by-line semantic review of all 427 articles: a separate automated scan is supplied for full content-tree coverage, while deeper narrative causality across all article types remains work to do.
@@ -107,7 +109,7 @@ The profiled countries' population-weighted SDI is **~0.958638**. If planetary S
 | **P1** | AST-MONEY-006 | Incomplete FX, PPP, price index and national GDP/GNI bridge | Per-currency reporting rates and harmonized GDP value-added perimeter |
 | **P1** | AST-AGE-007 | Year 0 median age 252 and life expectancy 475 not cohort-reconciled with 1010 BAC longevity 80 | Age-specific survival, fertility and migration time series |
 | **P1** | AST-SDI-008 | [Individual SDI score matrix](./sdi-score-matrix.md) uses sanctions/exile language; [Civilizational Systems](../principles/civilizational-systems-worldbuilding-asthortera.md) affirms dignified material floor and agency | Differentiate assessment for individuals from planet SDI; constitutional due process, non-discrimination and access rules |
-| **P2** | AST-EMPTY-009 | [sdi-character.md](./sdi-character.md) is zero bytes | Intentional stub vs missing article; do not fabricate content |
+| **P2** | AST-EMPTY-009 | sdi-character.md was recorded as an empty historical stub and was subsequently deleted | Intentional stub vs missing article; do not fabricate content |
 | **P2** | AST-CONTENT-010 | Numeric summary copies can drift across hundreds of Markdown files | Machine-readable source references, validation in CI, provenance and dated snapshots |
 
 ## Statistical dependency rules

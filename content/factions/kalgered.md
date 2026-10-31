@@ -279,7 +279,9 @@ Primary ancestry is mutually exclusive; the old 35% Native five-way classificati
 -   Male: 51%
 -   Female: 49%
 
-## Daily Spending Categories
+## Daily Spending Categories — ARCHIVED UNRECONCILED 99% SURVEY
+
+**NCCM V6.5 rule:** The missing 1 percentage point is **unassigned, not zero**. Never normalize the 99% by assumption or promote the unrelated 2/18/45/30/5 proposal as a measured distribution. [Kalgered and sector-account modeling options](../../docs/nccm-v65-open-modeling-decisions.md) remain NONCANONICAL. Canon population, SDI, Gini and GDP/GNI stay unchanged.
 
 **Accounting and remodeling notice (2026-10-30):** the **archived, unratified V1** five-tier table below is **not a complete reconciled distribution**, and must not be used to calculate income Gini or current annual private spending. The band thresholds alone yield **at least KAL 47,530/day** in average minimum private spending across the stated 99% classified population, versus **archived pre-Model-B KAL 49,195.64/day** (current V6.5 modeled GNI capacity ≈ **KAL 758,765/day**, not actual expenditure). This is a significant cross-domain modeling constraint, not merely a 1% rounding issue.
 
