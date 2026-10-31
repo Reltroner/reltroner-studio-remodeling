@@ -29,7 +29,7 @@ test('Fourteen historic V3 tables remain archived; published Kalgered is clean',
   const src=read(c);
   if(c.name==='Kalgered'){
    assert.doesNotMatch(src,/## ARCHIVED — NCCM V3|<!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->/);
-   const log=read('content/statistics/kalgered-remodeling-history-log.md');
+   const log=readFileSync(path.join(root,'content/statistics/kalgered-remodeling-history-log.md'),'utf8');
    assert.match(log,/## ARCHIVED — NCCM V3/);
    assert.match(log,/<!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->/);
    continue;
