@@ -63,6 +63,30 @@ tags:
 
 **Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Known migrant cohorts carry their source classification; they do not determine the ancestry percentages of the entire recipient country.
 
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **77%** |
+| Active built urban | **7%** |
+| Operational low/biological-zero built urban | **9%** |
+| Dormant built urban | **7%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **79%** | **58.46** |
+| Underground | **10%** | **7.40** |
+| Underwater | **6%** | **4.44** |
+| Floating | **5%** | **3.70** |
+| **Total primary residents** | **100%** | **74.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
+
 ### National production and population continuity
 
 **Productive specialization:** Fashion and textiles. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
