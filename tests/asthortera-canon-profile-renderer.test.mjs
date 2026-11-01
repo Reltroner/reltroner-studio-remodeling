@@ -102,3 +102,26 @@ test('Reltronland spending, demography, digital economy and legacy modeling boun
  assert.match(profile.slice(v3archive),/not authoritative current Year 0 figures/);
  assert.match(profile.slice(v3archive),/supersede conflicting V3 figures/);
 });
+
+test('National six-way species percentages and derived resident headcounts close under fixed Year 0 populations',()=>{
+ const keys=[['depeisit','Depeisit'],['cistheta','Cistheta'],['cosmeilian','Cosmeilian'],['native','Native Asthorteran'],['phantomkind','Phantomkind / Spiritual Hybrid'],['other','Other']];
+ assert.equal(nations.reduce((sum,c)=>sum+c.population_billion,0),3608);
+ for(const c of nations){
+  const block=renderNational(c,model);
+  assert.match(block,/National resident share \| Derived residents \(billions\)/);
+  if(c.ancestry_primary_pct){
+   const total=keys.reduce((sum,[k])=>sum+c.population_billion*c.ancestry_primary_pct[k]/100,0);
+   assert.ok(Math.abs(total-c.population_billion)<1e-9,c.name+' national ancestry closure');
+   for(const [k,label] of keys){
+    const share=c.ancestry_primary_pct[k];
+    const pct=share.toFixed(share%1?1:0);
+    const count=(c.population_billion*share/100).toFixed(3);
+    assert.ok(block.includes('| '+label+' | **'+pct+'%** | **'+count+'** |'),c.name+' '+label);
+   }
+   assert.ok(block.includes('**'+c.population_billion.toFixed(3)+'**'),c.name+' sum');
+  }else{
+   for(const [,label]of keys)assert.ok(block.includes('| '+label+' | **Unassigned (not zero)** | **Unassigned (not zero)** |'),c.name+' '+label);
+   assert.doesNotMatch(block,/Estimated national ancestry|75B internal migration/);
+  }
+ }
+});

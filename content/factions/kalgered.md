@@ -40,16 +40,17 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **40%** |
-| Cistheta | **10%** |
-| Cosmeilian | **13%** |
-| Native Asthorteran | **33%** |
-| Phantomkind / Spiritual Hybrid | **2%** |
-| Other | **2%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **40%** | **43.200** |
+| Cistheta | **10%** | **10.800** |
+| Cosmeilian | **13%** | **14.040** |
+| Native Asthorteran | **33%** | **35.640** |
+| Phantomkind / Spiritual Hybrid | **2%** | **2.160** |
+| Other | **2%** | **2.160** |
+| **Total primary residents** | **100%** | **108.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 108.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
 
 ### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
 

@@ -91,6 +91,47 @@ Six-class primary ancestry, representative planetary population benchmark:
 | Ethaptoria | 84 | 1.9039% | 0.950 | 1.73 | 4.20% | 1.1065 |
 | Calespia | 91 | 2.0626% | 0.946 | 2.01 | 4.00% | 1.2352 |
 | **Residual 18 — one aggregate only** | **804** | **18.2230%** | **0.898402** | **1.900697** | **3.688731%** | **7.1779** |
+
+**Year 0 national six-class primary ancestry — 19-country coverage**
+
+The six percentages are *within each country's residents*, never its share of the planet. National percentages for the original 14 remain Canon C; the five added countries are **unassigned**, not zero. No interstate population movement is inferred.
+
+| Nation | Residents B | Depeisit % | Cistheta % | Cosmeilian % | Native % | Phantomkind % | Other % | Status |
+|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Reltronland | 855 | 64% | 22% | 4% | 5% | 2% | 3% | Canon C |
+| Depcutland | 343 | 79% | 10% | 3% | 4% | 2% | 2% | Canon C |
+| Kalgered | 108 | 40% | 10% | 13% | 33% | 2% | 2% | Canon C |
+| Aurastelia | 164 | 5% | 7% | 80% | 4% | 1% | 3% | Canon C |
+| Astrostelia | 185 | 9% | 16% | 64% | 6% | 1% | 4% | Canon C |
+| Lenternow | 174 | 25% | 28% | 38% | 5% | 2% | 2% | Canon C |
+| Taramistry | 242 | 54% | 25% | 12% | 5% | 2% | 2% | Canon C |
+| Moreg | 205 | 43% | 30% | 13% | 10% | 2% | 2% | Canon C |
+| Pencilfania | 182 | 55% | 23% | 14% | 3% | 2% | 3% | Canon C |
+| Stelpadland | 141 | 50% | 20% | 6% | 18% | 4% | 2% | Canon C |
+| Pasgerflit | 279 | 60% | 21% | 5% | 6% | 2% | 6% | Canon C |
+| Hargenbor | 133 | 41% | 40% | 6% | 8% | 3% | 2% | Canon C |
+| Beluftner | 91 | 0.2% | 0.5% | 2% | 90.3% | 6% | 1% | Canon C |
+| Cenrestier | 111 | 7% | 8% | 7% | 70% | 5% | 3% | Canon C |
+| Scenrepolia | 88 | — | — | — | — | — | — | Unassigned (not zero) |
+| Krisberia | 58 | — | — | — | — | — | — | Unassigned (not zero) |
+| Mapether | 74 | — | — | — | — | — | — | Unassigned (not zero) |
+| Ethaptoria | 84 | — | — | — | — | — | — | Unassigned (not zero) |
+| Calespia | 91 | — | — | — | — | — | — | Unassigned (not zero) |
+| **18 residual states (aggregate)** | **804** | — | — | — | — | — | — | **Unassigned** |
+
+**Current 14-country weighted composition — recalculated from 3,213B residents**
+
+| Exclusive primary category | Derived residents in original 14 (billions) | Share within original 14 |
+|---|---:|---:|
+| Depeisit | 1549.032 | 48.211391% |
+| Cistheta | 636.185 | 19.800342% |
+| Cosmeilian | 495.400 | 15.418612% |
+| Native Asthorteran | 369.163 | 11.489667% |
+| Phantomkind / Spiritual Hybrid | 71.890 | 2.237473% |
+| Other | 91.330 | 2.842515% |
+| **Total** | **3213.000** | **100% (unrounded)** |
+
+**Denominator boundary:** These weighted figures characterize only the original fourteen countries with assigned ancestry (3,213B). They are **not** a replacement for the separately creator-ratified representative planetary six-class benchmark (4,412B), nor a measured ancestry census of the five added nations or the remaining eighteen. The original reference's 3,288B working denominator is statistical provenance, not a history of migrations.
 <!-- END NCCM_V65_PLANETARY_CROSSDOC -->
 
 <!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->

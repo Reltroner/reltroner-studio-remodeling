@@ -53,16 +53,17 @@ tags:
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **Unassigned (not zero)** |
-| Cistheta | **Unassigned (not zero)** |
-| Cosmeilian | **Unassigned (not zero)** |
-| Native Asthorteran | **Unassigned (not zero)** |
-| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** |
-| Other | **Unassigned (not zero)** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cistheta | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cosmeilian | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Native Asthorteran | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Other | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| **Total primary residents** | **Not calculated** | **Unassigned** |
 
-**Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Countrywide ancestry cannot be inferred from the national resident count.
+**Scope:** Five added countries have no ratified countrywide six-class ancestry proportions. Neither the planetary ancestry reference nor the retired population-balancing worksheet determines those local percentages. Derived category headcounts remain unassigned, not zero.
 
 ### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
 

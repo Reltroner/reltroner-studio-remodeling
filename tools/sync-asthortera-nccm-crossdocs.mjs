@@ -40,6 +40,18 @@ function render(m,mode){
  "**Boundaries:** ratified accounting baseline 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C."
  ];
  if(mode==="full")s.push("","**Nineteen country-level canon C anchors**","","| Country | Residents B | Planet residents % | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |","|---|---:|---:|---:|---:|---:|---:|",...n.map(v=>`| ${v.name} | ${v.population_billion} | ${f(v.population_billion/p.population_billion*100,4)}% | ${f(v.sdi,3)} | ${f(v.tfr_candidate)} | ${f(v.real_gdp_growth*100)}% | ${f(v.gdp_usd_annual_V6/1e21,4)} |`),`| **Residual 18 — one aggregate only** | **${r.population_billion}** | **${f(r.population_billion/p.population_billion*100,4)}%** | **${f(r.sdi_population_weighted_required,6)}** | **${f(r.tfr_population_weighted_proxy_required,6)}** | **${f(r.real_gdp_growth_gdp_weighted_required*100,6)}%** | **${f(r.gdp_usd_annual_V6/1e21,4)}** |`);
+ if(mode==="full"){
+  const keys=[["Depeisit","depeisit"],["Cistheta","cistheta"],["Cosmeilian","cosmeilian"],["Native Asthorteran","native"],["Phantomkind / Spiritual Hybrid","phantomkind"],["Other","other"]];
+  const total14=m.countries_14.reduce((t,v)=>t+v.population_billion,0);
+  const shares=Object.fromEntries(keys.map(([,k])=>[k,m.countries_14.reduce((t,v)=>t+v.population_billion*v.ancestry_primary_pct[k]/100,0)]));
+  s.push("","**Year 0 national six-class primary ancestry — 19-country coverage**","","The six percentages are *within each country's residents*, never its share of the planet. National percentages for the original 14 remain Canon C; the five added countries are **unassigned**, not zero. No interstate population movement is inferred.","","| Nation | Residents B | Depeisit % | Cistheta % | Cosmeilian % | Native % | Phantomkind % | Other % | Status |","|---|---:|---:|---:|---:|---:|---:|---:|---|",
+   ...n.map(v=>`| ${v.name} | ${v.population_billion} | ${keys.map(([,k])=>v.ancestry_primary_pct==null?"—":f(v.ancestry_primary_pct[k],v.ancestry_primary_pct[k]%1?1:0)+"%").join(" | ")} | ${v.ancestry_primary_pct==null?"Unassigned (not zero)":"Canon C"} |`),
+   `| **18 residual states (aggregate)** | **${r.population_billion}** | — | — | — | — | — | — | **Unassigned** |`,
+   "","**Current 14-country weighted composition — recalculated from 3,213B residents**","","| Exclusive primary category | Derived residents in original 14 (billions) | Share within original 14 |","|---|---:|---:|",
+   ...keys.map(([name,k])=>`| ${name} | ${f(shares[k],3)} | ${f(100*shares[k]/total14,6)}% |`),
+   `| **Total** | **${f(total14,3)}** | **100% (unrounded)** |`,
+   "","**Denominator boundary:** These weighted figures characterize only the original fourteen countries with assigned ancestry (3,213B). They are **not** a replacement for the separately creator-ratified representative planetary six-class benchmark (4,412B), nor a measured ancestry census of the five added nations or the remaining eighteen. The original reference's 3,288B working denominator is statistical provenance, not a history of migrations.");
+ }
  s.push("<!-- END NCCM_V65_PLANETARY_CROSSDOC -->");
  return s.join("\n");
 }
