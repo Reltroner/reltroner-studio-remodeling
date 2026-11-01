@@ -55,6 +55,30 @@ coreTheme: "Civilization of Illumination"
 
 **Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
 
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **62%** |
+| Active built urban | **14%** |
+| Operational low/biological-zero built urban | **13%** |
+| Dormant built urban | **11%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **74%** | **128.76** |
+| Underground | **13%** | **22.62** |
+| Underwater | **3%** | **5.22** |
+| Floating | **10%** | **17.40** |
+| **Total primary residents** | **100%** | **174.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
+
 ### National production and population continuity
 
 **Productive specialization:** Light engineering, phosphor resources, luminance exports. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
