@@ -44,6 +44,8 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 13.233302 billion** |
 | Local currency / reference quotation | **HB** / USD 44.20 per unit |
 | Land area | **39 million km²** |
+| Civilian/public underwater urban minimum z | **−1,000 m** (maximum inhabited underwater depth) |
+| Sovereign maritime jurisdiction minimum z | **−36,000 m** (not a civilian residential zone) |
 | Median age | **251 years** |
 | Period life expectancy | **465 years** |
 | Urbanization | **87.50%** |
@@ -211,6 +213,10 @@ Its claimed oceanic depth extends:
 
 > **From 0 meters at sea level to approximately 36 kilometers below sea level.**
 
+**Civilian/public underwater urban habitation — Canon C (2026-11-01):** Permanent residential neighborhoods, family urban districts, schools, hospitality and publicly accessible civilian underwater cities are limited to the vertical corridor **z = 0 m through z = −1,000 m**, measured against local mean sea level. Natural daylight usually weakens well above the 1-km floor; civic habitats approaching the floor require engineered illumination. This is a **maximum permissible civilian depth**, not a claim that the entire corridor is permanently sunlit or habitable without pressure and life-support systems.
+
+The remaining depth down to **−36 km** stays within the existing maritime sovereignty framework for appropriately permitted naval, abyss-monitoring, scientific, infrastructural, transportation, and other **non-civilian-residential** purposes. Sovereignty and residence have separate spatial denominators. No permanent civilian town or public residential metropolis may be described below −1 km.
+
 This vertical sovereignty gives Hargenbor control over:
 
 * surface ports
@@ -238,7 +244,7 @@ Hargenbor’s underwater sovereignty is divided into several recognized depth la
 | ------------------ | ---------------: | -------------------- | -------------------------------------------------------------- |
 | Surface Layer      |              0 m | Sailor Surface       | Ports, ships, coastal tourism, naval patrol                    |
 | Coral Shelf        |   -1 m to -500 m | Coral Commonwealth   | Snorkeling, reef cities, aquaculture, marine education         |
-| Blue Descent       |  -500 m to -3 km | Midwater Corridor    | Submarine routes, underwater rail, marine logistics            |
+| Blue Descent       |  -500 m to -3 km | Midwater Corridor    | At −500 to −1,000 m: allowed civilian districts; below −1,000 m: non-residential transit, research and regulated logistics only |
 | Deep Blue Province |  -3 km to -12 km | Deepguard Zone       | Research bases, military surveillance, anomaly watch           |
 | Abyssal Province   | -12 km to -25 km | Abyssline Frontier   | Submarine bases, ancient ruins, abyssal extraction             |
 | Trench Crown       | -25 km to -36 km | Nytherion Watchfloor | Forbidden military zone, abyss monitoring, classified activity |
@@ -248,7 +254,7 @@ The deeper the layer, the less public Hargenbor becomes.
 
 The surface belongs to tourists, sailors, fishermen, and merchants.
 
-The middle depths belong to engineers, researchers, divers, submarine crews, and underwater citizens.
+The upper marine depths through **−1 km** support underwater civilian communities alongside engineers, researchers and divers. Below **−1 km**, sovereign deepwater layers serve authorized non-residential activities, including submarines, research operations and crews on bounded missions.
 
 The lowest depths belong to the navy, abyssal institutions, classified authorities, Henchoway networks, and Nytherion-linked strategic forces.
 

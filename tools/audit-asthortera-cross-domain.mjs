@@ -16,6 +16,7 @@ const v=get('data/asthortera/nccm-v6-active-cross-domain.json');
 const old=get('data/asthortera/nccm-v3-14-country-comparative-model.json');
 const historical=get('data/asthortera/national-cross-domain-audit-2026-10-30.json');
 const base=get('data/asthortera/nccm-baseline-v2.json');
+const kalgeredConsumption=get('data/asthortera/kalgered-consumption-v65.json');
 const P=v.planet,C=v.census;
 const issues=[],info=[];
 const error=(id,detail)=>issues.push({severity:'P0',id,detail});
@@ -59,7 +60,8 @@ for(const c of v.countries_14){
  inspect(files.has(c.source),'PROFILE_FILE_MISSING',c.source);
  if(!historic)continue;
  const leaving=v.migration_year0.routes.filter(x=>x.origin===c.name).reduce((sum,x)=>sum+x.population_billion,0);
- inspect(eq(c.population_billion,historic.census.population_billion-leaving)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,historic.census.land_area_million_km2),'NATIONAL_CENSUS_ANCHORS',c.name);
+ const knownHistoricalArea=c.name==='Beluftner'?363:historic.census.land_area_million_km2;
+  inspect(eq(c.population_billion,historic.census.population_billion-leaving)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,knownHistoricalArea),'NATIONAL_CENSUS_ANCHORS',c.name);
  inspect(eq(c.gdp_planet_share,historic.economy.planetary_gdp_share.value),'GDP_SHARE_UNCHANGED',c.name);
  inspect(eq(c.gdp_usd_annual_V6,10*historic.economy.core_gdp_nominal_usd_reference.value),'GDP_UPLIFT_10X',c.name);
  inspect(eq(c.sdi_individual_component*.6+c.sdi_institution_component*.4,c.sdi),'NATIONAL_SDI_COMPONENTS',c.name);
@@ -120,6 +122,14 @@ for(const c of v.countries_5){
  inspect(c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26,'FX_RANGE',c.name);
  inspect(c.country_specific_ancestry_status==='not_ratifed','DO_NOT_FABRICATE_5_NATION_ANCESTRY',c.name);
 }
+const ratifiedAreas={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91};
+for(const [name,area] of Object.entries(ratifiedAreas)) {
+ const country=[...v.countries_14,...v.countries_5].find(c=>c.name===name);
+ inspect(country?.land_area_million_km2===area,'RATIFIED_NATIONAL_LAND_AREA',name+' must keep '+area+' million km²');
+}
+inspect(v.countries_5.find(c=>c.name==='Scenrepolia')?.land_area_million_km2===null&&v.countries_5.find(c=>c.name==='Krisberia')?.land_area_million_km2===null,'UNRATIFIED_EASTERN_LAND_AREA_NULL','Do not invent Scenrepolia/Krisberia km²');
+const hs=v.countries_14.find(c=>c.name==='Hargenbor')?.maritime_spatial_canon;
+inspect(hs?.civilian_public_underwater_urban_z_min_m===-1000&&hs?.deepest_maritime_sovereignty_z_m===-36000&&hs?.civilian_underwater_population_pct===null,'HARGENBOR_CIVILIAN_DEPTH_BOUNDARY','Civilian residences max 1 km deep, sovereignty remains 36 km, population unknown');
 // Year 0 cross-domain V6.5 fertility and real GDP growth invariants.
 const activeNations=[...v.countries_14,...v.countries_5],rest18=v.aggregate_remaining_18;
 const modeledTFR=(sum(activeNations,c=>c.population_billion*c.tfr_candidate)+rest18.population_billion*rest18.tfr_population_weighted_proxy_required)/P.population_billion;
@@ -180,9 +190,18 @@ for(const x of ['**307 years**','**249 years**','**215 years**','0.852'])inspect
 for(const [file,txt] of files)if(!txt.trim())warning('EMPTY_CONTENT_STUB',file);
 warning('DEFERRED_18_CENSUS','18 nations retain creator-approved unsplit 804B resident aggregate; not independent observations');
 warning('MIGRATION_RESIDUAL_SDI_CALIBRATION','The residual 18-nation SDI is recalibrated to maintain 0.947 planetary SDI while all 19 individual national SDIs remain fixed');
-warning('HISTORICAL_SOURCE_CROSSWALK','V3/V4 historical content still contains superseded ancestries and nominal GDP before integrated uplift');
-warning('KALGERED_SPENDING_99','Pre-V6 spending strata sum to 99%, require separate creator decision');
-warning('NCCM_FX_CODE_CROSSWALK','Mapether MPT/MWV and Krisberia KRB/KRF historical currency identifiers still open');
+warning('ARCHIVE_V2_V3_V4_ONLY','Old model snapshots are provenance, not live NCCM V6.5 values');
+inspect(kalgeredConsumption.classification==='creator_ratified_C_distribution_not_empirical_survey','KALGERED_CONSUMPTION_RATIFIED','Creator-ratified fictional five-class Year 0 model required');
+inspect(kalgeredConsumption.bands.length===5&&eq(sum(kalgeredConsumption.bands,x=>x.population_share),1)&&eq(sum(kalgeredConsumption.bands,x=>x.population_billion),108),'KALGERED_CONSUMPTION_CLOSURE','Daily consumption buckets must sum to 100% and 108B residents');
+inspect(v.kalgered_year0_private_consumption?.dataset==='data/asthortera/kalgered-consumption-v65.json'&&!v.open_issues.some(x=>x.code==='KALGERED_SPENDING_99_PERCENT'),'KALGERED_CENSUS_SUPERSEDES_99','The old unclassified 1% must be archive-only');
+inspect(!(files.get('content/factions/kalgered.md')||'').includes('## ARCHIVED — NCCM V3') && !(files.get('content/factions/kalgered.md')||'').includes('ARCHIVED UNRECONCILED 99%'),'KALGERED_PRODUCTION_CLEAN','Do not put historical model snapshots in published country profile');
+inspect(read('content/remodeling/kalgered-remodeling-history-log.md').includes('unreconciled 1 percentage point')&&read('content/remodeling/kalgered-consumption-methodology-v65.md').includes('108.00 billion'),'KALGERED_PROVENANCE_AND_GLOSSARY','Archive and modeled statistical bulletin are required');
+warning('KALGERED_CONSUMPTION_MICRODATA','Observed within-band means, representative sampling and uncertainty remain unassigned; hypothetical KAL 23,050/day is not a measured mean');
+inspect(v.countries_5.find(x=>x.name==='Krisberia')?.fx.code==='KRF'&&v.countries_5.find(x=>x.name==='Mapether')?.fx.code==='MWV','RATIFIED_NATIONAL_FX_CODES','KRF / MWV Canon C');
+inspect(v.provenance.current_currency_codes?.Krisberia==='KRF'&&v.provenance.current_currency_codes?.Mapether==='MWV'&&!v.open_issues.some(x=>x.code==='FX_LOCAL_CODE_CROSSWALK'),'FX_CODE_CROSSWALK_CLOSED','Code ambiguity removed');
+inspect((files.get('content/laws/alreo.md')||'').includes('75 MWV/hour')&&(files.get('content/laws/alreo.md')||'').includes('78 KRF/hour'),'ALREO_FX_CLEAN','ALREO must use new codes');
+inspect((files.get('content/statistics/sentient-population.md')||'').includes('47.511618%')&&!(files.get('content/statistics/sentient-population.md')||'').includes('58% Humans of Depeisit'),'PUBLISHED_ANCESTRY_V65','Published content must use V6.5');
+inspect(!files.has('content/blog/how-i-built-249k-startup-idea.md')&&!files.has('content/statistics/sdi-character.md'),'STUB_DELETIONS_CONFIRMED','Both placeholders deleted');
 warning('SECTOR_CAPITAL_LABOR_MODEL','Sector shares are value-added targets, not independently calibrated input-output matrices');
 info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_original_14_billion',value:3213},{metric:'population_eastern_5_billion',value:395},{metric:'migration_billion',value:75},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});
 const output={status:issues.some(x=>x.severity==='P0')?'FAIL_UNRESOLVED_P0':'PASS_P0',scanned_markdown_count:docs.length,info,issues};

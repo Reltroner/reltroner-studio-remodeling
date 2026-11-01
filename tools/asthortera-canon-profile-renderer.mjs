@@ -26,6 +26,10 @@ function renderNational(c,j){
  `| GNI per resident (adopted zero-net-primary-income bridge) | **USD ${fmt(c.gni_per_capita_usd_proxy_V6/1e9,6)} billion** |`,
  `| Local currency / reference quotation | **${c.fx.code}** / USD ${fmt(c.fx.usd_per_local_unit,2)} per unit |`,
  `| Land area | ${c.land_area_million_km2==null?"**Unassigned**":`**${fmt(c.land_area_million_km2,0)} million km²**`} |`,
+ ...(c.name==="Hargenbor"?[
+  `| Civilian/public underwater urban minimum z | **−1,000 m** (maximum inhabited underwater depth) |`,
+  `| Sovereign maritime jurisdiction minimum z | **−36,000 m** (not a civilian residential zone) |`
+ ]:[]),
  `| Median age | ${c.median_age_years==null?"**Unassigned**":`**${fmt(c.median_age_years,0)} years**`} |`,
  `| Period life expectancy | ${c.life_expectancy_years==null?"**Unassigned**":`**${fmt(c.life_expectancy_years,0)} years**`} |`,
  `| Urbanization | ${c.urbanization==null?"**Unassigned**":`**${pct(c.urbanization)}**`} |`,
@@ -91,7 +95,7 @@ function patchNational(raw,c,j){
  }
  if(c.name==="Kalgered"){
   const begin=text.indexOf("## Population by Origin"),end=text.indexOf("## Gender Ratio",begin);
-  if(begin>=0&&end>begin)text=text.slice(0,begin)+table("## Population by Origin")+"Primary ancestry is mutually exclusive; the old 35% Native five-way classification was superseded by 33% Native and 2% Phantomkind in NCCM V6.5.\n\n"+text.slice(end);
+  if(begin>=0&&end>begin)text=text.slice(0,begin)+table("## Population by Origin")+"Primary ancestry is mutually exclusive; all six currently assigned classes total 100%.\n\n"+text.slice(end);
  }
  if(c.name==="Aurastelia"){
   text=text.replace("**🔹 Ethnic Group:** *Cosmic Entities & Light Beings*\n**📊 Percentage:** 4%","**🔹 Ethnic Group:** *Cosmic Entities & Light Beings (Other primary)*\n**📊 Percentage:** 3%");

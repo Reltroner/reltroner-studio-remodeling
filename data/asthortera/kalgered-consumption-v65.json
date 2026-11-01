@@ -1,0 +1,82 @@
+{
+  "schema": "NCCM-V6.5-KALGERED-YEAR0-CONSUMPTION",
+  "release_date": "2026-10-31",
+  "fictional_reference_period": "Year 0",
+  "model_version": "NCCM V6.5",
+  "classification": "creator_ratified_C_distribution_not_empirical_survey",
+  "source_of_truth": "data/asthortera/nccm-v6-active-cross-domain.json",
+  "methodology": "content/remodeling/kalgered-consumption-methodology-v65.md",
+  "historical_provenance": "content/remodeling/kalgered-remodeling-history-log.md",
+  "country": "Kalgered",
+  "currency": "KAL",
+  "frequency": "Year 0 cross-sectional model; daily expenditure units",
+  "population_billion": 108,
+  "denominator": "one modeled resident; not household or earner",
+  "indicator": "daily private expenditure category",
+  "definition": "synthetic modeled per-resident private expenditure bands; excludes in-kind public services and is not income or GDP",
+  "source_class": "creator_worldbuilding_ratification_plus_existing_remodeling_scenario",
+  "shares_status": "Canon C creator adopted Option C proportions and bands",
+  "band_values_status": "Canon C classification thresholds, not individual surveyed spending",
+  "microdata_observed": false,
+  "assumed_population_proportions": true,
+  "uncertainty_intervals": null,
+  "survey_agency": null,
+  "survey_sample_size": null,
+  "bands": [
+    {
+      "label": "Protected low private expenditure",
+      "min_kal_per_resident_per_day": 0,
+      "max_kal_per_resident_per_day": 999.99,
+      "population_share": 0.02,
+      "population_billion": 2.16,
+      "scenario_only_representative_kal_per_day": 500
+    },
+    {
+      "label": "Stabilized civic household",
+      "min_kal_per_resident_per_day": 1000,
+      "max_kal_per_resident_per_day": 4999.99,
+      "population_share": 0.18,
+      "population_billion": 19.439999999999998,
+      "scenario_only_representative_kal_per_day": 3000
+    },
+    {
+      "label": "Professional and institutional backbone",
+      "min_kal_per_resident_per_day": 5000,
+      "max_kal_per_resident_per_day": 19999.99,
+      "population_share": 0.45,
+      "population_billion": 48.6,
+      "scenario_only_representative_kal_per_day": 12000
+    },
+    {
+      "label": "Senior professional and capital-secure",
+      "min_kal_per_resident_per_day": 20000,
+      "max_kal_per_resident_per_day": 59999.99,
+      "population_share": 0.3,
+      "population_billion": 32.4,
+      "scenario_only_representative_kal_per_day": 37000
+    },
+    {
+      "label": "Founders / institutional and capital-intensive",
+      "min_kal_per_resident_per_day": 60000,
+      "max_kal_per_resident_per_day": null,
+      "population_share": 0.05,
+      "population_billion": 5.4,
+      "scenario_only_representative_kal_per_day": 120000
+    }
+  ],
+  "total_share": 1,
+  "derived_total_population_billion": 108,
+  "scenario_only_mean_daily_private_spending_kal": 23050,
+  "scenario_mean_status": "illustrative derived using unratified within-band representative values; NOT observed or independently ratified mean",
+  "independently_measured_mean_daily_spending_kal": null,
+  "independently_measured_income_gini": null,
+  "canonical_income_gini_reference": 0.21,
+  "prior_99_percent_snapshot_status": "archived incomplete; does not enter current denominator",
+  "limitations": [
+    "band shares are creator-adopted model inputs, not survey counts",
+    "unmeasured within-band distribution; representative points are scenario-only",
+    "GDP and GNI are not resident disposable household income",
+    "no age/species cohort household microdata or independent national accounts expenditure breakdown"
+  ],
+  "external_real_world_sources_are_methodological_analogies_only": true
+}

@@ -1,0 +1,52 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=p=>fs.readFileSync(path.join(root,p),'utf8');
+const model=JSON.parse(read('data/asthortera/nccm-v6-active-cross-domain.json'));
+const kal=JSON.parse(read('data/asthortera/kalgered-consumption-v65.json'));
+const k=model.countries_14.find(x=>x.name==='Kalgered');
+const near=(x,y)=>assert.ok(Math.abs(x-y)<1e-7,String(x)+' differs from '+String(y));
+test('Kalgered Year 0 five modeled daily KAL spending classes total 100%',()=>{
+ assert.equal(kal.classification,'creator_ratified_C_distribution_not_empirical_survey');
+ assert.equal(kal.population_billion,k.population_billion);
+ assert.deepEqual(kal.bands.map(b=>b.population_share),[.02,.18,.45,.30,.05]);
+ assert.deepEqual(kal.bands.map(b=>b.min_kal_per_resident_per_day),[0,1000,5000,20000,60000]);
+ assert.deepEqual(kal.bands.map(b=>b.max_kal_per_resident_per_day),[999.99,4999.99,19999.99,59999.99,null]);
+ for(let i=1;i<kal.bands.length;i++) assert.ok(kal.bands[i-1].max_kal_per_resident_per_day<kal.bands[i].min_kal_per_resident_per_day);
+ near(kal.bands.reduce((s,b)=>s+b.population_share,0),1);
+ near(kal.bands.reduce((s,b)=>s+b.population_billion,0),108);
+ assert.deepEqual(kal.bands.map(b=>+b.population_billion.toFixed(2)),[2.16,19.44,48.60,32.40,5.40]);
+});
+test('KAL 23050/day is only hypothetical reference mean, not surveyed national mean',()=>{
+ const avg=kal.bands.reduce((s,b)=>s+b.population_share*b.scenario_only_representative_kal_per_day,0);
+ near(avg,23050);
+ assert.equal(kal.scenario_only_mean_daily_private_spending_kal,23050);
+ assert.equal(kal.independently_measured_mean_daily_spending_kal,null);
+ assert.equal(kal.independently_measured_income_gini,null);
+ assert.equal(kal.survey_agency,null);
+ assert.equal(kal.survey_sample_size,null);
+ assert.equal(kal.microdata_observed,false);
+ assert.equal(kal.canonical_income_gini_reference,k.income_gini);
+ assert.equal(model.planet.year0.tfr,1.63);
+});
+test('Historical 99% survey and V3/V4 data are archived outside production Kalgered',()=>{
+ const profile=read('content/factions/kalgered.md');
+ const history=read('content/remodeling/kalgered-remodeling-history-log.md');
+ assert.match(profile,/Year 0 Daily Private Expenditure — NCCM V6\.5 Canon C/);
+ assert.ok(profile.includes('**100%**'));
+ assert.doesNotMatch(profile,/ARCHIVED UNRECONCILED 99%|NCCM V3 — Cross-Domain Benchmark|KAL 47,530\/day|KAL 17,956,408/);
+ for(const value of ['99% classified','1% unassigned','KAL 47,530/day','NCCM V3 — Cross-Domain Benchmark','NCCM V4']) assert.ok(history.includes(value),value);
+ assert.match(history,/published: false/);
+ assert.equal(kal.prior_99_percent_snapshot_status.startsWith('archived'),true);
+ assert.ok(!model.open_issues.some(x=>x.code==='KALGERED_SPENDING_99_PERCENT'));
+});
+test('Public methodology and glossary disclose provenance, and lack of empirical sampling',()=>{
+ const m=read('content/remodeling/kalgered-consumption-methodology-v65.md');
+ for(const v of ['World Population Prospects 2024','Trading Economics','Glossary','creator-ratified','not independent','Missing','Year 0','108.00 billion']) assert.ok(m.toLowerCase().includes(v.toLowerCase()),v);
+ assert.match(m,/published: false/);
+ assert.match(m,/visibility: internal/);
+ assert.equal(kal.external_real_world_sources_are_methodological_analogies_only,true);
+});

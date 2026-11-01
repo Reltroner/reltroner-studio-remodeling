@@ -1,7 +1,7 @@
 {
   "schema": "kalgered-nccm-candidate-v1",
   "date": "2026-10-30",
-  "status": "development material / not ratified",
+  "status": "ARCHIVED historical V1 development material / not ratified as a standalone census; shares and category boundaries later adopted as new V6.5 Canon C under data/asthortera/kalgered-consumption-v65.json, but legacy income/GNI and hypothetical representative spending are NOT current",
   "source": "content/factions/kalgered.md",
   "year0": {
     "population": 108000000000,
@@ -22,7 +22,8 @@
       "cosmeilian_all_manifestations": 0.13,
       "cistheta": 0.1,
       "other": 0.02
-    }
+    },
+    "gni_per_capita_kal_year_status": "ARCHIVED pre-Model-B national income proxy, not current V6.5"
   },
   "historical_spending_snapshot": {
     "bands": [
@@ -40,7 +41,7 @@
       0.05
     ],
     "sum": 0.99,
-    "status": "superseded only after separate ratification; insufficient savings/tax headroom under GNI-based consumption-envelope assumptions"
+    "status": "ARCHIVED incomplete 99% category snapshot; 1% unassigned; not part of active V6.5 population denominator"
   },
   "remodel_scenario": {
     "bands": [
@@ -81,7 +82,7 @@
       }
     ],
     "denominator": "daily personal private expenditure capacity, not income; public services, taxes, research contributions and institutional savings are separate",
-    "status": "scenario only; do not publish as actual census"
+    "status": "ARCHIVED SOURCE of the five band percentages and boundaries later independently creator-ratified under V6.5; illustrative representative expenditure values remain scenario only"
   },
   "sdi_model": {
     "national_anchor": 0.979,
@@ -95,5 +96,7 @@
     "weights_status": "not calibrated",
     "denominator": "national sentient capacity, not a threshold for individual voting"
   },
-  "gdp_status": "unknown; do not set GDP equal to population times GNI/capita without a net foreign primary income bridge"
+  "gdp_status": "unknown; do not set GDP equal to population times GNI/capita without a net foreign primary income bridge",
+  "current_canon_reference": "data/asthortera/kalgered-consumption-v65.json",
+  "historical_log": "content/remodeling/kalgered-remodeling-history-log.md"
 }

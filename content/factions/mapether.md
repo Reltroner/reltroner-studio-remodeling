@@ -40,7 +40,7 @@ tags:
 | GDP per resident per year | **USD 15.332235 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 15.332235 billion** |
 | Local currency / reference quotation | **MWV** / USD 77.60 per unit |
-| Land area | **Unassigned** |
+| Land area | **91 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -122,7 +122,7 @@ Mapether is a highly developed society with factories, trade institutions and pu
 | Cultural urban center | **Bonether**, referenced in development notes for fashion and classical visual culture |
 | Government capital | **Not independently established**; Bonether must not be silently designated capital |
 | Modern language ancestry | Primarily Depeisian, with an earlier Beluftner linguistic substrate |
-| Scenario currency | **MWV**; legacy **MPT** in ALREO must be reconciled |
+| Scenario currency | **MWV**, sole active national currency code (Canon C) |
 | National flag | Not yet formally ratified; character hat motif is distinct from a constitutional flag |
 
 ### Civilizational proposition
@@ -266,14 +266,14 @@ Individual dignity must not depend on clothing brand, personal aesthetics, econo
 | Nominal annual GDP after 10× uplift | **approximately USD 1.1346 × 10²¹** | Provisional output allocation |
 | Annual GDP/head | **approximately USD 15.332 billion** | Derived proxy from GDP / population |
 | Annual GNI/head | **approximately USD 15.332 billion** | Assumes net foreign primary income = zero |
-| V6 proposed currency code | **MWV** | Subject to legacy-code reconciliation |
+| Current currency code (Canon C) | **MWV** | Sole active national identifier |
 | Proposed FX quotation | **1 MWV = USD 77.60** | Hypothetical, not historical market quotation |
 | Illustrative local GNI/head | **approximately 197.58 million MWV/year** | Derived via proposed FX |
 | National census ancestry / Phantomkind rate | **Open** | Do not copy 14-country planetary representative distribution into national statistics |
 | National total fertility rate (Year 0 C) | **1.89** | Ratified modeled TFR; cohort data unassigned |
 | National median age and life expectancy | **Unassigned** | No invented demographic measurements |
 | Annual CPI, income Gini, unemployment, carbon | **Open** | No invented measured figures |
-| National land area | **Open** | Map provides geography, not verified km² |
+| National land area | **91 million km²** | Creator-ratified land-area Canon C (2026-11-01) |
 
 The modeled SDI identity is **0.60 × 0.9400 + 0.40 × 0.9325 = 0.937**. This gives a conceptually consistent individual/institution split, **not** an independently observed microdata result.
 
@@ -299,7 +299,7 @@ The total is **100% gross value added**. These percentages do **not** describe s
 - **Currency:** an expensive nominal currency unit alone does not demonstrate higher real purchasing power or welfare.
 - **SDI:** represents individual capability and institutional conditions, not nationality-based biological superiority.
 
-**Legacy currency conflict:** the more recent FX proposal uses **MWV** and **USD 77.60 per MWV**. The existing [ALREO source](../laws/alreo.md) quotes Mapether hourly labor amounts in **MPT**. These codes must **not** be treated as equivalent at a 1:1 conversion until an explicit monetary crosswalk, obsolete-code designation or redenomination law is approved. Keep historical MPT text intact.
+**Currency code ratified (2026-10-31):** **MWV** is the sole active Mapetheran code, also used in [ALREO](../laws/alreo.md). USD 77.60 per MWV is a canon model quotation, not independent evidence of actual FX, real wages or any historical conversion.
 
 **Nominal versus real:** fashion luxury prices and strong nominal USD quotations cannot establish household purchasing power. Model actual wages, household distribution, materials, import content, manufacturing automation, final consumption and prices independently.
 
@@ -387,8 +387,8 @@ This is a **Countryball storytelling persona**, not a universal psychological pr
 Outstanding issues:
 
 - Confirm the political **capital**, distinct from the cultural references to **Bonether**.
-- Resolve **MWV versus MPT** and define any currency redenomination and foreign exchange history.
-- Establish the modern land area, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration.
+- **Resolved:** MWV is the sole active national currency; market FX and purchasing power remain to be measured.
+- Model settlement density, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration; modern national land area is already **91 million km² Canon C**.
 - Ratify the six-category national ancestry table; the planetary representative average is not a local census.
 - Differentiate fashion manufacturing, textiles, design IP and export margins without double counting.
 - Preserve **2164 BAC founding**, **5% initial territory**, **39% territory at 1125–1121 BAC**, Beluftner-origin sovereignty and subsequent Depeisit cultural influence.
@@ -404,9 +404,9 @@ Outstanding issues:
 | Sovereign foundation 2164 BAC | **Canon C**; distinct from historical expansion scenarios |
 | Distinct cultural and economic identity | Worldbuilding identity developed from existing source motifs |
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
-| Currency codes and exchange-rate assignments | Explicit crosswalk needed against legacy records |
+| Currency code and modeled FX | **MWV** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
-| Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
+| Unpublished national ancestry and other vital statistics | Unassigned; national land area **91 million km²** is ratified C |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |
 
 **World-scale accounting:** Year 0 after migration: the 14 countries contain **3,213 billion**, the five Eastern countries **395 billion**, and 18 other countries **804 billion combined**. The earlier **3,288B/320B** partition was pre-redistribution, not current canon. Mapether is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Mapether's local ancestry percentages.

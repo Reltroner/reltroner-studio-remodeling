@@ -12,6 +12,8 @@ tags: ["Asthortera", "SDI", "human development", "institutions", "NCCM"]
 
 # SDI V3 — Capacity of Sentients + Quality of Institutions
 
+> **ARCHIVED — V3; NOT CURRENT YEAR 0 CANON (2026-10-31).** This unpublished historical paper is retained as provenance only. Its old census, ancestry, economic, SDI or country-code crosswalks do not supersede [NCCM V6.5 Canon C](./asthortera-nccm-v6-active-cross-domain.md).
+
 ## 1. Ratified definition and fixed historical anchors
 
 **Creator-ratified (2026-10-30):** the **Sentient Development Index (SDI)** measures the **combined mean capacity of individuals and quality of the institutions and environments that enable them**. It is **not merely an IQ/obedience score, an economic-rank proxy, an ideological purity test, or an index of visible science-fiction aesthetics**. A person capable of diverse Cosmeilian manifestations is counted once; different national ancestry compositions are not SDI multipliers.

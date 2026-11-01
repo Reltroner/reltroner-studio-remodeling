@@ -56,9 +56,9 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 | Year 0 annual CPI inflation | **0.33%** | C |
 | Year 0 real GDP growth (creator-ratified) | **4.00%** | C |
 | Net interplanetary migration | Positive and significant; net count unknown | C qualitative |
-| Model B annual GDP | **USD 1.129738063975e+23** | S/D |
-| Model B annual GNI, zero external primary-income bridge | **USD 1.129738063975e+23** | S/D |
-| Nominal GDP or provisional GNI per capita | **USD 25.606030 billion / sentient / year** | D |
+| Model B annual GDP | **USD 1.129738063975e+23** | C (adopted accounting model) |
+| Model B annual GNI, zero external primary-income bridge | **USD 1.129738063975e+23** | C (adopted zero-bridge accounting assumption) |
+| Nominal GDP or provisional GNI per capita | **USD 25.606030 billion / sentient / year** | C (derived model value, not household survey) |
 
 **1010 BAC historical reference:** median age **30 years**; life expectancy **80 years**; urbanization **68%**; annual inflation **4.3%**. More detailed cohorts, growth paths and species-specific longevity remain modeling tasks.
 
@@ -172,10 +172,23 @@ Each individual source nation sums to 100%, independently of the departure volum
 | Stelpadland | 200 | 253 | 481 | 73.00% | 1.63 | 0.969 | 1.80% | 1.2 |
 | Pasgerflit | 72 | 252 | 476 | 94.50% | 1.82 | 0.957 | 2.00% | 3.7 |
 | Hargenbor | 39 | 251 | 465 | 87.50% | 1.86 | 0.933 | 2.90% | 3.1 |
-| Beluftner | 88 | 249 | 452 | 72.00% | 1.80 | 0.904 | 3.30% | 1.6 |
+| Beluftner | 363 | 249 | 452 | 72.00% | 1.80 | 0.904 | 3.30% | 1.6 |
 | Cenrestier | 102 | 250 | 459 | 81.00% | 1.72 | 0.919 | 2.70% | 2.6 |
 
 **Scope caveats:** Carbon intensity cannot yet be ranked reliably without harmonizing gross versus offset-adjusted reporting. TFR and educational access proxies are comparative scenarios, not a universal census. National-level median ages and TFR cannot be inferred for the five newer states or the residual 18.
+
+## 5S. Canon C — National terrestrial land-area amendment (2026-11-01)
+
+| Nation | Land area (million km²) | Canon C decision |
+|---|---:|---|
+| Beluftner | **363** | Supersedes former 88-million-km² historical figure |
+| Calespia | **120** | Newly ratified; no longer unassigned |
+| Ethaptoria | **110** | Newly ratified; no longer unassigned |
+| Mapether | **91** | Newly ratified; no longer unassigned |
+
+**Remaining unassigned:** Scenrepolia and Krisberia have no ratified national land area; no individual land-area census is assigned to the residual eighteen countries. These km² values are **terrestrial footprints**, not 3D constructed/habitable volume or sovereign undersea area. The planet retains approximately **4,503 million km²** of land. The sum of the original fourteen terrestrial country footprints is now **2,176 million km²**; the three newly specified Eastern land footprints sum to **321 million km²**. The **2,006 million km² remainder** is only an unallocated balancing envelope across Scenrepolia, Krisberia and the 18 unsplit countries, **not** a newly ratified bloc area census.
+
+**Hargenbor's vertical exception:** civilian/public underwater urban habitation is restricted to **0 m to −1,000 m** relative to sea level, whereas pre-existing maritime jurisdiction extends to about **−36 km**. Deepwater sovereignty permits non-residential research, logistics, monitoring and defense without authorizing deep civilian towns. Natural usable sunlight may be weak much shallower than 1 km.
 
 ## 5A. Reconciled national TFR — 19 nations and 18-nation residual
 
@@ -342,21 +355,21 @@ The following are modeled **gross value-added percentage allocations**, not empl
 | Aurastelia | ALC | 101.40 | approved_scenario_fx |
 | Taramistry | TAR | 99.40 | approved_scenario_fx |
 | Astrostelia | AAC | 98.70 | approved_scenario_fx |
-| Scenrepolia | SCI | 94.30 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Scenrepolia | SCI | 94.30 | approved_scenario_fx; active code canonical |
 | Pasgerflit | PAS | 91.90 | approved_scenario_fx |
-| Krisberia | KRF | 86.20 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Krisberia | KRF | 86.20 | approved_scenario_fx; active code canonical |
 | Stelpadland | ST | 83.30 | approved_scenario_fx |
-| Mapether | MWV | 77.60 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Mapether | MWV | 77.60 | approved_scenario_fx; active code canonical |
 | Pencilfania | PNL | 73.80 | approved_scenario_fx |
-| Calespia | CAL | 71.20 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Calespia | CAL | 71.20 | approved_scenario_fx; active code canonical |
 | Lenternow | LNR | 68.20 | approved_scenario_fx |
 | Cenrestier | CE | 62.80 | approved_scenario_fx |
-| Ethaptoria | EPT | 61.40 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Ethaptoria | EPT | 61.40 | approved_scenario_fx; active code canonical |
 | Moreg | MG | 53.60 | approved_scenario_fx |
 | Hargenbor | HB | 44.20 | approved_scenario_fx |
 | Beluftner | BLF | 22.00 | approved_scenario_fx |
 
-**Crosswalk O:** historic legal references to **KRB** (Krisberia) and **MPT** (Mapether) conflict with modeled **KRF** and **MWV**; do not silently equate denominations or assume a conversion ratio. GDP nominal USD and local prices require historical FX/PPP calibration.
+**Currency-code decision — Canon C (2026-10-31):** **KRF** is Krisberia's sole active code and **MWV** is Mapether's sole active code. Their USD/unit values are model quotations; obsolete-code crosswalks are closed, without inventing historical FX equivalence.
 
 ## 9. Qualitative 19-country civilization matrix
 
@@ -418,8 +431,8 @@ Social and political rights attach to sentient persons, not national cultural ar
 3. **The 10× GDP/GNI uplift** is the creator-ratified income-output canon model, but independent sectoral real production, capital, imports, labor, total factor productivity and deflators have not been calibrated.
 4. **Country CPI and social statistics** still include older candidates; **TFR and economic growth now have explicit V6.5 modeled national figures**, plus an 18-country residual, while country-level reproductive cohorts and detailed constant-price output models remain open.
 5. **Kalgered legacy spending brackets total 99%** and lack an authorized one-percentage-point reallocation.
-6. **KRB/KRF and MPT/MWV** local money identifiers still conflict across historical legal and FX proposal documentation.
-7. **Some archived content** still contains old five-way ancestry, earlier pre-10× national GDP or previous migration populations. Current source-of-truth is this document and the V6.3 JSON; historical snapshots remain available with provenance.
+6. **Resolved:** KRF and MWV are sole active national codes; real FX and price/wage series remain unmeasured.
+7. **V2/V3/V4 source snapshots are archive-only:** earlier ancestry, GDP and country partitions never override the [V6.5 Canon C ledger](../../data/asthortera/nccm-v6-active-cross-domain.json); there is no active numeric crosswalk.
 8. **Theoretical SDI of the 18-state bloc** is a balancing value, not a verified observed outcome. Recomputing it after migration is valid under a fixed planetary population-weighted SDI of 0.947, but not a claim of changed individual welfare.
 9. **Space infrastructure continuity:** Pasgerflit's **1545 BAC** aviation standardization does *not* imply spacecraft were first invented then; the surrounding worlds already possessed spaceflight.
 

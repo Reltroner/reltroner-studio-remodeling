@@ -97,15 +97,17 @@ test('Eastern five sectoral value-add compositions and GNI accounting reconciled
    eq(c.gni_per_capita_usd_proxy_V6,c.gdp_per_capita_usd_V6);
  }
 });
-test('Nation source files exist; recorded FX remains bounded and legacy currency conflicts acknowledged',()=>{
+test('Nation source files exist; KRF and MWV are sole current FX codes',()=>{
  for(const c of [...model.countries_14,...model.countries_5]){
    assert.ok(fs.existsSync(path.join(root,c.source)),c.source);
    assert.ok(c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26);
  }
  assert.equal(model.countries_14.find(c=>c.name==='Reltronland').fx.usd_per_local_unit,114.26);
  assert.equal(model.countries_14.find(c=>c.name==='Beluftner').fx.usd_per_local_unit,22);
- assert.match(model.provenance.legacy_local_fx_ambiguities,/KRB.*KRF/);
- assert.match(model.provenance.legacy_local_fx_ambiguities,/MPT.*MWV/);
+ assert.equal(model.provenance.current_currency_codes.Krisberia,'KRF');
+ assert.equal(model.provenance.current_currency_codes.Mapether,'MWV');
+ assert.ok(!model.open_issues.some(x=>x.code==='FX_LOCAL_CODE_CROSSWALK'));
+
 });
 
 test('75B bilateral donor routes preserve source ancestry and donor SDIs',()=>{
