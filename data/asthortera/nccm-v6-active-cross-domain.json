@@ -55,7 +55,8 @@
       ],
       "maritime_hargenbor_civilian_underwater_floor_m": -1000,
       "maritime_hargenbor_legal_depth_m": -36000
-    }
+    },
+    "spatial_3d_distribution_ratification_2026_11_01": "Creator ratified prior 19-nation N/A/O/D land-cover and L/G/W/F primary-habitat percentage pairs; established land areas unchanged; volume/geometry unassigned."
   },
   "planet": {
     "population_billion": 4412,
@@ -188,7 +189,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.075,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 58,
+          "urban_active": 15,
+          "urban_operational_low_or_biological_zero": 14,
+          "urban_dormant": 13
+        },
+        "principal_habitat_pct": {
+          "surface_land": 70,
+          "underground": 22,
+          "underwater": 2,
+          "floating": 6
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Depcutland",
@@ -235,7 +258,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.075,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 67,
+          "urban_active": 10,
+          "urban_operational_low_or_biological_zero": 12,
+          "urban_dormant": 11
+        },
+        "principal_habitat_pct": {
+          "surface_land": 75,
+          "underground": 18,
+          "underwater": 2,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Kalgered",
@@ -282,7 +327,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.069,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 78,
+          "urban_active": 8,
+          "urban_operational_low_or_biological_zero": 9,
+          "urban_dormant": 5
+        },
+        "principal_habitat_pct": {
+          "surface_land": 80,
+          "underground": 14,
+          "underwater": 1,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Aurastelia",
@@ -329,7 +396,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.07,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 84,
+          "urban_active": 6,
+          "urban_operational_low_or_biological_zero": 6,
+          "urban_dormant": 4
+        },
+        "principal_habitat_pct": {
+          "surface_land": 83,
+          "underground": 12,
+          "underwater": 1,
+          "floating": 4
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Astrostelia",
@@ -376,7 +465,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.078,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 67,
+          "urban_active": 12,
+          "urban_operational_low_or_biological_zero": 12,
+          "urban_dormant": 9
+        },
+        "principal_habitat_pct": {
+          "surface_land": 76,
+          "underground": 17,
+          "underwater": 1,
+          "floating": 6
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Lenternow",
@@ -423,7 +534,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.073,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 62,
+          "urban_active": 14,
+          "urban_operational_low_or_biological_zero": 13,
+          "urban_dormant": 11
+        },
+        "principal_habitat_pct": {
+          "surface_land": 74,
+          "underground": 13,
+          "underwater": 3,
+          "floating": 10
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Taramistry",
@@ -470,7 +603,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.082,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 64,
+          "urban_active": 11,
+          "urban_operational_low_or_biological_zero": 13,
+          "urban_dormant": 12
+        },
+        "principal_habitat_pct": {
+          "surface_land": 77,
+          "underground": 17,
+          "underwater": 2,
+          "floating": 4
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Moreg",
@@ -517,7 +672,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.083,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 65,
+          "urban_active": 10,
+          "urban_operational_low_or_biological_zero": 14,
+          "urban_dormant": 11
+        },
+        "principal_habitat_pct": {
+          "surface_land": 72,
+          "underground": 20,
+          "underwater": 2,
+          "floating": 6
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Pencilfania",
@@ -564,7 +741,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.071,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 82,
+          "urban_active": 7,
+          "urban_operational_low_or_biological_zero": 6,
+          "urban_dormant": 5
+        },
+        "principal_habitat_pct": {
+          "surface_land": 84,
+          "underground": 10,
+          "underwater": 2,
+          "floating": 4
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Stelpadland",
@@ -620,7 +819,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.068,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 90,
+          "urban_active": 3,
+          "urban_operational_low_or_biological_zero": 4,
+          "urban_dormant": 3
+        },
+        "principal_habitat_pct": {
+          "surface_land": 85,
+          "underground": 9,
+          "underwater": 3,
+          "floating": 3
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Pasgerflit",
@@ -667,7 +888,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.082,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 63,
+          "urban_active": 10,
+          "urban_operational_low_or_biological_zero": 14,
+          "urban_dormant": 13
+        },
+        "principal_habitat_pct": {
+          "surface_land": 69,
+          "underground": 23,
+          "underwater": 3,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Hargenbor",
@@ -727,6 +970,28 @@
         "natural_sunlight_caveat": "natural daylight becomes weak well before one kilometer; civilian habitats near the lower limit require artificial lighting; do not claim all 0-to-1000-m depth has usable sunlight",
         "civilian_underwater_population_pct": null,
         "civilian_depth_distribution": null
+      },
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 85,
+          "urban_active": 5,
+          "urban_operational_low_or_biological_zero": 6,
+          "urban_dormant": 4
+        },
+        "principal_habitat_pct": {
+          "surface_land": 46,
+          "underground": 8,
+          "underwater": 42,
+          "floating": 4
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
       }
     },
     {
@@ -775,7 +1040,29 @@
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
       "canon_status": "C",
-      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume"
+      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 87,
+          "urban_active": 4,
+          "urban_operational_low_or_biological_zero": 5,
+          "urban_dormant": 4
+        },
+        "principal_habitat_pct": {
+          "surface_land": 82,
+          "underground": 12,
+          "underwater": 2,
+          "floating": 4
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Cenrestier",
@@ -822,7 +1109,29 @@
       "real_gdp_growth_pre_rebase_v64": 0.067,
       "tfr_status": "C_creator_ratified_NCCM_V6_5_population_weighted_proxy_convention",
       "real_gdp_growth_status": "C_creator_ratified_NCCM_V6_5_GDP_share_weighted_growth_convention",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 81,
+          "urban_active": 7,
+          "urban_operational_low_or_biological_zero": 7,
+          "urban_dormant": 5
+        },
+        "principal_habitat_pct": {
+          "surface_land": 80,
+          "underground": 16,
+          "underwater": 1,
+          "floating": 3
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     }
   ],
   "countries_5": [
@@ -876,7 +1185,29 @@
       "tfr_status": "C_creator_ratified_national_TFR_NCCM_V6_5_approved_census_model",
       "real_gdp_growth": 0.0425,
       "real_gdp_growth_status": "C_creator_ratified_national_real_growth_NCCM_V6_5_approved_economic_model",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 74,
+          "urban_active": 10,
+          "urban_operational_low_or_biological_zero": 9,
+          "urban_dormant": 7
+        },
+        "principal_habitat_pct": {
+          "surface_land": 78,
+          "underground": 14,
+          "underwater": 3,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Krisberia",
@@ -928,7 +1259,29 @@
       "tfr_status": "C_creator_ratified_national_TFR_NCCM_V6_5_approved_census_model",
       "real_gdp_growth": 0.039,
       "real_gdp_growth_status": "C_creator_ratified_national_real_growth_NCCM_V6_5_approved_economic_model",
-      "canon_status": "C"
+      "canon_status": "C",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 73,
+          "urban_active": 10,
+          "urban_operational_low_or_biological_zero": 10,
+          "urban_dormant": 7
+        },
+        "principal_habitat_pct": {
+          "surface_land": 73,
+          "underground": 19,
+          "underwater": 2,
+          "floating": 6
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Mapether",
@@ -981,7 +1334,29 @@
       "real_gdp_growth": 0.040999999999999995,
       "real_gdp_growth_status": "C_creator_ratified_national_real_growth_NCCM_V6_5_approved_economic_model",
       "canon_status": "C",
-      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume"
+      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 77,
+          "urban_active": 7,
+          "urban_operational_low_or_biological_zero": 9,
+          "urban_dormant": 7
+        },
+        "principal_habitat_pct": {
+          "surface_land": 79,
+          "underground": 10,
+          "underwater": 6,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Ethaptoria",
@@ -1034,7 +1409,29 @@
       "real_gdp_growth": 0.042,
       "real_gdp_growth_status": "C_creator_ratified_national_real_growth_NCCM_V6_5_approved_economic_model",
       "canon_status": "C",
-      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume"
+      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 70,
+          "urban_active": 11,
+          "urban_operational_low_or_biological_zero": 11,
+          "urban_dormant": 8
+        },
+        "principal_habitat_pct": {
+          "surface_land": 74,
+          "underground": 17,
+          "underwater": 4,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     },
     {
       "name": "Calespia",
@@ -1087,7 +1484,29 @@
       "real_gdp_growth": 0.04,
       "real_gdp_growth_status": "C_creator_ratified_national_real_growth_NCCM_V6_5_approved_economic_model",
       "canon_status": "C",
-      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume"
+      "land_area_status": "C_creator_ratified_2026-11-01_national_land_footprint_only_not_ocean_or_habitable_volume",
+      "spatial_3d_canon": {
+        "status": "C_creator_ratified_2026-11-01",
+        "reference": "Year 0",
+        "land_surface_pct": {
+          "nature_minimal_intervention": 71,
+          "urban_active": 9,
+          "urban_operational_low_or_biological_zero": 10,
+          "urban_dormant": 10
+        },
+        "principal_habitat_pct": {
+          "surface_land": 77,
+          "underground": 15,
+          "underwater": 3,
+          "floating": 5
+        },
+        "land_footprint_denominator": "national terrestrial area only",
+        "habitat_denominator": "unique usual residents of country",
+        "polygon": null,
+        "constructed_volume_km3": null,
+        "habitable_volume_km3": null,
+        "marine_vertical_resident_distribution": null
+      }
     }
   ],
   "aggregate_remaining_18": {
@@ -1365,11 +1784,11 @@
     "status": "C",
     "ratified_date": "2026-10-31",
     "authority": "Creator's most recent decision in this conversation supersedes contradictory historic V2/V3/V4 sources",
-    "scope": "ALL currently populated NCCM V6.5 Year 0 worldbuilding remodeling values are adopted as canonical model values, including 14+5+18 nation partition, 75B migration, six-way primary ancestry, 19 national population/SDI/TFR/growth, macro GDP/GNI accounting, 18-state aggregate residuals, sovereign founding chronology and Stelpadland debt/finished furniture; sole active national currency codes KRF (Krisberia) and MWV (Mapether)",
+    "scope": "ALL currently populated NCCM V6.5 Year 0 worldbuilding remodeling values are adopted as canonical model values, including 14+5+18 nation partition, 75B migration, six-way primary ancestry, 19 national population/SDI/TFR/growth, macro GDP/GNI accounting, 18-state aggregate residuals, sovereign founding chronology and Stelpadland debt/finished furniture; sole active national currency codes KRF (Krisberia) and MWV (Mapether); 19-nation Year 0 3D spatial surface and resident-mode percentage matrices ratified 2026-11-01",
     "interpretation": "C means creator-approved truth within the adopted modeling universe, including derived/accounting parameters; it does not assert independent historical observation, clinical species-specific cohort evidence, or detailed production microdata",
     "unknowns_remain_unknown": [
       "18 unallocated individual national profiles",
-      "five added countries individual primary ancestry/land area and other unassigned measures",
+      "five additional countries' primary ancestry, Scenrepolia/Krisberia land area and other unassigned measures",
       "species-specific reproductive cohort ages and underlying total fertility measurement",
       "separately measured real GDP chain-volume deflators"
     ],
@@ -1388,5 +1807,32 @@
     "empirical_survey": false,
     "mean_observed": null,
     "representative_spending_scenario_not_ratified": true
+  },
+  "spatial_volumetric_canon": {
+    "status": "C_creator_ratified_2026-11-01",
+    "spatial_modes": "N/A/O/D terrestrial land footprint; L/G/W/F primary usual-resident homes",
+    "denominators_independent": true,
+    "nature_class_not_biological_zero": true,
+    "dormancy_not_abandonment": true,
+    "operational_state_distinct_from_biological_occupancy": true,
+    "legal_rights_distinct_from_residence": true,
+    "terrestrial_known_area_million_km2": 2497,
+    "unallocated_terrestrial_envelope_million_km2": 2006,
+    "unknown_area_countries": [
+      "Scenrepolia",
+      "Krisberia"
+    ],
+    "residual_18_land_disaggregation": null,
+    "residual_18_habitat_census": null,
+    "horizontal_spatial_crs": null,
+    "actual_built_voxel_geometry": null,
+    "typical_planning_z_min_m": -20000,
+    "typical_planning_z_max_m": 20000,
+    "hargenbor_public_civilian_underwater_z_min_m": -1000,
+    "hargenbor_sovereign_maritime_z_min_m": -36000,
+    "underwater_population_depth_series": null,
+    "addresses_4d_5d": "separate navigation; no extra km3",
+    "methodology": "content/remodeling/asthortera-volumetric-spatial-methodology-v65.md",
+    "public_report": "content/statistics/asthortera-nccm-v65-spatial-composition.md"
   }
 }

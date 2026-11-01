@@ -202,6 +202,15 @@ inspect(v.provenance.current_currency_codes?.Krisberia==='KRF'&&v.provenance.cur
 inspect((files.get('content/laws/alreo.md')||'').includes('75 MWV/hour')&&(files.get('content/laws/alreo.md')||'').includes('78 KRF/hour'),'ALREO_FX_CLEAN','ALREO must use new codes');
 inspect((files.get('content/statistics/sentient-population.md')||'').includes('47.511618%')&&!(files.get('content/statistics/sentient-population.md')||'').includes('58% Humans of Depeisit'),'PUBLISHED_ANCESTRY_V65','Published content must use V6.5');
 inspect(!files.has('content/blog/how-i-built-249k-startup-idea.md')&&!files.has('content/statistics/sdi-character.md'),'STUB_DELETIONS_CONFIRMED','Both placeholders deleted');
+inspect(v.spatial_volumetric_canon?.status==='C_creator_ratified_2026-11-01','SPATIAL_CANON_19','19-state spatial model ratified');
+for(const c of [...v.countries_14,...v.countries_5]){
+ const s=c.spatial_3d_canon;
+ inspect(s?.status==='C_creator_ratified_2026-11-01'&&eq(sum(Object.values(s.land_surface_pct),x=>x),100)&&eq(sum(Object.values(s.principal_habitat_pct),x=>x),100),'SPATIAL_3D_PERCENT_100',c.name);
+ inspect(s?.constructed_volume_km3===null&&s?.habitable_volume_km3===null&&s?.polygon===null,'SPATIAL_3D_UNKNOWN_VOLUME',c.name);
+ inspect((files.get(c.source)||'').includes('### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)'),'SPATIAL_NATIONAL_PROFILE',c.name);
+}
+inspect(eq(sum([...v.countries_14,...v.countries_5],c=>c.land_area_million_km2||0),2497)&&v.countries_5.find(c=>c.name==='Scenrepolia').land_area_million_km2===null&&v.countries_5.find(c=>c.name==='Krisberia').land_area_million_km2===null,'SPATIAL_AREA_PRESERVED','Land areas unchanged');
+inspect(v.countries_14.find(c=>c.name==='Hargenbor').spatial_3d_canon.principal_habitat_pct.underwater===42,'HARGENBOR_42_PERCENT_UNDERWATER','42% residents underwater');
 warning('SECTOR_CAPITAL_LABOR_MODEL','Sector shares are value-added targets, not independently calibrated input-output matrices');
 info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_original_14_billion',value:3213},{metric:'population_eastern_5_billion',value:395},{metric:'migration_billion',value:75},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});
 const output={status:issues.some(x=>x.severity==='P0')?'FAIL_UNRESOLVED_P0':'PASS_P0',scanned_markdown_count:docs.length,info,issues};
