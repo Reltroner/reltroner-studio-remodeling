@@ -3,7 +3,7 @@ title: "Scenrepolia — The Electromagnetic Civilization of Asthortera"
 description: "An Eastern Continental civilization whose U-shaped magnet symbolizes controlled fields, scientific independence, public accountability, electromagnetic engineering and the freedom of sentient minds."
 author: "Reltroner Studio"
 date: "2026-10-30"
-lastUpdated: "2026-10-30"
+lastUpdated: "2026-11-01"
 published: false
 canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remain unassigned"
 world: "Asthortera"
@@ -43,7 +43,7 @@ tags:
 | GDP per resident per year | **USD 16.316575 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 16.316575 billion** |
 | Local currency / reference quotation | **SCI** / USD 94.30 per unit |
-| Land area | **Unassigned** |
+| Land area | **100 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -157,7 +157,7 @@ Scenrepolia is a second-world Asthorteran civilization. No Earth country, Earth 
 | Proposed government form | Constitutional scientific-civic republic, subject to future constitutional design |
 | Working national motto | *Power Without Possession. Alignment Without Submission.* — proposal |
 | Currency code | **SCI**, model candidate from the Eastern five-nation NCCM scenario |
-| Land area | **Not yet established**; do not fabricate a density or territorial area |
+| Land area | **100 million km² (Canon C, 2026-11-01)**; cadastral polygons remain undigitized |
 | Publication status | Development profile: canon facts and proposals are separated |
 
 ### What electromagnetic identity means
@@ -179,7 +179,7 @@ The defining question is not simply *How powerful can the field become?* It is *
 
 On the developing Asthortera world map, Scenrepolia occupies a **Central Ocean-facing sector of the Eastern Continent**, below the broader Stelpadland region, west of Calespia and north of the Ethaptorian coastal belt. Its coastline links the electromagnetic production corridor to continental and overseas supply chains.
 
-The world map is a **development reference**, not a final cadastral boundary survey. Consequently, modern land area, national population density, internal provincial borders and exact route distances must remain **unassigned** unless supported by a later creator decision.
+The world map remains a **development reference**, not a final cadastral boundary survey. **National land area is 100 million km² (Canon C, 2026-11-01)**. National border polygons, local settlement-density measurements, internal provincial boundaries and exact route distances remain **unassigned**. Terrestrial land-based arithmetic density must not be mistaken for 3D habitat or city density.
 
 This placement creates a believable national role:
 
@@ -383,7 +383,7 @@ The figures in this section are the **creator-ratified NCCM V6.5 national modele
 | National CPI inflation | Unassigned | Do not infer from GDP uplift |
 | National total fertility rate (Year 0 C) | **1.66** | Creator-ratified population-weighted proxy; full reproductive cohort data unassigned |
 | National ancestry percentages | Unassigned | Planet's six-category representative breakdown is not this country's census |
-| Modern land area | Unassigned | Territorial density cannot yet be calculated |
+| Modern land area | **100 million km² (Canon C)** | National terrestrial footprint approved; exact polygons and local settlement density unmeasured |
 
 The nominal GDP uplift changes the **scale** of modeled economy-wide production and incomes. It is **not** a 900% consumer-price inflation event. In particular, the planet's Year 0 inflation reference remains 0.33% unless the creator changes it.
 
@@ -582,7 +582,7 @@ This separation protects Scenrepolia from becoming a one-note metaphor in which 
 | SCI currency and 94.30 USD/SCI | **FX scenario; no verified exchange-rate history** |
 | Magnetopunk / Fieldpunk aesthetic and color system | **Development proposal** |
 | Named government institutions, motto and Skalatores districts | **Development proposals** |
-| Nation-specific ancestry, land area, Gini and emissions | **Not assigned**; national TFR **1.66 canon C** |
+| Nation-specific ancestry, Gini and emissions | **Not assigned**; land area **100 million km² canon C**, national TFR **1.66 canon C** |
 | Perfect Alignment Controversy | **Proposed future narrative hook** |
 
 The planet's separate anchors—**4.412 trillion unique sentients, 37 sovereign countries, SDI 0.947 and six-category primary ancestry represented provisionally by the 14 detailed countries**—remain unchanged. Scenrepolia is one of the **five newly characterized countries within the five-country group, leaving 18 countries only as an aggregate residual**; it is **not** an additional thirty-eighth sovereign country.

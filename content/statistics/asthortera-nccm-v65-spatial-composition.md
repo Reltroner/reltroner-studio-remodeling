@@ -30,12 +30,12 @@ N = natural landscape, A = active built, O = operational low/biological-zero bui
 | Hargenbor | 39 | 85% | 5% | 6% | 4% |
 | Beluftner | 363 | 87% | 4% | 5% | 4% |
 | Cenrestier | 102 | 81% | 7% | 7% | 5% |
-| Scenrepolia | Unassigned | 74% | 10% | 9% | 7% |
-| Krisberia | Unassigned | 73% | 10% | 10% | 7% |
+| Scenrepolia | 100 | 74% | 10% | 9% | 7% |
+| Krisberia | 75 | 73% | 10% | 10% | 7% |
 | Mapether | 91 | 77% | 7% | 9% | 7% |
 | Ethaptoria | 110 | 70% | 11% | 11% | 8% |
 | Calespia | 120 | 71% | 9% | 10% | 10% |
-| **17 known areas combined** | **2,497** | — | — | — | — |
+| **19 known areas combined** | **2,672** | — | — | — | — |
 
 ## Primary L/G/W/F (% unique residents)
 
@@ -66,6 +66,6 @@ L = surface land, G = underground, W = underwater, F = floating.
 
 Hargenbor's **42% underwater primary residents (55.86B derived)** must live in permanent public civilian underwater environments at or above **−1 km**; maritime sovereignty reaches **−36 km** with separate non-civilian-residential rights.
 
-**Unassigned:** national land areas Scenrepolia/Krisberia, individual areas and spatial statistics of 18 residual countries (804B residents), geodetic polygons, 3D constructed/habitable km³, depth-specific occupancy. The remaining **2,006 million km²** of planetary land is *unallocated*, not an identified extra country.
+**Unassigned:** individually measured terrestrial areas and spatial statistics of 18 deferred countries (804B residents), geodetic polygons, actual 3D constructed/habitable km³ and depth-specific occupancy. All **19 profiled nations** now have ratified terrestrial footprints totaling **2,672 million km²**. The remaining **1,831 million km²** of planetary land is unallocated *only among the 18 deferred countries*, not an invented additional country. Scenrepolia **100 million km²** and Krisberia **75 million km²** are newly creator-ratified Canon C (2026-11-01).
 
 **Source of truth:** [NCCM V6.5 model](../../data/asthortera/nccm-v6-active-cross-domain.json). Internal methodology `content/remodeling/asthortera-volumetric-spatial-methodology-v65.md`.

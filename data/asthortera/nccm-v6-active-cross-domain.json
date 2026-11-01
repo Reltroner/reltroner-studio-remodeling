@@ -12,7 +12,7 @@
     "unchanged_national_gdp_share": true,
     "legacy_ratios_58_22_10_7_3": "superseded; never current planet primary distribution",
     "deferred_18_states": "Canon C: 18-country combined 804B residual (SDI 0.8984017412935316; TFR 1.900696517412935; real growth 0.03688730813469307) is approved as ONE statistical aggregate, not 18 independent invented national censuses",
-    "missing_local_facts": "five new country land area/ancestry/fertility/inflation/gini remain unavailable; no values are fabricated",
+    "missing_local_facts": "All five new nations' terrestrial areas and modeled TFR are now creator-ratified; primary ancestry, national age, CPI, income Gini and other local measures still remain unassigned. Country polygons, individual residual-18 areas and constructed volumes are unknown.",
     "migration_decision": "Creator ratified: Astrostelia exports 35B and Lenternow exports 40B to Scenrepolia/Calespia/Ethaptoria/Krisberia. Source percentages and SDI stay fixed; conserve all six ancestry categories globally.",
     "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
     "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix.",
@@ -45,16 +45,25 @@
         },
         "Mapether": {
           "current": 91
+        },
+        "Scenrepolia": {
+          "current": 100,
+          "previous_status": "unassigned; historical cartographic estimate only",
+          "ratification_date": "2026-11-01"
+        },
+        "Krisberia": {
+          "current": 75,
+          "previous_status": "unassigned; historical cartographic estimate only",
+          "ratification_date": "2026-11-01"
         }
       },
       "unknowns_remain_unassigned": [
-        "Scenrepolia.land_area_million_km2",
-        "Krisberia.land_area_million_km2",
         "18_residual_individual_land_areas",
         "3d_constructed_volume"
       ],
       "maritime_hargenbor_civilian_underwater_floor_m": -1000,
-      "maritime_hargenbor_legal_depth_m": -36000
+      "maritime_hargenbor_legal_depth_m": -36000,
+      "final_19_country_area_reconciliation_2026_11_01": "19 countries: original 14 = 2176 million km2; Eastern five = 496 million km2; assigned = 2672 million km2; 18 individually deferred countries = 1831 million km2 unallocated; planet land = 4503 million km2. No GIS boundaries, constructed volumes or individual residual-18 land areas invented."
     },
     "spatial_3d_distribution_ratification_2026_11_01": "Creator ratified prior 19-nation N/A/O/D land-cover and L/G/W/F primary-habitat percentage pairs; established land areas unchanged; volume/geometry unassigned."
   },
@@ -1146,7 +1155,7 @@
       "specialization": "Electromagnetism; induction and materials",
       "specialization_factor": 1.23,
       "country_specific_ancestry_status": "not_ratifed",
-      "land_area_million_km2": null,
+      "land_area_million_km2": 100,
       "median_age_years": null,
       "tfr": 1.66,
       "annual_inflation": null,
@@ -1220,7 +1229,7 @@
       "specialization": "Crystal craftsmanship and advanced materials",
       "specialization_factor": 1.17,
       "country_specific_ancestry_status": "not_ratifed",
-      "land_area_million_km2": null,
+      "land_area_million_km2": 75,
       "median_age_years": null,
       "tfr": 1.72,
       "annual_inflation": null,
@@ -1816,12 +1825,9 @@
     "dormancy_not_abandonment": true,
     "operational_state_distinct_from_biological_occupancy": true,
     "legal_rights_distinct_from_residence": true,
-    "terrestrial_known_area_million_km2": 2497,
-    "unallocated_terrestrial_envelope_million_km2": 2006,
-    "unknown_area_countries": [
-      "Scenrepolia",
-      "Krisberia"
-    ],
+    "terrestrial_known_area_million_km2": 2672,
+    "unallocated_terrestrial_envelope_million_km2": 1831,
+    "unknown_area_countries": [],
     "residual_18_land_disaggregation": null,
     "residual_18_habitat_census": null,
     "horizontal_spatial_crs": null,

@@ -3,7 +3,7 @@ title: "Krisberia — The Crystalline Civilization of Craftsmanship"
 description: "A high-development, historically peaceful Eastern Asthorteran nation of crystal materials, precision craft, design ethics and artisan diplomacy, with unconditionally ratified 2320 BAC founding and NCCM V6 sectoral modeling."
 author: "Reltroner Studio"
 date: "2026-10-30"
-lastUpdated: "2026-10-30"
+lastUpdated: "2026-11-01"
 published: false
 canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remain unassigned"
 world: "Asthortera"
@@ -39,7 +39,7 @@ tags:
 | GDP per resident per year | **USD 16.457119 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 16.457119 billion** |
 | Local currency / reference quotation | **KRF** / USD 86.20 per unit |
-| Land area | **Unassigned** |
+| Land area | **75 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -134,6 +134,7 @@ Krisberia is described in a Reltronland border source as a **crystalline kingdom
 | Field | Current profile |
 |---|---|
 | Country | **Krisberia** |
+| National terrestrial land area (Year 0) | **75 million km² (Canon C, 2026-11-01)** |
 | Position | Southeastern part of Asthortera's **Eastern Continent** |
 | State characterization | **Crystalline kingdom** in existing border lore; formal governmental structure unresolved |
 | Civilizational specialization | Crystal and advanced materials, craftsmanship, high-quality manufacturing and luxury design |
@@ -169,7 +170,7 @@ The established geographic model specifies a relationship among **Reltronepolis'
 - specialty manufacturing corridors connected to neighboring transport infrastructure;
 - residential cities with sustainable sourcing and ecological impact controls.
 
-Geological composition, mineral reserves, mapped deposits, national area, coastline and exact terrain remain undetermined. A glowing gemstone aesthetic alone cannot establish extractable resources or magical properties.
+Geological composition, mineral reserves, mapped deposits, coastline and exact terrain remain undetermined. **National terrestrial land area is 75 million km² (Canon C, 2026-11-01)**, although the border polygon is not digitized. A glowing gemstone aesthetic alone cannot establish extractable resources or magical properties.
 
 ### Kistalia — proposed national center of crystal craftsmanship
 
@@ -277,7 +278,7 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 | National total fertility rate (Year 0 C) | **1.72** | Ratified modeled TFR; cohort data unassigned |
 | National median age and life expectancy | **Unassigned** | No invented demographic measurements |
 | Annual CPI, income Gini, unemployment, carbon | **Open** | No invented measured figures |
-| National land area | **Open** | Map provides geography, not verified km² |
+| National land area | **75 million km²** | Creator-ratified terrestrial footprint (Canon C); exact polygon remains open |
 
 The modeled SDI identity is **0.60 × 0.9560 + 0.40 × 0.9535 = 0.955**. This gives a conceptually consistent individual/institution split, **not** an independently observed microdata result.
 
@@ -387,7 +388,7 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 2. Name the actual capital, formal government system and the relationship between the kingdom title and constitutional accountability.
 3. **Resolved:** KRF is the sole active national currency; market FX and purchasing power remain to be measured.
 4. Create the national six-category ancestry table, species-aware longevity, cohort model and local demographic series.
-5. Establish geology, modern land area, reserve extraction rules and national density.
+5. Establish geology, reserve extraction rules, national border polygons and settlement density without changing the ratified 75 million km² terrestrial area.
 6. Derive actual GDP through materials supply chains and services while preserving the NCCM V6 macro contribution target.
 7. Preserve the **4% founding territory**, **28% 1125–1121 territory**, **nonbelligerence**, and Leastroper sovereignty boundary.
 
@@ -403,7 +404,7 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
 | Currency code and modeled FX | **KRF** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
-| Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
+| Unpublished national ancestry and vital statistics | Unassigned: do not fabricate; terrestrial area **75 million km² Canon C** |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |
 
 **World-scale accounting:** The original 14 profiled countries now contain **3,213 billion** people after internal migration. The five additional Eastern countries now contain **395 billion combined**, leaving **804 billion in 18 other countries**. Krisberia is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Krisberia's local ancestry percentages.

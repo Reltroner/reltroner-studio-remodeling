@@ -20,7 +20,7 @@ Each unique Year 0 resident is counted exactly once, based on main home: **L** s
 
 ## Spatial 3D geometry and jurisdiction
 
-- Land areas for Beluftner **363**, Calespia **120**, Ethaptoria **110**, Mapether **91 million km²** remain Canon C without change. Scenrepolia and Krisberia land km² **null**. Known 17-country land is **2,497 million km²**; residual **2,006 million km²** is unallocated across these two states and 18 deferred states.
+- Land areas for Beluftner **363**, Calespia **120**, Ethaptoria **110**, Mapether **91**, Scenrepolia **100**, Krisberia **75 million km²** are Canon C. All 19 named nations total **2,672 million km²** (original fourteen **2,176**, Eastern five **496**); the remaining **1,831 million km²** is unallocated only across the 18 deferred states, not 18 measured national records.
 - Hargenbor: civilian/public permanent underwater housing only **−1,000 m ≤ z ≤ 0 m** (datum relative to mean sea level); maritime legal jurisdiction extends to **z = −36,000 m**, but does not authorize deeper permanent public civilian settlement. Underwater principal-home population is **42% × 133B = 55.86B**; its depth distribution is unmeasured.
 - The planet-wide speculative ±20 km ordinary habitation envelope is a *technical capability*, not a filled volume or common nationwide settlement depth.
 - Coordinates `x,y,z` require a planet-specific CRS, sea datum, terrain/bathymetry surfaces and polygon/cell geometry. All currently **unassigned**. `w,v` refer to 4D/5D mobility, not cubic kilometers or social stratification.
@@ -29,6 +29,6 @@ Each unique Year 0 resident is counted exactly once, based on main home: **L** s
 
 ## Reproducibility
 
-**C:** 19 national surface and habitat percentage partitions, existing country areas and populations, Hargenbor legal depth. **D:** resident totals by habitat, arithmetic residual 2,006 million km². **Unassigned:** voxels, constructed/habitable km³, underwater depth histogram, per-national residual-18 measurements. **Archive A:** previously unratified scenario designation.
+**C:** 19 national areas, surface and habitat percentage partitions, country populations and Hargenbor legal depth. **D:** resident totals by habitat, arithmetic residual 1,831 million km². **Unassigned:** voxels, constructed/habitable km³, underwater depth histogram, per-national residual-18 measurements. **Archive A:** previously unratified scenario designation.
 
-QA requires both national 100% closures, 19 national resident sum 3,608B, 17 known land area 2,497M km², no changes to planet SDI .947 / TFR proxy 1.63 / nominal GDP baseline / growth 4%, Hargenbor no public civilian homes below −1km.
+QA requires both national 100% closures, 19 national resident sum 3,608B, 19 known land area 2,672M km², Eastern five 496M km² and residual 18 land budget 1,831M km², no changes to planet SDI .947 / TFR proxy 1.63 / nominal GDP baseline / growth 4%, Hargenbor no public civilian homes below −1km.

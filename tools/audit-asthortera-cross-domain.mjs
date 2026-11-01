@@ -122,12 +122,12 @@ for(const c of v.countries_5){
  inspect(c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26,'FX_RANGE',c.name);
  inspect(c.country_specific_ancestry_status==='not_ratifed','DO_NOT_FABRICATE_5_NATION_ANCESTRY',c.name);
 }
-const ratifiedAreas={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91};
+const ratifiedAreas={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91,Scenrepolia:100,Krisberia:75};
 for(const [name,area] of Object.entries(ratifiedAreas)) {
  const country=[...v.countries_14,...v.countries_5].find(c=>c.name===name);
  inspect(country?.land_area_million_km2===area,'RATIFIED_NATIONAL_LAND_AREA',name+' must keep '+area+' million km²');
 }
-inspect(v.countries_5.find(c=>c.name==='Scenrepolia')?.land_area_million_km2===null&&v.countries_5.find(c=>c.name==='Krisberia')?.land_area_million_km2===null,'UNRATIFIED_EASTERN_LAND_AREA_NULL','Do not invent Scenrepolia/Krisberia km²');
+inspect(v.countries_5.reduce((a,c)=>a+c.land_area_million_km2,0)===496&&v.spatial_volumetric_canon.unknown_area_countries.length===0,'RATIFIED_EASTERN_LAND_AREAS','All five Eastern terrestrial footprints are ratified');
 const hs=v.countries_14.find(c=>c.name==='Hargenbor')?.maritime_spatial_canon;
 inspect(hs?.civilian_public_underwater_urban_z_min_m===-1000&&hs?.deepest_maritime_sovereignty_z_m===-36000&&hs?.civilian_underwater_population_pct===null,'HARGENBOR_CIVILIAN_DEPTH_BOUNDARY','Civilian residences max 1 km deep, sovereignty remains 36 km, population unknown');
 // Year 0 cross-domain V6.5 fertility and real GDP growth invariants.
@@ -209,7 +209,7 @@ for(const c of [...v.countries_14,...v.countries_5]){
  inspect(s?.constructed_volume_km3===null&&s?.habitable_volume_km3===null&&s?.polygon===null,'SPATIAL_3D_UNKNOWN_VOLUME',c.name);
  inspect((files.get(c.source)||'').includes('### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)'),'SPATIAL_NATIONAL_PROFILE',c.name);
 }
-inspect(eq(sum([...v.countries_14,...v.countries_5],c=>c.land_area_million_km2||0),2497)&&v.countries_5.find(c=>c.name==='Scenrepolia').land_area_million_km2===null&&v.countries_5.find(c=>c.name==='Krisberia').land_area_million_km2===null,'SPATIAL_AREA_PRESERVED','Land areas unchanged');
+inspect(eq(sum([...v.countries_14,...v.countries_5],c=>c.land_area_million_km2),2672)&&v.spatial_volumetric_canon.terrestrial_known_area_million_km2===2672&&v.spatial_volumetric_canon.unallocated_terrestrial_envelope_million_km2===1831&&P.land_area_million_km2===4503,'SPATIAL_AREA_RECONCILIATION','2,672 million km² assigned + 1,831 million km² unallocated = 4,503 million km² planet land');
 inspect(v.countries_14.find(c=>c.name==='Hargenbor').spatial_3d_canon.principal_habitat_pct.underwater===42,'HARGENBOR_42_PERCENT_UNDERWATER','42% residents underwater');
 warning('SECTOR_CAPITAL_LABOR_MODEL','Sector shares are value-added targets, not independently calibrated input-output matrices');
 info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_original_14_billion',value:3213},{metric:'population_eastern_5_billion',value:395},{metric:'migration_billion',value:75},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});

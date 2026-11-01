@@ -26,10 +26,15 @@ test('19-state spatial C surface and resident matrices sum to 100 independently'
  }
 });
 test('Geographical area lock and residual 18 census remain intact',()=>{
- const lock={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91,Scenrepolia:null,Krisberia:null};
+ const lock={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91,Scenrepolia:100,Krisberia:75};
  for(const [n,a] of Object.entries(lock))assert.equal(countries.find(c=>c.name===n).land_area_million_km2,a,n);
- assert.equal(countries.reduce((a,c)=>a+(c.land_area_million_km2||0),0),2497);
- assert.equal(m.spatial_volumetric_canon.unallocated_terrestrial_envelope_million_km2,2006);
+ assert.equal(countries.reduce((a,c)=>a+c.land_area_million_km2,0),2672);
+ assert.equal(m.spatial_volumetric_canon.terrestrial_known_area_million_km2,2672);
+ assert.deepEqual(m.spatial_volumetric_canon.unknown_area_countries,[]);
+ assert.equal(m.spatial_volumetric_canon.unallocated_terrestrial_envelope_million_km2,1831);
+ assert.equal(m.planet.land_area_million_km2-2672,1831);
+ assert.match(read('content/statistics/asthortera-nccm-v65-spatial-composition.md'),/\| Scenrepolia \| 100 \|/);
+ assert.match(read('content/statistics/asthortera-nccm-v65-spatial-composition.md'),/\| Krisberia \| 75 \|/);
  assert.equal(countries.reduce((a,c)=>a+c.population_billion,0),3608);
  assert.equal(m.planet.population_billion,4412);
  assert.equal(m.aggregate_remaining_18.population_billion,804);
