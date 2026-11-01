@@ -177,6 +177,12 @@ Each individual source nation sums to 100%, independently of the departure volum
 
 **Scope caveats:** Carbon intensity cannot yet be ranked reliably without harmonizing gross versus offset-adjusted reporting. TFR and educational access proxies are comparative scenarios, not a universal census. National-level median ages and TFR cannot be inferred for the five newer states or the residual 18.
 
+## 5T. Canon C — 19-country volumetric spatial composition (2026-11-01)
+
+**Ratified N/A/O/D percentage surface states** and **L/G/W/F percentage usual-resident habitats** form independent 100%-closed distributions. No projected percentage is automatically a 3D volume fraction. Areas locked: Beluftner 363, Calespia 120, Ethaptoria 110, Mapether 91 million km², Scenrepolia/Krisberia unassigned. Known national land 2,497 million km², residual 2,006 million km² unallocated. Hargenbor 42% underwater primary residents (55.86B derived), maximum permanent civilian underwater depth −1km, with −36km maritime legal sovereignty.
+
+Read [19-country public 3D spatial series](./asthortera-nccm-v65-spatial-composition.md). Geodetic polygons, actual constructed/habitable km³ and 18 residual country census remain unassigned.
+
 ## 5S. Canon C — National terrestrial land-area amendment (2026-11-01)
 
 | Nation | Land area (million km²) | Canon C decision |

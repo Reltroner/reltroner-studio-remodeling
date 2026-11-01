@@ -1,5 +1,23 @@
 // Deterministic renderer: all quantities and national cross-domain values from the active NCCM V6.5 ledger.
 // Outputs are canon C. Missing fields remain unassigned. Changes to the generator need audit/test updates.
+function renderSpatial(c){
+ const s=c.spatial_3d_canon;if(!s)return [];
+ const a=s.land_surface_pct,b=s.principal_habitat_pct;
+ return [
+ "### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)","",
+ "**Terrestrial surface footprint — percent national land area (not built km³):**","",
+ "| Surface class | Share |","|---|---:|",
+ ...[["nature_minimal_intervention","Natural low-intervention"],["urban_active","Active built urban"],["urban_operational_low_or_biological_zero","Operational low/biological-zero built urban"],["urban_dormant","Dormant built urban"]].map(([k,l])=>`| ${l} | **${a[k]}%** |`),
+ "| **Total terrestrial land** | **100%** |","",
+ "**Principal home habitats — percent unique residents (not surface area or urbanization):**","",
+ "| Home habitat | Share | Derived residents (billion) |","|---|---:|---:|",
+ ...[["surface_land","Land surface"],["underground","Underground"],["underwater","Underwater"],["floating","Floating"]].map(([k,l])=>`| ${l} | **${b[k]}%** | **${(c.population_billion*b[k]/100).toFixed(2)}** |`),
+ `| **Total primary residents** | **100%** | **${c.population_billion.toFixed(2)}** |`,"",
+ "**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.",
+ ...(c.name==="Hargenbor"?["**Hargenbor:** 42% underwater usual residents (55.86 billion derived); permanent public civilian underwater homes **−1,000 to 0 m**; maritime sovereign jurisdiction extends to **−36,000 m**, but does not permit deep civilian residency."]:[]),""
+ ];
+}
+
 function renderNational(c,j){
  const fmt=(x,d=2)=>Number(x).toFixed(d), pct=(x,d=2)=>`${fmt(x*100,d)}%`, n=(x,d=3)=>Number(x).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
  const a=c.ancestry_primary_pct,found=j.historical_foundations.ordered_core.find(x=>x.name===c.name);
@@ -47,6 +65,7 @@ function renderNational(c,j){
  "",
  a==null?"**Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Known migrant cohorts carry their source classification; they do not determine the ancestry percentages of the entire recipient country.":`**Accounting check:** the six mutually exclusive primary shares sum to ${fmt(Object.values(a).reduce((x,y)=>x+y,0),2)}%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.`,
  "",
+ ...renderSpatial(c),
  "### National production and population continuity",
  "",
  `**Productive specialization:** ${c.specialization}. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.`,
