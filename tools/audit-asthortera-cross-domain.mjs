@@ -124,7 +124,7 @@ for(const c of v.countries_5){
 }
 const ratifiedAreas={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91};
 for(const [name,area] of Object.entries(ratifiedAreas)) {
- const country=activeNations.find(c=>c.name===name);
+ const country=[...v.countries_14,...v.countries_5].find(c=>c.name===name);
  inspect(country?.land_area_million_km2===area,'RATIFIED_NATIONAL_LAND_AREA',name+' must keep '+area+' million km²');
 }
 inspect(v.countries_5.find(c=>c.name==='Scenrepolia')?.land_area_million_km2===null&&v.countries_5.find(c=>c.name==='Krisberia')?.land_area_million_km2===null,'UNRATIFIED_EASTERN_LAND_AREA_NULL','Do not invent Scenrepolia/Krisberia km²');
