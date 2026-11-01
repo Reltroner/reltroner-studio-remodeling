@@ -2,6 +2,8 @@
 
 **Release boundary: INTERNAL. This entire directory must not be synchronized to the production `reltroner-studio/content` collection.** It is a reusable editorial and statistical modeling workspace. No `/remodeling` public website route should exist.
 
+[Content architecture](../README.md) — navigation index. This workspace remains internal-only.
+
 ## Conventions
 
 - `kalgered-consumption-methodology-v65.md` — an existing Kalgered-specific **reference implementation** of the reusable methodology format; its numeric observations are only for Kalgered.
