@@ -109,7 +109,7 @@
       "phantomkind": 98.0086618004866,
       "other": 125.503150851582
     },
-    "ancestry_reference_provenance": "Frozen pre-migration 14-country population-weighted primary ancestry reference, denominator 3288B; preserved by explicit creator instruction. After moving 75B within Asthortera, do not recompute a different planet projection from the smaller 3213B original fourteen alone; all transferred migrants retain source ancestry counts, the five recipient national compositions are incomplete."
+    "ancestry_reference_provenance": "Frozen creator-ratified six-category planetary benchmark: the earlier 14-country weighted reference used 3288B residents, while the current 14-country subset totals 3213B. This is methodological provenance of a non-diegetic calibration, not a recorded transfer of residents. National ancestry distributions for the five additional countries remain unassigned."
   },
   "census": {
     "profiled_original_14_countries": 14,

@@ -451,11 +451,11 @@ Social and political rights attach to sentient persons, not national cultural ar
 5. **Kalgered legacy spending brackets total 99%** and lack an authorized one-percentage-point reallocation.
 6. **Resolved:** KRF and MWV are sole active national codes; real FX and price/wage series remain unmeasured.
 7. **V2/V3/V4 source snapshots are archive-only:** earlier ancestry, GDP and country partitions never override the [V6.5 Canon C ledger](../../data/asthortera/nccm-v6-active-cross-domain.json); there is no active numeric crosswalk.
-8. **Theoretical SDI of the 18-state bloc** is a balancing value, not a verified observed outcome. Recomputing it after migration is valid under a fixed planetary population-weighted SDI of 0.947, but not a claim of changed individual welfare.
+8. **Theoretical SDI of the 18-state bloc** is a balancing value, not a verified observed outcome. The resulting value is the mathematical SDI residual needed to preserve the planetary population-weighted SDI of 0.947; it is not evidence that individual welfare changed.
 9. **Space infrastructure continuity:** Pasgerflit's **1545 BAC** aviation standardization does *not* imply spacecraft were first invented then; the surrounding worlds already possessed spaceflight.
 
 ### Explicit QA contract
 
-`npm run test:worldbuilding` runs the historical and current regression suites. `npm run canon:qa:strict` enforces source dates and the active 37-state 14/5/18 population partition, six-class conservation under migration, SDI reconciliation and GDP/FX accounting. A genuinely contradicted numeric claim is **P0 failure**; honestly deferred country-level estimates are **P1/P2**, never invented to make the CI green.
+`npm run test:worldbuilding` runs the historical and current regression suites. `npm run canon:qa:strict` enforces source dates and the active 37-state 14/5/18 population partition, six-class conservation under population-denominator calibration, SDI reconciliation and GDP/FX accounting. A genuinely contradicted numeric claim is **P0 failure**; honestly deferred country-level estimates are **P1/P2**, never invented to make the CI green.
 
 **The world is coherent when its historical causes, physical production, demographic identities and institutional choices agree without falsely declaring missing information complete.**
