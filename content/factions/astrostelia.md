@@ -37,7 +37,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.67** |
 | Real GDP growth (Year 0, C) | **4.17%** |
-| Annual nominal GDP (Model B, C) | **USD 5.259470604040e+21** |
+| Annual nominal GDP (Canon C) | **USD 5.259470604040e+21** |
 | National share of planetary GDP | **4.655478%** |
 | GDP per resident per year | **USD 28.429571 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 28.429571 billion** |
@@ -91,7 +91,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### National production and population continuity
 
-**Productive specialization:** Cosmology, orbital engineering, interstellar research. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Productive specialization:** Cosmology, orbital engineering, interstellar research. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Year 0 internal migration provenance (3 routes):**
 - Astrostelia → Scenrepolia: **10 billion** residents (origin primary ancestry preserved)
 - Astrostelia → Calespia: **10 billion** residents (origin primary ancestry preserved)
@@ -104,7 +104,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Astrostelia · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **185 billion** residents; SDI **0.957**; TFR **1.67**; annual real GDP growth **4.17%**; nominal annual GDP (Model B) **USD 5.259470604040e+21**; GDP share **4.6555%** (approximately).
+> Current national anchors: **185 billion** residents; SDI **0.957**; TFR **1.67**; annual real GDP growth **4.17%**; nominal annual GDP (Canon C) **USD 5.259470604040e+21**; GDP share **4.6555%** (approximately).
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 28,429,570,833/year**, or approximately **AAC 288,040,231/year** using the modeled **USD 98.70 per AAC** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **253 years**; CPI: **0.37%**; income Gini: **0.280**; national six-way primary ancestry: **Ratified C (see above)**.
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.

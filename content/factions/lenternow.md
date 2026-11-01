@@ -27,7 +27,7 @@ coreTheme: "Civilization of Illumination"
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.70** |
 | Real GDP growth (Year 0, C) | **3.91%** |
-| Annual nominal GDP (Model B, C) | **USD 3.769176985130e+21** |
+| Annual nominal GDP (Canon C) | **USD 3.769176985130e+21** |
 | National share of planetary GDP | **3.336328%** |
 | GDP per resident per year | **USD 21.661937 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 21.661937 billion** |
@@ -81,7 +81,7 @@ coreTheme: "Civilization of Illumination"
 
 ### National production and population continuity
 
-**Productive specialization:** Light engineering, phosphor resources, luminance exports. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Productive specialization:** Light engineering, phosphor resources, luminance exports. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Year 0 internal migration provenance (4 routes):**
 - Lenternow → Scenrepolia: **10 billion** residents (origin primary ancestry preserved)
 - Lenternow → Krisberia: **10 billion** residents (origin primary ancestry preserved)
@@ -95,7 +95,7 @@ coreTheme: "Civilization of Illumination"
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Lenternow · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **174 billion** residents; SDI **0.935**; TFR **1.70**; annual real GDP growth **3.91%**; nominal annual GDP (Model B) **USD 3.769176985130e+21**; GDP share **3.3363%** (approximately).
+> Current national anchors: **174 billion** residents; SDI **0.935**; TFR **1.70**; annual real GDP growth **3.91%**; nominal annual GDP (Canon C) **USD 3.769176985130e+21**; GDP share **3.3363%** (approximately).
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 21,661,936,696/year**, or approximately **LNR 317,623,705/year** using the modeled **USD 68.20 per LNR** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **251 years**; CPI: **0.35%**; income Gini: **0.310**; national six-way primary ancestry: **Ratified C (see above)**.
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.

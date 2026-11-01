@@ -23,7 +23,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.63** |
 | Real GDP growth (Year 0, C) | **3.64%** |
-| Annual nominal GDP (Model B, C) | **USD 2.875745259478e+21** |
+| Annual nominal GDP (Canon C) | **USD 2.875745259478e+21** |
 | National share of planetary GDP | **2.545497%** |
 | GDP per resident per year | **USD 20.395356 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 20.395356 billion** |
@@ -77,7 +77,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### National production and population continuity
 
-**Productive specialization:** Global scouting, responsible forestry, high-value finished furniture, woodcraft manufacturing, experiential learning. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Productive specialization:** Global scouting, responsible forestry, high-value finished furniture, woodcraft manufacturing, experiential learning. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
 
 **National productive canon:** finished furniture, high-value processed timber and precision craftsmanship; government debt **52% of GDP**. Sector-wide furniture GDP share remains unassigned.
@@ -89,7 +89,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Stelpadland · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **141 billion** residents; SDI **0.961**; TFR **1.63**; annual real GDP growth **3.64%**; nominal annual GDP (Model B) **USD 2.875745259478e+21**; GDP share **2.5455%** (approximately).
+> Current national anchors: **141 billion** residents; SDI **0.961**; TFR **1.63**; annual real GDP growth **3.64%**; nominal annual GDP (Canon C) **USD 2.875745259478e+21**; GDP share **2.5455%** (approximately).
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 20,395,356,450/year**, or approximately **ST 244,842,214/year** using the modeled **USD 83.30 per ST** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **253 years**; CPI: **0.27%**; income Gini: **0.240**; national six-way primary ancestry: **Ratified C (see above)**.
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.

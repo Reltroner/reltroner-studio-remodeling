@@ -36,7 +36,7 @@ related_document: "Reltroner Studio Chronology and Calendar System"
 | Other eighteen population-weighted SDI | **0.898402** |
 | Year 0 planet TFR | **1.63** |
 | Year 0 planet real GDP growth | **4.00%** |
-| Year 0 annual nominal GDP, Model B 10× | **USD 1.129738063975e+23** |
+| Year 0 annual nominal GDP (Canon C) | **USD 1.129738063975e+23** |
 | Year 0 annual GNI, adopted zero-net-primary-income bridge | **USD 1.129738063975e+23** |
 | Year 0 median age | **252 years** |
 | Year 0 life expectancy | **475 years** |
@@ -1068,7 +1068,7 @@ The economic-demographic transition also raised **life expectancy from 80 to ~47
 
 The economic Miracle describes accumulated institutional capability and innovation, **not 12% GDP growth every year for 250 years**. An archived V2 nominal USD reconstruction uses **3.0% GDP CAGR for Reltronland** and **2.5% for the planet** during 250 BAC–Year 0, with **~12.44255%** Reltronland GDP share at 250 BAC, versus **42% at Year 0**. Exceptional 12% or 25% annual growth episodes must be reconciled with the full period, not extrapolated forever.
 
-The 1010-year nominal GDP CAGRs are **alpha ~1.7851937% planetary** and **rho ~2.0360492% Reltronland**, in USD, while **Year 0 canonical planetary nominal GDP ~USD 1.12973806397464 × 10^23** under the 10× Integrated Income-Output Model B is derived from national GDP and 42% Reltronland share. Consumer inflation, GDP deflators, GNI, exchange-rate appreciation, market capitalization and PPP are distinct measures. Model assumptions and unresolved national-source data are tracked in [NCCM V2](../statistics/asthortera-nccm-remodeling.md).
+The 1010-year nominal GDP CAGRs are **alpha ~1.7851937% planetary** and **rho ~2.0360492% Reltronland**, in USD, while **Year 0 canonical planetary nominal GDP ~USD 1.12973806397464 × 10^23** under the 10× integrated production-and-income accounting baseline is derived from national GDP and 42% Reltronland share. Consumer inflation, GDP deflators, GNI, exchange-rate appreciation, market capitalization and PPP are distinct measures. Model assumptions and unresolved national-source data are tracked in [NCCM V2](../statistics/asthortera-nccm-remodeling.md).
 
 ---
 

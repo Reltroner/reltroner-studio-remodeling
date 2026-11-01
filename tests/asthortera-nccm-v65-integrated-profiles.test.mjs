@@ -47,7 +47,7 @@ test('Five Eastern national TFRs are ratified C while unknown ancestries, age, C
   assert.match(renderGate(c),/national six-way primary ancestry: \*\*Unassigned \(not zero\)\*\*/i);
  }
 });
-test('No silent pre-Model-B GNI headlines or old aggregate population split remain in key active profiles',()=>{
+test('No silent pre-reconciliation GNI headlines or old aggregate population split remain in key active profiles',()=>{
  const file=n=>readFileSync(path.join(root,'content/factions/'+n+'.md'),'utf8');
  assert.match(file('kalgered'),/GNI per Capita \(Year 0 NCCM V6\.5 C\).*KAL 276,949,053\/year/);
  assert.match(file('taramistry'),/Gross National Income Per Capita \(Year 0 NCCM V6\.5 C\).*TAR 225,749,246 \/ year/);

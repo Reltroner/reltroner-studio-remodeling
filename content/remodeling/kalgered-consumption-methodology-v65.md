@@ -31,7 +31,7 @@ tags: ["Kalgered", "NCCM V6.5", "Data-Driven Worldbuilding", "Methodology"]
 
 **What remains a scenario:** The inherited representative points KAL 500 / 3,000 / 12,000 / 37,000 / 120,000 give a *hypothetical* population-weighted mean **KAL 23,050 per person per day**, **not** a surveyed or creator-ratified national mean. Actual within-band means, sample size, uncertainty, age/species detail and household microdata remain **unassigned**. A 5% top bracket does not cap spending at KAL 120,000.
 
-**Macroeconomic guardrails:** Kalgered SDI **0.979**, income Gini **0.210**, Year 0 nominal GDP (Model B) **USD 3.164530663053e+21**, GDP/GNI bridge and KAL exchange quotation remain separate indicators. **GDP/GNI per person is not disposable household income**, and spending categories cannot be used to recompute income Gini or GDP without an expenditure-account model.
+**Macroeconomic guardrails:** Kalgered SDI **0.979**, income Gini **0.210**, Year 0 nominal GDP (ratified accounting baseline) **USD 3.164530663053e+21**, GDP/GNI bridge and KAL exchange quotation remain separate indicators. **GDP/GNI per person is not disposable household income**, and spending categories cannot be used to recompute income Gini or GDP without an expenditure-account model.
 
 ## Where does this fictional census data come from?
 

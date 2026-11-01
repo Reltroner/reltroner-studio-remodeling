@@ -32,7 +32,7 @@ inspect(v.schema_version==='NCCM-V6.5-foundation-fertility-growth-reconciled','V
 inspect(eq(P.population_billion,4412)&&P.sovereign_states===37&&eq(P.sdi,.947),'PLANET_ANCHOR','4,412B, 37 states and SDI .947 must remain');
 inspect(eq(P.year0.tfr,1.63)&&eq(P.year0.median_age_years,252)&&eq(P.year0.urbanization_rate,.895)&&eq(P.year0.annual_inflation,.0033),'YEAR0_ANCHORS','Year 0 vital and economic rates');
 inspect(eq(P.historical_1010_BAC.median_age_years,30)&&eq(P.historical_1010_BAC.urbanization_rate,.68)&&eq(P.historical_1010_BAC.annual_inflation,.043),'BAC1010_ANCHORS','Historical demographic and inflation targets');
-inspect(v.provenance.gdp_uplift_factor===10&&v.provenance.unchanged_national_gdp_share,'INTEGRATED_UPLIFT_B','The creator selected Model B with unchanged GDP percentage shares');
+inspect(v.provenance.gdp_uplift_factor===10&&v.provenance.unchanged_national_gdp_share,'INTEGRATED_NOMINAL_ACCOUNTING','The creator selected ratified accounting baseline with unchanged GDP percentage shares');
 inspect(v.provenance.legacy_ratios_58_22_10_7_3.startsWith('superseded'),'LEGACY_ANCESTRY_RETIRED','Five-way planet ancestry must not be active');
 inspect(v.countries_14.length===14&&v.countries_5.length===5&&v.aggregate_remaining_18.state_count===18,'NATIONAL_COUNTS','14+5+18 must equal 37');
 inspect(eq(sum(v.countries_14,x=>x.population_billion),3213)&&eq(sum(v.countries_5,x=>x.population_billion),395)&&eq(v.aggregate_remaining_18.population_billion,804),'POPULATION_PARTITION','3,213B + 395B + 804B');

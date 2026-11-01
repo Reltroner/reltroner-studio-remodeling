@@ -54,7 +54,7 @@ test('75B migration routes and special cases are conserved and rendered',()=>{
 });
 
 
-test('Reltronland public economic tables and end summary use V6.5 Model B, not archived V2 GDP/GNI',()=>{
+test('Reltronland public economic tables and end summary use V6.5 ratified accounting baseline, not archived V2 GDP/GNI',()=>{
  const c=nations.find(x=>x.name==='Reltronland');
  assert.ok(c,'Reltronland ledger entry');
  const profile=readFileSync(path.join(root,c.source),'utf8');

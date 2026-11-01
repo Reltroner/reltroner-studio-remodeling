@@ -35,7 +35,7 @@ tags:
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.73** |
 | Real GDP growth (Year 0, C) | **4.20%** |
-| Annual nominal GDP (Model B, C) | **USD 1.106496346475e+21** |
+| Annual nominal GDP (Canon C) | **USD 1.106496346475e+21** |
 | National share of planetary GDP | **0.979427%** |
 | GDP per resident per year | **USD 13.172576 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 13.172576 billion** |
@@ -89,7 +89,7 @@ tags:
 
 ### National production and population continuity
 
-**Productive specialization:** Combinatorial education and puzzle simulation. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Productive specialization:** Combinatorial education and puzzle simulation. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Year 0 internal migration provenance (2 routes):**
 - Astrostelia → Ethaptoria: **15 billion** residents (origin primary ancestry preserved)
 - Lenternow → Ethaptoria: **10 billion** residents (origin primary ancestry preserved)
@@ -108,7 +108,7 @@ tags:
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Ethaptoria · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **84 billion** residents; SDI **0.950**; TFR **1.73**; annual real GDP growth **4.20%**; nominal annual GDP (Model B) **USD 1.106496346475e+21**; GDP share **0.9794%** (approximately).
+> Current national anchors: **84 billion** residents; SDI **0.950**; TFR **1.73**; annual real GDP growth **4.20%**; nominal annual GDP (Canon C) **USD 1.106496346475e+21**; GDP share **0.9794%** (approximately).
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 13,172,575,553/year**, or approximately **EPT 214,537,061/year** using the modeled **USD 61.40 per EPT** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **Unassigned (not zero)**; CPI: **Unassigned (not zero)**; income Gini: **Unassigned (not zero)**; national six-way primary ancestry: **Unassigned (not zero)**.
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
@@ -271,7 +271,7 @@ This must not become a universal caricature: cities should retain ordinary homes
 
 ## 7. NCCM V6 national quantitative baseline
 
-The creator-approved **Integrated Income-Output Uplift (Model B)** increases the Year 0 harmonized nominal GDP and GNI levels by **10×** while preserving national GDP contribution percentages. **Neither the uplift nor a high nominal USD value is a 900% consumer-price inflation event.** Asthortera's Year 0 total stays at **4,412 billion distinct sentients** in **37 sovereign countries**, with planetary SDI **0.947** and planetary TFR **1.63**. The original fourteen statistically detailed nations plus five Eastern candidates sit inside that fixed set; no new population is created by profiling this country.
+The creator-approved **ratified integrated production-and-income baseline** increases the Year 0 harmonized nominal GDP and GNI levels by **10×** while preserving national GDP contribution percentages. **Neither the uplift nor a high nominal USD value is a 900% consumer-price inflation event.** Asthortera's Year 0 total stays at **4,412 billion distinct sentients** in **37 sovereign countries**, with planetary SDI **0.947** and planetary TFR **1.63**. The original fourteen statistically detailed nations plus five Eastern candidates sit inside that fixed set; no new population is created by profiling this country.
 
 These country-specific numeric estimates are the **creator-ratified NCCM V6.5 five-country national model C**. The creator accepted prior scenario/derived model classes in principle; the assigned five-country values are canonical within the model, **not separately reconstructed census observations**.
 

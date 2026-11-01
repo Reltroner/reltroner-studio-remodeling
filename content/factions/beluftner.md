@@ -30,7 +30,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.80** |
 | Real GDP growth (Year 0, C) | **3.32%** |
-| Annual nominal GDP (Model B, C) | **USD 8.429475089776e+20** |
+| Annual nominal GDP (Canon C) | **USD 8.429475089776e+20** |
 | National share of planetary GDP | **0.746144%** |
 | GDP per resident per year | **USD 9.263159 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 9.263159 billion** |
@@ -84,7 +84,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### National production and population continuity
 
-**Productive specialization:** Arcane education, magical agriculture, spiritual heritage. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Productive specialization:** Arcane education, magical agriculture, spiritual heritage. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
 
 **Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
@@ -94,7 +94,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Beluftner · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **91 billion** residents; SDI **0.896**; TFR **1.80**; annual real GDP growth **3.32%**; nominal annual GDP (Model B) **USD 8.429475089776e+20**; GDP share **0.7461%** (approximately).
+> Current national anchors: **91 billion** residents; SDI **0.896**; TFR **1.80**; annual real GDP growth **3.32%**; nominal annual GDP (Canon C) **USD 8.429475089776e+20**; GDP share **0.7461%** (approximately).
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 9,263,159,439/year**, or approximately **BLF 421,052,702/year** using the modeled **USD 22.00 per BLF** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **249 years**; CPI: **0.48%**; income Gini: **0.280**; national six-way primary ancestry: **Ratified C (see above)**.
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.

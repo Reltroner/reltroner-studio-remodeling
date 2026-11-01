@@ -30,7 +30,7 @@ published: true
 | Planet SDI | **0.947** |
 | Planet TFR, adopted population-weighted proxy | **1.63** |
 | Planet real GDP growth, GDP-share-weighted | **4.00%** |
-| Year 0 GDP, nominal Model B, USD | **1.129738063975e+23** |
+| Year 0 nominal GDP, USD | **1.129738063975e+23** |
 | GNI, zero-foreign-primary-income bridge, USD | **1.129738063975e+23** |
 | 14 / 5 / residual 18 SDI, population weighted | **0.958950 / 0.948714 / 0.898402** |
 | Residual 18 aggregate TFR proxy / real growth | **1.900697 / 3.688731%** |
@@ -53,7 +53,7 @@ Six-class primary ancestry, representative planetary population benchmark:
 
 **Sovereign foundations (BAC):** Stelpadland 2882; Pencilfania 2732; Calespia 2628; Ethaptoria 2556; Krisberia 2320 (unconditional); Mapether 2164; Lenternow 2072; Hargenbor 1984; Moreg 1713; Pasgerflit 1545; Scenrepolia 1234; Taramistry 1210; Reltronland 1125; Depcutland 1121. These record sovereign founding, not first settlement.
 
-**Boundaries:** Model B 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C.
+**Boundaries:** ratified accounting baseline 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C.
 <!-- END NCCM_V65_PLANETARY_CROSSDOC -->
 
 ### 🔹 Despite a Lower Kardashev Rating…

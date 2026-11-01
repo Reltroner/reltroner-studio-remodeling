@@ -56,8 +56,8 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 | Year 0 annual CPI inflation | **0.33%** | C |
 | Year 0 real GDP growth (creator-ratified) | **4.00%** | C |
 | Net interplanetary migration | Positive and significant; net count unknown | C qualitative |
-| Model B annual GDP | **USD 1.129738063975e+23** | C (adopted accounting model) |
-| Model B annual GNI, zero external primary-income bridge | **USD 1.129738063975e+23** | C (adopted zero-bridge accounting assumption) |
+| Year 0 annual nominal GDP | **USD 1.129738063975e+23** | C (adopted accounting model) |
+| Year 0 annual GNI, zero external primary-income bridge | **USD 1.129738063975e+23** | C (adopted zero-bridge accounting assumption) |
 | Nominal GDP or provisional GNI per capita | **USD 25.606030 billion / sentient / year** | C (derived model value, not household survey) |
 
 **1010 BAC historical reference:** median age **30 years**; life expectancy **80 years**; urbanization **68%**; annual inflation **4.3%**. More detailed cohorts, growth paths and species-specific longevity remain modeling tasks.

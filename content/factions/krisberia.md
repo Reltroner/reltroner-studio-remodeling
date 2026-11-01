@@ -34,7 +34,7 @@ tags:
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.72** |
 | Real GDP growth (Year 0, C) | **3.90%** |
-| Annual nominal GDP (Model B, C) | **USD 9.545129098321e+20** |
+| Annual nominal GDP (Canon C) | **USD 9.545129098321e+20** |
 | National share of planetary GDP | **0.844898%** |
 | GDP per resident per year | **USD 16.457119 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 16.457119 billion** |
@@ -88,7 +88,7 @@ tags:
 
 ### National production and population continuity
 
-**Productive specialization:** Crystal craftsmanship and advanced materials. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Productive specialization:** Crystal craftsmanship and advanced materials. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Year 0 internal migration provenance (1 routes):**
 - Lenternow → Krisberia: **10 billion** residents (origin primary ancestry preserved)
 
@@ -106,7 +106,7 @@ tags:
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Krisberia · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **58 billion** residents; SDI **0.955**; TFR **1.72**; annual real GDP growth **3.90%**; nominal annual GDP (Model B) **USD 9.545129098321e+20**; GDP share **0.8449%** (approximately).
+> Current national anchors: **58 billion** residents; SDI **0.955**; TFR **1.72**; annual real GDP growth **3.90%**; nominal annual GDP (Canon C) **USD 9.545129098321e+20**; GDP share **0.8449%** (approximately).
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 16,457,119,135/year**, or approximately **KRF 190,917,855/year** using the modeled **USD 86.20 per KRF** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **Unassigned (not zero)**; CPI: **Unassigned (not zero)**; income Gini: **Unassigned (not zero)**; national six-way primary ancestry: **Unassigned (not zero)**.
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
@@ -257,7 +257,7 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 
 ## 7. NCCM V6 integrated economy
 
-**Model status.** The NCCM V6.5 five-country allocation is a **creator-ratified canon C national modeled baseline**, not an independently completed national statistical survey. The creator adopted **Integrated Income-Output Uplift (Model B)**: planet GDP and GNI nominal level rise 10× while national percentage GDP contributions remain unchanged. National CPI inflation does not thereby become 900%. The model's planet totals remain **4,412 billion unique sentients, 37 sovereign countries, SDI 0.947**, and planetary TFR **1.63**.
+**Model status.** The NCCM V6.5 five-country allocation is a **creator-ratified canon C national modeled baseline**, not an independently completed national statistical survey. The creator adopted **ratified integrated production-and-income baseline**: planet GDP and GNI nominal level rise 10× while national percentage GDP contributions remain unchanged. National CPI inflation does not thereby become 900%. The model's planet totals remain **4,412 billion unique sentients, 37 sovereign countries, SDI 0.947**, and planetary TFR **1.63**.
 
 | Metric | Ratified NCCM V6.5 Year 0 model (C where assigned) | Interpretation |
 |---|---:|---|

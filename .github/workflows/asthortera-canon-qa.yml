@@ -36,8 +36,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Discover statistical drafting labels across repository
-        run: node tools/audit-economic-publication-language.mjs --report
+      - name: Reject obsolete economic drafting labels in repository source
+        run: node tools/audit-economic-publication-language.mjs --check
       - name: Run worldbuilding statistical regression tests
         run: npm run test:worldbuilding
       - name: Enforce all 19 NCCM V6.5 national profile integration gates

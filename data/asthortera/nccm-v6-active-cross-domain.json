@@ -7,7 +7,7 @@
     "previous_source": "data/asthortera/nccm-v3-14-country-comparative-model.json",
     "previous_14_source": "data/asthortera/national-cross-domain-audit-2026-10-30.json",
     "primary_ancestry_rule": "Creator-ratified canonical C: each person assigned one of six primary classes; 14-country pre-migration population-weighted distribution (3288B) adopted as representative planet standard; remaining 18 individually unprofiled and five new national ancestry profiles still unavailable",
-    "economic_model": "Creator-ratified canon C: Integrated Income-Output Uplift B, base-year nominal GDP=production gross-value-added+product taxes-product subsidies; GNI=GDP+net external primary income, adopted canonical zero-bridge convention; independent trade and deflators not yet built",
+    "economic_model": "Creator-ratified Canon C integrated production-and-income accounting: annual nominal GDP equals gross value added plus product taxes less product subsidies; GNI equals GDP plus net foreign primary income. The current zero-net-primary-income convention is an accounting assumption, not an observed equivalence. National GDP shares are preserved under the adopted 10× level reconciliation. Independent production surveys, deflators and consumption observations are still unassigned.",
     "gdp_uplift_factor": 10,
     "unchanged_national_gdp_share": true,
     "legacy_ratios_58_22_10_7_3": "superseded; never current planet primary distribution",

@@ -23,7 +23,7 @@
       "cistheta": 0.1,
       "other": 0.02
     },
-    "gni_per_capita_kal_year_status": "ARCHIVED pre-Model-B national income proxy, not current V6.5"
+    "gni_per_capita_kal_year_status": "ARCHIVED pre-reconciliation national income proxy, not current V6.5"
   },
   "historical_spending_snapshot": {
     "bands": [

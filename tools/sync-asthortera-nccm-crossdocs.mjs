@@ -23,7 +23,7 @@ function render(m,mode){
  `| Planet SDI | **${f(p.sdi,3)}** |`,
  `| Planet TFR, adopted population-weighted proxy | **${f(y.tfr)}** |`,
  `| Planet real GDP growth, GDP-share-weighted | **${f(y.real_gdp_growth*100)}%** |`,
- `| Year 0 GDP, nominal Model B, USD | **${y.gdp_usd_annual_V6.toExponential(12)}** |`,
+ `| Year 0 nominal GDP, USD | **${y.gdp_usd_annual_V6.toExponential(12)}** |`,
  `| GNI, zero-foreign-primary-income bridge, USD | **${y.gni_usd_annual_V6_zero_bridge.toExponential(12)}** |`,
  `| 14 / 5 / residual 18 SDI, population weighted | **${f(c.original_14_population_weighted_sdi,6)} / ${f(c.new_five_population_weighted_sdi,6)} / ${f(r.sdi_population_weighted_required,6)}** |`,
  `| Residual 18 aggregate TFR proxy / real growth | **${f(r.tfr_population_weighted_proxy_required,6)} / ${f(r.real_gdp_growth_gdp_weighted_required*100,6)}%** |`,
@@ -40,7 +40,7 @@ function render(m,mode){
  "",
  `**Sovereign foundations (BAC):** ${m.historical_foundations.ordered_core.map(v=>`${v.name} ${v.bac}${v.name==="Krisberia"?" (unconditional)":""}`).join("; ")}. These record sovereign founding, not first settlement.`,
  "",
- "**Boundaries:** Model B 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C."
+ "**Boundaries:** ratified accounting baseline 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C."
  ];
  if(mode==="full")s.push("","**Nineteen country-level canon C anchors**","","| Country | Residents B | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |","|---|---:|---:|---:|---:|---:|",...n.map(v=>`| ${v.name} | ${v.population_billion} | ${f(v.sdi,3)} | ${f(v.tfr_candidate)} | ${f(v.real_gdp_growth*100)}% | ${f(v.gdp_usd_annual_V6/1e21,4)} |`),`| **Residual 18 — one aggregate only** | **${r.population_billion}** | **${f(r.sdi_population_weighted_required,6)}** | **${f(r.tfr_population_weighted_proxy_required,6)}** | **${f(r.real_gdp_growth_gdp_weighted_required*100,6)}%** | **${f(r.gdp_usd_annual_V6/1e21,4)}** |`);
  s.push("<!-- END NCCM_V65_PLANETARY_CROSSDOC -->");

@@ -42,7 +42,7 @@ Immutable baseline: Kalgered **108 billion** Year 0 residents, SDI **0.979**, in
 | **Reported / classified** | **99%** | **Incomplete** |
 | **Unassigned** | **1%** | **Missing assignment, not inferred population class** |
 
-**Archival ruling:** The 99% must not be multiplied by 100/99, treated as a complete current census, back-calculated into income Gini, or combined with the new C bands. Old GNI KAL 17,956,408/year was superseded by the V6.5 Model B accounting bridge.
+**Archival ruling:** The 99% must not be multiplied by 100/99, treated as a complete current census, back-calculated into income Gini, or combined with the new C bands. Old GNI KAL 17,956,408/year was superseded by the V6.5 ratified accounting baseline accounting bridge.
 
 ### Verbatim prior public-profile spending block (preserved as audit artifact)
 
@@ -50,9 +50,9 @@ Immutable baseline: Kalgered **108 billion** Year 0 residents, SDI **0.979**, in
 
 **NCCM V6.5 rule:** The missing 1 percentage point is **unassigned, not zero**. Never normalize the 99% by assumption or promote the unrelated 2/18/45/30/5 proposal as a measured distribution. [Kalgered and sector-account modeling options](../../docs/nccm-v65-open-modeling-decisions.md) remain NONCANONICAL. Canon population, SDI, Gini and GDP/GNI stay unchanged.
 
-**Accounting and remodeling notice (2026-10-30):** the **archived, unratified V1** five-tier table below is **not a complete reconciled distribution**, and must not be used to calculate income Gini or current annual private spending. The band thresholds alone yield **at least KAL 47,530/day** in average minimum private spending across the stated 99% classified population, versus **archived pre-Model-B KAL 49,195.64/day** (current V6.5 modeled GNI capacity ≈ **KAL 758,765/day**, not actual expenditure). This is a significant cross-domain modeling constraint, not merely a 1% rounding issue.
+**Accounting and remodeling notice (2026-10-30):** the **archived, unratified V1** five-tier table below is **not a complete reconciled distribution**, and must not be used to calculate income Gini or current annual private spending. The band thresholds alone yield **at least KAL 47,530/day** in average minimum private spending across the stated 99% classified population, versus **archived pre-reconciliation KAL 49,195.64/day** (current V6.5 modeled GNI capacity ≈ **KAL 758,765/day**, not actual expenditure). This is a significant cross-domain modeling constraint, not merely a 1% rounding issue.
 
-A **NONCANONICAL Kalgered V1 remodeling candidate** proposes a complete **2% / 18% / 45% / 30% / 5%** distribution across revised private-expenditure bands, alongside a separate SDI-component methodology while **retaining SDI 0.979, population 108 billion, and **archived V1** GNI per capita KAL 17,956,408 (superseded by V6.5 Model B)**. Those provisional shares must not silently replace the historic table until explicitly ratified. See the [37-country lineage and Kalgered remodeling proposal](../statistics/asthortera-37-country-lineage-and-kalgered-remodeling.md) and its [structured candidate](../../data/asthortera/kalgered-remodeling-candidate-v1.json).
+A **NONCANONICAL Kalgered V1 remodeling candidate** proposes a complete **2% / 18% / 45% / 30% / 5%** distribution across revised private-expenditure bands, alongside a separate SDI-component methodology while **retaining SDI 0.979, population 108 billion, and **archived V1** GNI per capita KAL 17,956,408 (superseded by V6.5 ratified accounting baseline)**. Those provisional shares must not silently replace the historic table until explicitly ratified. See the [37-country lineage and Kalgered remodeling proposal](../statistics/asthortera-37-country-lineage-and-kalgered-remodeling.md) and its [structured candidate](../../data/asthortera/kalgered-remodeling-candidate-v1.json).
 
 
 
@@ -114,7 +114,7 @@ The active six-class Year 0 ledger instead assigns Kalgered 40% Depeisit, 10% Ci
 
 ## Full historical machine-record references
 
-- [Early Kalgered candidate JSON](../../data/asthortera/kalgered-remodeling-candidate-v1.json): historical 99% snapshot, initial 2/18/45/30/5 scenario, legacy pre-Model-B economic fields. The latter candidate's shares and band boundaries were subsequently adopted into **new Canon C**, but the prior file's assumptions and historical values must not be promoted wholesale.
+- [Early Kalgered candidate JSON](../../data/asthortera/kalgered-remodeling-candidate-v1.json): historical 99% snapshot, initial 2/18/45/30/5 scenario, legacy pre-reconciliation economic fields. The latter candidate's shares and band boundaries were subsequently adopted into **new Canon C**, but the prior file's assumptions and historical values must not be promoted wholesale.
 - [Historical NCCM 14-country audit](../../data/asthortera/national-cross-domain-audit-2026-10-30.json): source provenance, with superseded census definitions.
 - [Historical NCCM V3 comparative model](../../data/asthortera/nccm-v3-14-country-comparative-model.json): reproducibility-only model, not current GDP/TFR.
 - [Historical NCCM V2 baseline](../../data/asthortera/nccm-baseline-v2.json).
