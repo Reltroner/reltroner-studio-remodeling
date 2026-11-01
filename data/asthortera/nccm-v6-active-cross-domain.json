@@ -6,16 +6,16 @@
     "status": "creator_ratified_full_NCCM_V6_5_canon_C_all_currently_assigned_values; archived_modeling_inputs_preserved_only_for_provenance",
     "previous_source": "data/asthortera/nccm-v3-14-country-comparative-model.json",
     "previous_14_source": "data/asthortera/national-cross-domain-audit-2026-10-30.json",
-    "primary_ancestry_rule": "Creator-ratified canonical C: each person assigned one of six primary classes; 14-country pre-migration population-weighted distribution (3288B) adopted as representative planet standard; remaining 18 individually unprofiled and five new national ancestry profiles still unavailable",
+    "primary_ancestry_rule": "Creator-ratified canonical C: each person assigned one of six primary classes; 14-country representative benchmark (3288B) adopted as representative planet standard; remaining 18 individually unprofiled and five new national ancestry profiles still unavailable",
     "economic_model": "Creator-ratified Canon C integrated production-and-income accounting: annual nominal GDP equals gross value added plus product taxes less product subsidies; GNI equals GDP plus net foreign primary income. The current zero-net-primary-income convention is an accounting assumption, not an observed equivalence. National GDP shares are preserved under the adopted 10× level reconciliation. Independent production surveys, deflators and consumption observations are still unassigned.",
     "gdp_uplift_factor": 10,
     "unchanged_national_gdp_share": true,
     "legacy_ratios_58_22_10_7_3": "superseded; never current planet primary distribution",
     "deferred_18_states": "Canon C: 18-country combined 804B residual (SDI 0.8984017412935316; TFR 1.900696517412935; real growth 0.03688730813469307) is approved as ONE statistical aggregate, not 18 independent invented national censuses",
     "missing_local_facts": "All five new nations' terrestrial areas and modeled TFR are now creator-ratified; primary ancestry, national age, CPI, income Gini and other local measures still remain unassigned. Country polygons, individual residual-18 areas and constructed volumes are unknown.",
-    "migration_decision": "Creator ratified: Astrostelia exports 35B and Lenternow exports 40B to Scenrepolia/Calespia/Ethaptoria/Krisberia. Source percentages and SDI stay fixed; conserve all six ancestry categories globally.",
-    "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
-    "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix.",
+    "migration_decision": "ARCHIVED INTERNAL CALIBRATION ONLY. Prior numerical reallocations were used to reconcile the current Year 0 national population denominators, not to establish an in-universe migration event. Resulting resident figures remain Canon C.",
+    "model_output_income_rule": "Nominal GDP and shares remained fixed during earlier population-denominator reconciliation; per-capita values use the current census. No physical migration or welfare implication.",
+    "ancestry_representativity_change": "Six-class ancestry is a creator-adopted 3288B statistical benchmark; its vintage does not establish a narrative transfer.",
     "foundation_date_ratification": "Creator-ratified five dates: Lenternow 2072 BAC; Hargenbor 1984 BAC; Moreg 1713 BAC; Pasgerflit 1545 BAC; Taramistry 1210 BAC. Old Taramistry 1186 BAC superseded.",
     "stelpadland_finance_ratification": "Creator ratified government public debt ratio 52% of GDP (previous 42% was archival V3 scenario, now superseded). This coincides with a finished-furniture industry identity; do not infer debt causation as proven or fabricate furniture production shares.",
     "pencilfania_krisberia_foundation_correction": "Creator ratified Pencilfania 2732 BAC (supersedes 2694); Krisberia 2320 BAC unconditional, no historic territorial-completion precondition.",
@@ -1556,8 +1556,8 @@
     }
   ],
   "migration_year0": {
-    "ratification_status": "creator_approved_national_transfer",
-    "event_class": "internal_planetary_resident_reallocation_not_net_planetary_migration",
+    "ratification_status": "archived_statistical_reconciliation_only_not_a_canon_migration_event",
+    "event_class": "historical_model_calibration_not_an_in_universe_event",
     "before": {
       "astrostelia_population_billion": 220,
       "lenternow_population_billion": 214,
@@ -1690,8 +1690,8 @@
     "sdi_aggregator": "Each origin and receiving nation's fixed composite SDI; residual 18-country group recalculated to preserve planetary .947. This is a national-assignment model, not a measurement of changed individual capability.",
     "gdp_policy": "Keep V6.1 country's nominal GDP and global GDP shares unchanged for this demographic-only iteration; per-capita denominators recalculated.",
     "planet_ancestry_policy": "Frozen population-weighted pre-transfer 14-country benchmark, with exact ancestry conservation across destination and origin; do not recompute global composition from reduced country subset.",
-    "timeframe": "Year 0 census redistribution; the creator did not specify whether the 75B movement occurred rapidly, across generations, via natural migration or policy. Do not interpret as instantaneous forced relocation.",
-    "legal_personhood_policy": "Migrants retain unique person identity and primary ancestry; legal citizenship, consent, civil rights, employment integration and period of movement require separate narrative decisions."
+    "timeframe": "Historical accounting calibration only; it does not establish any physical relocation.",
+    "legal_personhood_policy": "Not applicable as an in-universe event; the routes are non-canonical mathematical history."
   },
   "historical_foundations": {
     "date_scale": "BAC (higher value older)",
@@ -1793,7 +1793,7 @@
     "status": "C",
     "ratified_date": "2026-10-31",
     "authority": "Creator's most recent decision in this conversation supersedes contradictory historic V2/V3/V4 sources",
-    "scope": "ALL currently populated NCCM V6.5 Year 0 worldbuilding remodeling values are adopted as canonical model values, including 14+5+18 nation partition, 75B migration, six-way primary ancestry, 19 national population/SDI/TFR/growth, macro GDP/GNI accounting, 18-state aggregate residuals, sovereign founding chronology and Stelpadland debt/finished furniture; sole active national currency codes KRF (Krisberia) and MWV (Mapether); 19-nation Year 0 3D spatial surface and resident-mode percentage matrices ratified 2026-11-01",
+    "scope": "ALL currently populated NCCM V6.5 Year 0 worldbuilding remodeling values are adopted as canonical model values, including 14+5+18 nation partition, six-way primary ancestry, 19 national population/SDI/TFR/growth, macro GDP/GNI accounting, 18-state aggregate residuals, sovereign founding chronology and Stelpadland debt/finished furniture; sole active national currency codes KRF (Krisberia) and MWV (Mapether); 19-nation Year 0 3D spatial surface and resident-mode percentage matrices ratified 2026-11-01",
     "interpretation": "C means creator-approved truth within the adopted modeling universe, including derived/accounting parameters; it does not assert independent historical observation, clinical species-specific cohort evidence, or detailed production microdata",
     "unknowns_remain_unknown": [
       "18 unallocated individual national profiles",

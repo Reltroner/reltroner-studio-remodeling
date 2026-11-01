@@ -41,7 +41,6 @@ Asthortera-scale understanding
 |---|---:|
 | Countries / unique residents | **37 / 4,412 billion** |
 | Original 14 + additional 5 + residual 18 | **3,213B + 395B + 804B** |
-| Internal Year 0 migration / planetary net headcount | **75B / zero** |
 | Planet SDI | **0.947** |
 | Planet TFR, adopted population-weighted proxy | **1.63** |
 | Planet real GDP growth, GDP-share-weighted | **4.00%** |
@@ -62,9 +61,7 @@ Six-class primary ancestry, representative planetary population benchmark:
 | Other | 2.844586% | 125.503 |
 | **Total** | **100%** | **4,412** |
 
-**Ancestry provenance:** Frozen from the original 3288B pre-transfer 14-country reference, not calculated from today's 3,213B donor-group population. Mixed lineage overlaps primary ancestry and must not be added twice.
-
-**Seven ratified internal routes (total 75B):** Astrostelia → Scenrepolia 10B; Astrostelia → Calespia 10B; Astrostelia → Ethaptoria 15B; Lenternow → Scenrepolia 10B; Lenternow → Krisberia 10B; Lenternow → Ethaptoria 10B; Lenternow → Calespia 10B. This moves existing residents between countries, **not** 75B incoming interplanetary migrants. The ledger leaves transfer duration, consent/citizenship procedures, and external immigration headcounts open.
+**Ancestry provenance:** Retained from the approved 3288B 14-country representative benchmark. This is a statistical reference convention, not a recorded population-transfer event. Mixed lineage overlaps primary ancestry and must not be added twice.
 
 **Sovereign foundations (BAC):** Stelpadland 2882; Pencilfania 2732; Calespia 2628; Ethaptoria 2556; Krisberia 2320 (unconditional); Mapether 2164; Lenternow 2072; Hargenbor 1984; Moreg 1713; Pasgerflit 1545; Scenrepolia 1234; Taramistry 1210; Reltronland 1125; Depcutland 1121. These record sovereign founding, not first settlement.
 
@@ -72,28 +69,28 @@ Six-class primary ancestry, representative planetary population benchmark:
 
 **Nineteen country-level canon C anchors**
 
-| Country | Residents B | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |
-|---|---:|---:|---:|---:|---:|
-| Reltronland | 855 | 0.984 | 1.15 | 4.01% | 47.4490 |
-| Depcutland | 343 | 0.981 | 1.32 | 4.01% | 11.2787 |
-| Kalgered | 108 | 0.979 | 1.63 | 3.69% | 3.1645 |
-| Aurastelia | 164 | 0.970 | 1.95 | 3.75% | 4.0990 |
-| Astrostelia | 185 | 0.957 | 1.67 | 4.17% | 5.2595 |
-| Lenternow | 174 | 0.935 | 1.70 | 3.91% | 3.7692 |
-| Taramistry | 242 | 0.954 | 1.75 | 4.39% | 5.4304 |
-| Moreg | 205 | 0.931 | 1.50 | 4.44% | 3.2213 |
-| Pencilfania | 182 | 0.940 | 1.88 | 3.80% | 3.1292 |
-| Stelpadland | 141 | 0.961 | 1.63 | 3.64% | 2.8757 |
-| Pasgerflit | 279 | 0.949 | 1.82 | 4.39% | 6.3590 |
-| Hargenbor | 133 | 0.925 | 1.86 | 3.58% | 1.7600 |
-| Beluftner | 91 | 0.896 | 1.80 | 3.32% | 0.8429 |
-| Cenrestier | 111 | 0.911 | 1.72 | 3.58% | 1.2907 |
-| Scenrepolia | 88 | 0.956 | 1.66 | 4.25% | 1.4359 |
-| Krisberia | 58 | 0.955 | 1.72 | 3.90% | 0.9545 |
-| Mapether | 74 | 0.937 | 1.89 | 4.10% | 1.1346 |
-| Ethaptoria | 84 | 0.950 | 1.73 | 4.20% | 1.1065 |
-| Calespia | 91 | 0.946 | 2.01 | 4.00% | 1.2352 |
-| **Residual 18 — one aggregate only** | **804** | **0.898402** | **1.900697** | **3.688731%** | **7.1779** |
+| Country | Residents B | Planet residents % | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |
+|---|---:|---:|---:|---:|---:|---:|
+| Reltronland | 855 | 19.3790% | 0.984 | 1.15 | 4.01% | 47.4490 |
+| Depcutland | 343 | 7.7743% | 0.981 | 1.32 | 4.01% | 11.2787 |
+| Kalgered | 108 | 2.4479% | 0.979 | 1.63 | 3.69% | 3.1645 |
+| Aurastelia | 164 | 3.7171% | 0.970 | 1.95 | 3.75% | 4.0990 |
+| Astrostelia | 185 | 4.1931% | 0.957 | 1.67 | 4.17% | 5.2595 |
+| Lenternow | 174 | 3.9438% | 0.935 | 1.70 | 3.91% | 3.7692 |
+| Taramistry | 242 | 5.4850% | 0.954 | 1.75 | 4.39% | 5.4304 |
+| Moreg | 205 | 4.6464% | 0.931 | 1.50 | 4.44% | 3.2213 |
+| Pencilfania | 182 | 4.1251% | 0.940 | 1.88 | 3.80% | 3.1292 |
+| Stelpadland | 141 | 3.1958% | 0.961 | 1.63 | 3.64% | 2.8757 |
+| Pasgerflit | 279 | 6.3237% | 0.949 | 1.82 | 4.39% | 6.3590 |
+| Hargenbor | 133 | 3.0145% | 0.925 | 1.86 | 3.58% | 1.7600 |
+| Beluftner | 91 | 2.0626% | 0.896 | 1.80 | 3.32% | 0.8429 |
+| Cenrestier | 111 | 2.5159% | 0.911 | 1.72 | 3.58% | 1.2907 |
+| Scenrepolia | 88 | 1.9946% | 0.956 | 1.66 | 4.25% | 1.4359 |
+| Krisberia | 58 | 1.3146% | 0.955 | 1.72 | 3.90% | 0.9545 |
+| Mapether | 74 | 1.6772% | 0.937 | 1.89 | 4.10% | 1.1346 |
+| Ethaptoria | 84 | 1.9039% | 0.950 | 1.73 | 4.20% | 1.1065 |
+| Calespia | 91 | 2.0626% | 0.946 | 2.01 | 4.00% | 1.2352 |
+| **Residual 18 — one aggregate only** | **804** | **18.2230%** | **0.898402** | **1.900697** | **3.688731%** | **7.1779** |
 <!-- END NCCM_V65_PLANETARY_CROSSDOC -->
 
 <!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
@@ -121,16 +118,15 @@ Six-class primary ancestry, representative planetary population benchmark:
 
 ## NCCM V6.5 — Year 0 canon statistics (C)
 
-**CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, seven migration routes, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).
+**CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).
 
 | Planetary and national accounting scope | Canon C |
 |---|---:|
 | Unique sentient population | **4,412 billion (4.412 trillion)** |
 | Sovereign countries | **37** |
-| Original fourteen countries, after migration | **3,213 billion** |
-| Additional five modeled countries, after migration | **395 billion** |
+| Original fourteen countries, Year 0 | **3,213 billion** |
+| Additional five modeled countries, Year 0 | **395 billion** |
 | Remaining eighteen countries, combined canon residual | **804 billion** |
-| Internal migration, Astrostelia and Lenternow combined | **75 billion people** |
 | Planet SDI | **0.947** |
 | Original fourteen population-weighted SDI | **0.958950** |
 | Additional five population-weighted SDI | **0.948714** |
@@ -156,7 +152,7 @@ Six-class primary ancestry, representative planetary population benchmark:
 | Other | 2.844586% | 125.503 |
 | **Total** | **100%** | **4,412** |
 
-These six shares are the creator-adopted **pre-migration 14-country population-weighted representative planet benchmark**. The migration redistributes residents geographically but does not create/destroy sentients or change global primary ancestry. Inclusive mixed lineage is a different, overlapping metric. National ancestry for five added states and individual data for the eighteen remaining countries are still unassigned; these are **open facts**, not alternative active census values.
+These six shares are the creator-adopted **14-country representative planetary ancestry benchmark**. Its construction is statistical and does not establish a historical relocation of residents. Inclusive mixed lineage is a different, overlapping metric. National ancestry for five added states and individual data for the eighteen remaining countries are still unassigned; these are **open facts**, not alternative active census values.
 
 **Current sovereign foundation chronology (C):** Stelpadland **2882 BAC**; Pencilfania **2732 BAC**; Calespia **2628 BAC**; Ethaptoria **2556 BAC**; Krisberia **2320 BAC, unconditional**; Mapether **2164 BAC**; Lenternow **2072 BAC**; Hargenbor **1984 BAC**; Moreg **1713 BAC**; Pasgerflit **1545 BAC**; Scenrepolia **1234 BAC**; Taramistry **1210 BAC**. Historical settlement, stewardship, resource discovery, and eventual territory-completion dates are different concepts.
 
@@ -380,7 +376,7 @@ Its demographic structure is strongly shaped by interstellar migration.
 
 ## 7.1 Population Composition
 
-Asthortera's Year 0 **primary** population is counted once in six exclusive, **creator-ratified NCCM V6.5** categories: **Depeisit 47.511618%**, **Cistheta 19.859641%**, **Cosmeilian 16.210462%**, **Native Asthorteran 11.352281%**, **Phantomkind / Spiritual Hybrid 2.221411%**, **Other 2.844586%**. These are the accepted global primary-ancestry model shares, projected from the 3,288B **pre-migration** original fourteen. The **current** census splits the planet into **3,213B (14) + 395B (5) + 804B (18) = 4,412B (37)**. Source populations Astrostelia (220B→185B) and Lenternow (214B→174B) move 75B total to Scenrepolia, Krisberia, Ethaptoria and Calespia; global ancestry and donor SDIs are conserved. Earlier 58/22/10/7/3 five-way shares and the 3,288B+1,124B 14/23 reporting partition are **historical superseded modeling states**, not current Year 0 canon.
+Asthortera's Year 0 **primary** population is counted once in six exclusive, **creator-ratified NCCM V6.5** categories: **Depeisit 47.511618%**, **Cistheta 19.859641%**, **Cosmeilian 16.210462%**, **Native Asthorteran 11.352281%**, **Phantomkind / Spiritual Hybrid 2.221411%**, **Other 2.844586%**. These are the adopted global primary-ancestry shares from a **3,288B fourteen-country reference benchmark**, not evidence of population movement. The current Year 0 census is **3,213B (14) + 395B (5) + 804B (18) = 4,412B (37)**. The current national totals are independent canon population allocations. Earlier 58/22/10/7/3 five-way shares and the 3,288B+1,124B 14/23 reporting partition are **historical superseded modeling states**, not current Year 0 canon.
 
 Most modern population growth is connected to migration from older, stagnant, unstable, or collapsing civilizations.
 

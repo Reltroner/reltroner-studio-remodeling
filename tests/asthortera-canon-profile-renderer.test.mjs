@@ -37,13 +37,15 @@ test('Six primary ancestry classes are C for original 14; added five remain expl
    assert.match(renderNational(c,model),/Unassigned \(not zero\)/);
  }
 });
-test('75B migration routes and special cases are conserved and rendered',()=>{
+test('Archived denominator calibration is not presented as national migration lore',()=>{
  const routes=model.migration_year0.routes;
  assert.equal(routes.reduce((x,r)=>x+r.population_billion,0),75);
  assert.equal(model.migration_year0.total_planet_population_change_billion,0);
  for(const c of [...model.countries_14,...model.countries_5]){
   const block=renderNational(c,model);
-  for(const r of routes.filter(r=>r.origin===c.name||r.destination===c.name))assert.ok(block.includes(r.origin+' → '+r.destination),c.name);
+  assert.match(block,/Share of Asthortera's 4,412B residents/);
+  assert.ok(block.includes('**'+(100*c.population_billion/model.planet.population_billion).toFixed(4)+'%**'));
+  assert.doesNotMatch(block,/Year 0 internal migration provenance|75B internal movement|seven ratified Astrostelia/);
  }
  const stel=renderNational(model.countries_14.find(x=>x.name==='Stelpadland'),model);
  assert.match(stel,/finished furniture/);

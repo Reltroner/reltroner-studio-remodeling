@@ -1,6 +1,6 @@
 ---
 title: "Asthortera NCCM V6.5 — Full Cross-Domain Canon and Modeling Reference"
-description: "Creator-ratified founder dates, 75B internal migration, 19 nation demographic and economic comparisons, six-category ancestry, institutional SDI, 10x GDP/GNI, culture, sectors and unresolved constraints."
+description: "Creator-ratified founder dates, 19-nation population allocation, demographic and economic comparisons, six-category ancestry, institutional SDI, 10x GDP/GNI, culture, sectors and unresolved constraints."
 author: "Reltroner Studio"
 date: "2026-10-31"
 lastUpdated: "2026-11-01"
@@ -24,7 +24,7 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 
 - [Active canon authority — retroactive adoption of NCCM V6.5](#active-canon-authority--retroactive-adoption-of-nccm-v65)
 - [Version rules and provenance](#version-rules-and-provenance)
-- [2. Census geography — 14 + 5 + 18 after 75B migration](#2-census-geography--14--5--18-after-75b-migration)
+- [2. Census geography — 14 + 5 + 18 Year 0 country allocation](#2-census-geography--14--5--18-year-0-country-allocation)
 - [3. Current 19-country quantitative comparison (all national profiles available)](#3-current-19-country-quantitative-comparison-all-national-profiles-available)
 - [5. Society and development (14 detailed nations)](#5-society-and-development-14-detailed-nations)
 - [5T. Canon C — 19-country volumetric spatial composition (2026-11-01)](#5t-canon-c--19-country-volumetric-spatial-composition-2026-11-01)
@@ -46,13 +46,13 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 
 ## Version rules and provenance
 
-**C = current creator-ratified canon.** The creator has ratified **all assigned NCCM V6.5 Year 0 remodeling values** including national TFR and real growth, 18-state residual values, 60/40 national SDI component model, 10× GDP/GNI accounting, ancestry, migration and foundations. **C (calculated)** means the canonical value is defined by an explicit aggregation model, not that its underlying cohort census or economic supply-use data have been observed. **O = unassigned**, not zero and not canon. Older **S/D** provenance labels in archives indicate how values were originally obtained; they no longer qualify their **current canon adoption**. All figures are Year 0 unless explicitly dated BAC.
+**C = current creator-ratified canon.** The creator has ratified **all assigned NCCM V6.5 Year 0 remodeling values** including national TFR and real growth, 18-state residual values, 60/40 national SDI component model, 10× GDP/GNI accounting, ancestry and founding chronology. **C (calculated)** means the canonical value is defined by an explicit aggregation model, not that its underlying cohort census or economic supply-use data have been observed. **O = unassigned**, not zero and not canon. Older **S/D** provenance labels in archives indicate how values were originally obtained; they no longer qualify their **current canon adoption**. All figures are Year 0 unless explicitly dated BAC.
 
 - **V6.3 founding dates:** Lenternow **2072**, Hargenbor **1984**, Moreg **1713**, Pasgerflit **1545**, Taramistry **1210 BAC**, all directly ratified. Earlier **Taramistry 1186 BAC is superseded**.
 - **V6.5 canon C ratification:** creator-ratified Pencilfania **2732 BAC**, Krisberia **2320 BAC unconditional**, TFR planet **1.63**, and Year 0 real GDP growth **4.00%**; 19 canonical national values and one canon C combined 18-country residual are reconciled.
-- **V6.2 demographic conservation:** moved **75B internal residents** from Astrostelia and Lenternow into Scenrepolia, Calespia, Ethaptoria and Krisberia. Counts and per-capita model denominators updated; donor SDIs and six-way percentages kept.
+- **V6.2 national population reconciliation:** the historical statistical model was rebalanced to the present 19-country Year 0 census. The approved resident counts and per-capita denominators remain in force; the retired balancing mechanism is not an in-universe migration event.
 - **V6.1 income-output:** integrated **10× nominal GDP and GNI** model, national GDP *percentage shares unchanged*. Ceteris paribus zero net foreign primary income is a **scenario**; this is not a claim of 900% CPI inflation.
-- **14-country ancestry proxy:** all six categories are exclusive primary census labels. The creator ratified global projection **using the population-weighted PRE-MIGRATION 14-country baseline (3,288B)**. Migrants retain their ancestry; a new weighted average of the reduced 3,213B donor/country set would incorrectly change planet composition.
+- **14-country ancestry proxy:** all six categories are mutually exclusive primary census labels. The accepted planetary ancestry proportions use an independently approved **3,288B fourteen-country statistical reference benchmark**; the current 3,213B profiled subgroup is not a replacement ancestry denominator.
 - **Country coverage:** 14 original profiles + 5 recently characterized states + 18 explicitly deferred countries = **37 sovereign states**. Deferred 18 remain a **bounded aggregate**, not invented country observations.
 - **Historical V2/V3/V4 datasets** remain accessible for audit provenance but do not override current V6.3 date, ancestry or GDP decisions.
 
@@ -87,7 +87,7 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 
 The globe has an unusual **89.5% urban population** while still retaining vast natural surface and multiple distinct national built-environment aesthetics. No visual style by itself determines the sophistication of technology or public institutions.
 
-## 2. Census geography — 14 + 5 + 18 after 75B migration
+## 2. Census geography — 14 + 5 + 18 Year 0 country allocation
 
 | Coverage bloc | Sovereign countries | Population (billions) | Percent of planet | Aggregate / weighted SDI | GDP share |
 |---|---:|---:|---:|---:|---:|
@@ -98,20 +98,7 @@ The globe has an unusual **89.5% urban population** while still retaining vast n
 
 Planet total remains unchanged. SDI for the 18-nation residual is **not** an observed common SDI for each of the 18 states; it is the population-weighted residual needed to hold the planet at 0.947 under the adopted aggregation assumption.
 
-### Exact internal migration routes
-
-| Origin | Destination | People moved (billions) |
-|---|---|---:|
-| Astrostelia | Scenrepolia | 10 |
-| Astrostelia | Calespia | 10 |
-| Astrostelia | Ethaptoria | 15 |
-| Lenternow | Scenrepolia | 10 |
-| Lenternow | Krisberia | 10 |
-| Lenternow | Ethaptoria | 10 |
-| Lenternow | Calespia | 10 |
-| **Total** | **7 routes** | **75** |
-
-**Donor national SDIs unchanged:** Astrostelia **0.957**, Lenternow **0.935**; each donor's primary ancestry percentages are unchanged by proportional movement. Recipient national primary ancestry remains **unknown** because their original resident mixes were not independently ratified. This is not an assertion of coercive or instantaneous migration; the timeline, consent and legal pathways were not specified by the creator.
+**Year 0 census interpretation:** The 14 + 5 + 18 groups are current resident allocations. They do not establish movement between specific countries. National ancestry for the five newer states remains unassigned and cannot be reconstructed from population totals.
 
 ## 3. Current 19-country quantitative comparison (all national profiles available)
 
@@ -140,27 +127,27 @@ Planet total remains unchanged. SDI for the 18-nation residual is **not** an obs
 | [Calespia](../factions/calespia.md) | 2628 | 91 | 0.946 | 0.9480 | 0.9430 | 1.2352 | 13.574 | 1.0934% |
 | **18-country residual** | — | **804** | **0.898402 weighted** | — | — | **7.1779** | **8.928** | **6.3536%** |
 
-All 19 individual profile national SDIs are held constant in the migration-only iteration. Their year-by-year productive inputs and their income distributions have **not** been recalculated from a complete post-migration general-equilibrium model.
+All 19 current national SDIs remain creator-ratified. Their individual productive inputs and income distributions have **not** been established by an independent general-equilibrium survey.
 
 ## 4. Exclusive six-category ancestry
 
 ### 4.1 Planetary composition — frozen approved representative benchmark
 
-| Primary class | Pre-transfer 14B headcount | Planet representative % | Planet headcount B (projection) | Current 14B headcount | Migrants moved B |
-|---|---:|---:|---:|---:|---:|
-| Depeisit | 1,562.182 | 47.511618% | 2,096.213 | 1,549.032 | 13.150 |
-| Cistheta | 652.985 | 19.859641% | 876.207 | 636.185 | 16.800 |
-| Cosmeilian | 533.000 | 16.210462% | 715.206 | 495.400 | 37.600 |
-| Native Asthorteran | 373.263 | 11.352281% | 500.863 | 369.163 | 4.100 |
-| Phantomkind / Spiritual Hybrid | 73.040 | 2.221411% | 98.009 | 71.890 | 1.150 |
-| Other | 93.530 | 2.844586% | 125.503 | 91.330 | 2.200 |
-| **Total** | **3,288.000** | **100%** | **4,412.000** | **3,213.000** | **75.000** |
+| Primary class | Planet representative % | Planet population (billion, derived) |
+|---|---:|---:|
+| Depeisit | 47.511618% | 2096.213 |
+| Cistheta | 19.859641% | 876.207 |
+| Cosmeilian | 16.210462% | 715.206 |
+| Native Asthorteran | 11.352281% | 500.863 |
+| Phantomkind / Spiritual Hybrid | 2.221411% | 98.009 |
+| Other | 2.844586% | 125.503 |
+| **Total** | **100%** | **4,412.000** |
 
-The current original 14 states plus the moved primary-ancestry migrant cohorts equal the **3,288B reference population by ancestry**. The planet-wide primary composition remains unchanged by **internal** migration. A primary administrative category is exclusive and is distinct from potentially overlapping *inclusive lineage* measurements.
+**Scope:** This representative primary-ancestry distribution is a ratified model convention, not evidence of historical population transfers. Each individual has one primary category; inclusive lineage can overlap categories.
 
 ### 4.2 National primary-class percentages (14 countries only)
 
-| Nation | Pop B after migration | Depeisit | Cistheta | Cosmeilian | Native | Phantomkind | Other |
+| Nation | Pop B (Year 0) | Depeisit | Cistheta | Cosmeilian | Native | Phantomkind | Other |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Reltronland | 855 | 64.0% | 22.0% | 4.0% | 5.0% | 2.0% | 3.0% |
 | Depcutland | 343 | 79.0% | 10.0% | 3.0% | 4.0% | 2.0% | 2.0% |
@@ -177,7 +164,7 @@ The current original 14 states plus the moved primary-ancestry migrant cohorts e
 | Beluftner | 91 | 0.2% | 0.5% | 2.0% | 90.3% | 6.0% | 1.0% |
 | Cenrestier | 111 | 7.0% | 8.0% | 7.0% | 70.0% | 5.0% | 3.0% |
 
-Each individual source nation sums to 100%, independently of the departure volume. **Five new nation census percentages remain O (unknown).** The temporary planetary average should not be copied into them as directly observed local percentages.
+Each original national ancestry profile sums to 100% independent of population share. **Five new nation census percentages remain O (unknown).** The temporary planetary average should not be copied into them as directly observed local percentages.
 
 ## 5. Society and development (14 detailed nations)
 
@@ -269,7 +256,7 @@ Read [19-country public 3D spatial series](./asthortera-nccm-v65-spatial-composi
 | Beluftner | 0.8429 | 9.263 | 0.280 | 44.00% | 0.48% | 3.32% |
 | Cenrestier | 1.2907 | 11.628 | 0.300 | 59.00% | 0.34% | 3.58% |
 
-All GDP values are the **integrated V6 nominal 10× scenario**. The country GDP shares are fixed; per-capita figures use the updated V6.2 population denominators for Astrostelia and Lenternow. The public-debt, price, employment and Gini indicators are inherited national benchmark/source fields and are **not** claimed as newly measured post-transfer values.
+All GDP values are the **integrated V6 nominal 10× scenario**. The country GDP shares are fixed; per-capita figures use the ratified Year 0 national resident denominators. The public-debt, price, employment and Gini indicators are inherited national benchmark/source fields and are **not** claimed as newly observed production measurements.
 
 ### 6.1 Accounting identities
 

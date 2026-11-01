@@ -6,10 +6,10 @@ function renderGate(c){
  return [
  "<!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->",
  `> **NCCM V6.5 · ${c.name} · Year 0 Canon (C), creator-ratified national model.**`,
- `> Current national anchors: **${f(c.population_billion)} billion** residents; SDI **${c.sdi.toFixed(3)}**; TFR **${c.tfr_candidate.toFixed(2)}**; annual real GDP growth **${(100*c.real_gdp_growth).toFixed(2)}%**; nominal annual GDP (Canon C) **USD ${Number(c.gdp_usd_annual_V6).toExponential(12)}**; GDP share **${(100*c.gdp_planet_share).toFixed(4)}%** (approximately).`,
+ `> Current national anchors: **${f(c.population_billion)} billion** residents; SDI **${c.sdi.toFixed(3)}**; TFR **${c.tfr_candidate.toFixed(2)}**; annual real GDP growth **${(100*c.real_gdp_growth).toFixed(2)}%**; nominal annual GDP (Canon C) **USD ${Number(c.gdp_usd_annual_V6).toExponential(12)}**; GDP share **${(100*c.gdp_planet_share).toFixed(4)}%** (approximately); share of planetary residents **${(100*c.population_billion/4412).toFixed(4)}%**.`,
  `> Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD ${f(c.gni_per_capita_usd_proxy_V6)}/year**, or approximately **${c.fx.code} ${f(c.gni_per_capita_usd_proxy_V6/c.fx.usd_per_local_unit)}/year** using the modeled **USD ${c.fx.usd_per_local_unit.toFixed(2)} per ${c.fx.code}** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.`,
  `> Median age: **${opt(c.median_age_years,x=>x+" years")}**; CPI: **${opt(c.annual_inflation,x=>(100*x).toFixed(2)+"%")}**; income Gini: **${opt(c.income_gini,x=>x.toFixed(3))}**; national six-way primary ancestry: **${c.ancestry_primary_pct==null?"Unassigned (not zero)":"Ratified C (see above)"}**.`,
- "> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.",
+ "> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.",
  "<!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->"
  ].join("\n");
 }

@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
 function verify(m){
  const countries=[...m.countries_14,...m.countries_5],r=m.aggregate_remaining_18,y=m.planet.year0,planet=m.planet;
- if(m.canon_ratification.status!=="C"||countries.length!==19||m.census.profiled_original_14_population_billion+m.census.new_five_population_billion+r.population_billion!==planet.population_billion||m.migration_year0.routes.reduce((a,x)=>a+x.population_billion,0)!==75)throw Error("Population/canon not reconciled");
+ if(m.canon_ratification.status!=="C"||countries.length!==19||m.census.profiled_original_14_population_billion+m.census.new_five_population_billion+r.population_billion!==planet.population_billion)throw Error("Population/canon not reconciled");
  const T=(countries.reduce((a,x)=>a+x.population_billion*x.tfr_candidate,0)+r.population_billion*r.tfr_population_weighted_proxy_required)/planet.population_billion;
  const G=(countries.reduce((a,x)=>a+x.gdp_usd_annual_V6*x.real_gdp_growth,0)+r.gdp_usd_annual_V6*r.real_gdp_growth_gdp_weighted_required)/y.gdp_usd_annual_V6;
  if(Math.abs(T-y.tfr)>1e-9||Math.abs(G-y.real_gdp_growth)>1e-9)throw Error("TFR/GDP aggregation drift");
@@ -19,7 +19,6 @@ function render(m,mode){
  "| Model invariant | Current canon C |","|---|---:|",
  `| Countries / unique residents | **${p.sovereign_states} / ${p.population_billion.toLocaleString("en-US")} billion** |`,
  `| Original 14 + additional 5 + residual 18 | **${c.profiled_original_14_population_billion.toLocaleString("en-US")}B + ${c.new_five_population_billion}B + ${r.population_billion}B** |`,
- `| Internal Year 0 migration / planetary net headcount | **${m.migration_year0.total_departures_billion}B / zero** |`,
  `| Planet SDI | **${f(p.sdi,3)}** |`,
  `| Planet TFR, adopted population-weighted proxy | **${f(y.tfr)}** |`,
  `| Planet real GDP growth, GDP-share-weighted | **${f(y.real_gdp_growth*100)}%** |`,
@@ -34,15 +33,13 @@ function render(m,mode){
  ...ancestry.map(([name,key])=>`| ${name} | ${f(p.ancestry_primary_pct_representative_14_country_weighted[key],6)}% | ${f(p.ancestry_primary_headcount_billion_representative[key],3)} |`),
  `| **Total** | **100%** | **${p.population_billion.toLocaleString("en-US")}** |`,
  "",
- `**Ancestry provenance:** Frozen from the original ${c.pre_migration_reference.planetary_proxy_ancestry_denominator_billion}B pre-transfer 14-country reference, not calculated from today's 3,213B donor-group population. Mixed lineage overlaps primary ancestry and must not be added twice.`,
- "",
- `**Seven ratified internal routes (total 75B):** ${m.migration_year0.routes.map(v=>`${v.origin} → ${v.destination} ${v.population_billion}B`).join("; ")}. This moves existing residents between countries, **not** 75B incoming interplanetary migrants. The ledger leaves transfer duration, consent/citizenship procedures, and external immigration headcounts open.`,
+ `**Ancestry provenance:** Retained from the approved ${c.pre_migration_reference.planetary_proxy_ancestry_denominator_billion}B 14-country representative benchmark. This is a statistical reference convention, not a recorded population-transfer event. Mixed lineage overlaps primary ancestry and must not be added twice.`,
  "",
  `**Sovereign foundations (BAC):** ${m.historical_foundations.ordered_core.map(v=>`${v.name} ${v.bac}${v.name==="Krisberia"?" (unconditional)":""}`).join("; ")}. These record sovereign founding, not first settlement.`,
  "",
  "**Boundaries:** ratified accounting baseline 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C."
  ];
- if(mode==="full")s.push("","**Nineteen country-level canon C anchors**","","| Country | Residents B | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |","|---|---:|---:|---:|---:|---:|",...n.map(v=>`| ${v.name} | ${v.population_billion} | ${f(v.sdi,3)} | ${f(v.tfr_candidate)} | ${f(v.real_gdp_growth*100)}% | ${f(v.gdp_usd_annual_V6/1e21,4)} |`),`| **Residual 18 — one aggregate only** | **${r.population_billion}** | **${f(r.sdi_population_weighted_required,6)}** | **${f(r.tfr_population_weighted_proxy_required,6)}** | **${f(r.real_gdp_growth_gdp_weighted_required*100,6)}%** | **${f(r.gdp_usd_annual_V6/1e21,4)}** |`);
+ if(mode==="full")s.push("","**Nineteen country-level canon C anchors**","","| Country | Residents B | Planet residents % | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |","|---|---:|---:|---:|---:|---:|---:|",...n.map(v=>`| ${v.name} | ${v.population_billion} | ${f(v.population_billion/p.population_billion*100,4)}% | ${f(v.sdi,3)} | ${f(v.tfr_candidate)} | ${f(v.real_gdp_growth*100)}% | ${f(v.gdp_usd_annual_V6/1e21,4)} |`),`| **Residual 18 — one aggregate only** | **${r.population_billion}** | **${f(r.population_billion/p.population_billion*100,4)}%** | **${f(r.sdi_population_weighted_required,6)}** | **${f(r.tfr_population_weighted_proxy_required,6)}** | **${f(r.real_gdp_growth_gdp_weighted_required*100,6)}%** | **${f(r.gdp_usd_annual_V6/1e21,4)}** |`);
  s.push("<!-- END NCCM_V65_PLANETARY_CROSSDOC -->");
  return s.join("\n");
 }
@@ -67,9 +64,8 @@ function patch(kind,s,m){
  `- **Year 0 country groups:** **${c.profiled_original_14_population_billion.toLocaleString("en-US")}B** original fourteen, **${c.new_five_population_billion}B** added five, **${c.remaining_deferred_population_billion}B** in the remaining eighteen combined.`,
  "- **Primary ancestry (six mutually exclusive classes in the canon representative planetary model):**",
  anc,
- `- **Ancestry method:** frozen ${c.pre_migration_reference.planetary_proxy_ancestry_denominator_billion}B pre-migration original-fourteen benchmark, not first-generation immigrant shares, physical appearance, or exclusive biological race. Cosmeilian mixed lineage may overlap primary ancestry.`,
- `- **Internal Year 0 transfer:** ${m.migration_year0.total_departures_billion}B moved from Astrostelia/Lenternow to four receiving nations over seven routes, with zero net change to planetary population. It is **not external interplanetary immigration**.`,
- "- **Unassigned:** five recipients' whole-population ancestry, the remaining eighteen individual country censuses, and a numerical count of external interplanetary migrants.",
+ `- **Ancestry method:** approved ${c.pre_migration_reference.planetary_proxy_ancestry_denominator_billion}B original-fourteen reference benchmark, not first-generation immigrant shares, physical appearance, or exclusive biological race. Cosmeilian mixed lineage may overlap primary ancestry.`,
+ "- **Unassigned:** five profiled Eastern nations' whole-population ancestry, the remaining eighteen individual country censuses, and a numerical count of external interplanetary migrants.",
  "- **Narrative significance:** A welcoming civilizational model may attract interplanetary migrants, but institutional ideals do not establish an empirical headcount or an automatic guarantee for every migrant.",
  "",""].join("\n");
  s=s.slice(0,a)+sub+s.slice(b);
