@@ -32,7 +32,7 @@ test('Hargenbor civic urban underwater ends at one kilometer; sovereign ocean ex
  assert.match(read(h.source),/−36 km/);
 });
 test('Historical area is recorded as superseded, not rewritten in earlier census dataset',()=>{
- const history=JSON.parse(read('data/asthortera/national-cross-domain-audit-2026-10-30.json'));
+ const history=JSON.parse(read('data/asthortera/nccm-v3-14-country-comparative-model.json'));
  const old=history.countries.find(x=>x.name==='Beluftner');
  assert.equal(old.census.land_area_million_km2,88);
  assert.equal(v.provenance.spatial_national_area_ratification_2026_11_01.amendments.Beluftner.current,363);
