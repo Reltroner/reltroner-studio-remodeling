@@ -69,7 +69,6 @@ function renderNational(c,j){
  "### National production and population continuity",
  "",
  `**Productive specialization:** ${c.specialization}. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.`,
- "",
  ...(c.name==="Stelpadland"?["**National productive canon:** finished furniture, high-value processed timber and precision craftsmanship; government debt **52% of GDP**. Sector-wide furniture GDP share remains unassigned.",""]:[]),
  ...(c.sectors_value_added_pct?[ "**Sector value-added composition (C):**",...c.sectors_value_added_pct.map(x=>`- ${x.sector}: **${fmt(x.share,0)}%**`),""]:[]),
  "**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.",
