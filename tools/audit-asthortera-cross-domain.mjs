@@ -202,7 +202,7 @@ inspect(v.provenance.current_currency_codes?.Krisberia==='KRF'&&v.provenance.cur
 inspect((files.get('content/laws/alreo.md')||'').includes('75 MWV/hour')&&(files.get('content/laws/alreo.md')||'').includes('78 KRF/hour'),'ALREO_FX_CLEAN','ALREO must use new codes');
 inspect((files.get('content/statistics/sentient-population.md')||'').includes('47.511618%')&&!(files.get('content/statistics/sentient-population.md')||'').includes('58% Humans of Depeisit'),'PUBLISHED_ANCESTRY_V65','Published content must use V6.5');
 inspect(!files.has('content/blog/how-i-built-249k-startup-idea.md')&&!files.has('content/statistics/sdi-character.md'),'STUB_DELETIONS_CONFIRMED','Both placeholders deleted');
-inspect(v.spatial_volumetric_canon?.status==='C_creator_ratified_2026-11-01','SPATIAL_CANON_19','19 states' spatial model ratified');
+inspect(v.spatial_volumetric_canon?.status==='C_creator_ratified_2026-11-01','SPATIAL_CANON_19','19-state spatial model ratified');
 for(const c of [...v.countries_14,...v.countries_5]){
  const s=c.spatial_3d_canon;
  inspect(s?.status==='C_creator_ratified_2026-11-01'&&eq(sum(Object.values(s.land_surface_pct),x=>x),100)&&eq(sum(Object.values(s.principal_habitat_pct),x=>x),100),'SPATIAL_3D_PERCENT_100',c.name);
