@@ -17,9 +17,9 @@ function scan(dir){
     if(ent.name.startsWith('.'))continue;
     const full=path.join(dir,ent.name);
     if(ent.isDirectory()){scan(full);continue;}
-    if(!ent.isFile()||!/\\.(?:md|mdx|json|js|mjs|ts|tsx)$/.test(ent.name))continue;
+    if(!ent.isFile()||!/\.(?:md|mdx|json|js|mjs|ts|tsx)$/.test(ent.name))continue;
     if(path.resolve(full)===path.resolve(fileURLToPath(import.meta.url)))continue;
-    const lines=fs.readFileSync(full,'utf8').split(/\\r?\\n/);
+    const lines=fs.readFileSync(full,'utf8').split(/\r?\n/);
     for(let i=0;i<lines.length;i++){
       const rulesHit=rules.filter(r=>{r.re.lastIndex=0;return r.re.test(lines[i]);});
       if(rulesHit.length)matches.push({path:path.relative(root,full).split(path.sep).join('/'),line:i+1,kind:rulesHit.map(r=>r.name).join(','),text:lines[i].trim().slice(0,240)});
