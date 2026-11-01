@@ -107,6 +107,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Pasgerflit
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Canon Integrity Rules](#1-canon-integrity-rules)
+- [4. Designed Purpose: A Home for Aviation Enthusiasts](#4-designed-purpose-a-home-for-aviation-enthusiasts)
+- [6. Astralis Alignment](#6-astralis-alignment)
+- [9. Demographics](#9-demographics)
+- [11. National Values](#11-national-values)
+- [14. PAIA — Pasgerflit Aeropolis International Airport Hub](#14-paia--pasgerflit-aeropolis-international-airport-hub)
+- [16. Culture and Education](#16-culture-and-education)
+- [19. Sovereignty Forms Integration](#19-sovereignty-forms-integration)
+- [21. ComicBall Role and Media Identity](#21-comicball-role-and-media-identity)
+- [24. Relationship With Other Nations](#24-relationship-with-other-nations)
+- [26. National Quotes](#26-national-quotes)
+- [Final Canon Statement](#final-canon-statement)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **Creator-ratified national founding (2026-10-31): 1545 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** an Astrostelian fleet bound for planet Cosmeilia emergency-landed in the region; coupled spacecraft-landing and ground-support bugs cascaded into a reliability crisis, prompting a deliberate, testable atmospheric-aviation/aerospace engineering reset, civil airfields, MRO, air-traffic standards and eventual sovereign aviation institutions; not Asthortera's first spaceflight. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 

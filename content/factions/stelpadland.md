@@ -95,6 +95,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Stelpadland
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [I. Historical Origins](#i-historical-origins)
+- [IV. Scot Stetson](#iv-scot-stetson)
+- [VII. 2882--2800 BAC --- State Consolidation](#vii-2882--2800-bac-----state-consolidation)
+- [X. 2700--2600 BAC --- National Consolidation](#x-2700--2600-bac-----national-consolidation)
+- [XIII-A. The Eastern Continent: Succession, Conflict and Diplomacy](#xiii-a-the-eastern-continent-succession-conflict-and-diplomacy)
+- [XVI. National Symbols](#xvi-national-symbols)
+- [XX. Government](#xx-government)
+- [XXI. Modern National Profile](#xxi-modern-national-profile)
+- [XXV. Relationship with Reltronland](#xxv-relationship-with-reltronland)
+- [XXVIII. Global Scouting Legacy](#xxviii-global-scouting-legacy)
+- [XXXI. Canonical Causal Chain](#xxxi-canonical-causal-chain)
+- [🍂 Closing Reflection](#-closing-reflection)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![stelpadland1](/images/stelpadland1.webp)
 ![stelpadland2](/images/stelpadland2.webp)
 ![stelpadland-rhythm-heaven.webp](/images/stelpadland-rhythm-heaven.webp)

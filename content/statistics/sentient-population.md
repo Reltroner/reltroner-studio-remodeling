@@ -13,6 +13,22 @@ This document provides a detailed overview of the sentient population structures
 
 ---
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌍 Planet Asthortera](#-planet-asthortera)
+- [🏛️ Planet Depeisit](#️-planet-depeisit)
+- [🌠 Planet Cosmeilia](#-planet-cosmeilia)
+- [🪐 Planet Cistheta](#-planet-cistheta)
+- [🧠 Philosophical Summary](#-philosophical-summary)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## 🌍 **Planet Asthortera**
 - **Population:** Multilineage sentient citizens; primary ancestry classification does not derive from physical appearance
 - **Total Sentient Population:** **~4.412 trillion**

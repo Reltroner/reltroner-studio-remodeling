@@ -114,6 +114,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Moreg
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [The Moreg Driftwar](#the-moreg-driftwar)
+- [II. NATIONAL PHILOSOPHY](#ii-national-philosophy)
+- [Motogenix](#motogenix-1)
+- [Motostrata](#motostrata)
+- [Vehicular AI Spirit](#vehicular-ai-spirit)
+- [XIV. EDUCATION](#xiv-education)
+- [XVIII. MYTHOLOGY AND SPIRITUALITY](#xviii-mythology-and-spirituality)
+- [XXI. AI-ANTI ABYSS TRANSPORT CORPS](#xxi-ai-anti-abyss-transport-corps)
+- [XXIV. DRIFT-ABYSS TECH SYNDICATES](#xxiv-drift-abyss-tech-syndicates)
+- [Project Roadglass](#project-roadglass)
+- [XXX. THEMATIC RELATIONSHIP WITH NYTHERION](#xxx-thematic-relationship-with-nytherion)
+- [XXXIV. NATIONAL STATEMENT](#xxxiv-national-statement)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **Creator-ratified national founding (2026-10-31): 1713 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** independent Cenrestieran transport entrepreneurs, not the Cenrestier state, established mass manufacturing on favorable Moreg-border geography with suitable raw materials, then required public infrastructure and locally legitimate institutions; Cosmeilian protection of the earlier sparsely inhabited area is not a colonial government. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 

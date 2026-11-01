@@ -102,6 +102,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Reltronland
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National Definition](#1-national-definition)
+- [4. Faction Classification](#4-faction-classification)
+- [7. Reltronland as a Red Pill Civilization](#7-reltronland-as-a-red-pill-civilization)
+- [9. Historical Overview](#9-historical-overview)
+- [12. Economic Model](#12-economic-model)
+- [15. The 250-Year Economic Miracle](#15-the-250-year-economic-miracle)
+- [18. Immigration and Social Policies](#18-immigration-and-social-policies)
+- [21. Civilizational Strength Doctrine](#21-civilizational-strength-doctrine)
+- [24. Strategic Behavior and Foreign Relations](#24-strategic-behavior-and-foreign-relations)
+- [26. Current Canon Integration Layer](#26-current-canon-integration-layer)
+- [29. Post-War Order and Twin Pillars Role](#29-post-war-order-and-twin-pillars-role)
+- [32. Navigation Links](#32-navigation-links)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![reltronland1](/images/reltronland4.webp)
 ![reltronland1](/images/reltronland1.webp)
 ![reltronland2](/images/reltronland2.webp)

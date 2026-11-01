@@ -15,6 +15,29 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 
 **Active machine-readable ledger:** [NCCM V6.5 active data](../../data/asthortera/nccm-v6-active-cross-domain.json). **Chronological source:** [historical timeline](../events/history-timeline.md). **Four pre-sovereign industrial pathways:** [Cosmeilian Stewardship Frontier](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [Active canon authority — retroactive adoption of NCCM V6.5](#active-canon-authority--retroactive-adoption-of-nccm-v65)
+- [Version rules and provenance](#version-rules-and-provenance)
+- [2. Census geography — 14 + 5 + 18 after 75B migration](#2-census-geography--14--5--18-after-75b-migration)
+- [3. Current 19-country quantitative comparison (all national profiles available)](#3-current-19-country-quantitative-comparison-all-national-profiles-available)
+- [5. Society and development (14 detailed nations)](#5-society-and-development-14-detailed-nations)
+- [5T. Canon C — 19-country volumetric spatial composition (2026-11-01)](#5t-canon-c--19-country-volumetric-spatial-composition-2026-11-01)
+- [5A. Reconciled national TFR — 19 nations and 18-nation residual](#5a-reconciled-national-tfr--19-nations-and-18-nation-residual)
+- [6. Macro economy and governance (14 detailed nations)](#6-macro-economy-and-governance-14-detailed-nations)
+- [7. Eastern five — sectoral value-added specializations](#7-eastern-five--sectoral-value-added-specializations)
+- [8. Valuta asing — 19 modeled national currencies](#8-valuta-asing--19-modeled-national-currencies)
+- [10. Ratified chronology and cross-country causality](#10-ratified-chronology-and-cross-country-causality)
+- [11. Open cross-domain reconciliation issues (not hidden or bypassed)](#11-open-cross-domain-reconciliation-issues-not-hidden-or-bypassed)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## Active canon authority — retroactive adoption of NCCM V6.5
 
 **Creator decision 2026-10-31:** *every already-assigned current Year 0 remodeling figure is canon (C)*. The status of a number is **not** determined by whether it was first introduced as a working scenario or calculated through a residual constraint. Thus the complete **19-country GDP/SDI/TFR/growth ledger and the 18-country aggregate** are canonical within the accepted 14+5+18 model. This applies also to the population-weighted TFR convention, GDP-weighted real-growth convention and the 60/40 individual/institutional SDI decomposition.

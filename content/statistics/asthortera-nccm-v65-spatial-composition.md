@@ -10,6 +10,19 @@ canonStatus: "C — fictional creator-ratified spatial percentages, not observed
 
 Fictional statistics release. Each country has **two distinct denominators**: 2D terrestrial surface footprint, and usual-home residents. Percentages of land area must not be interpreted as percentages of residents or constructed cubic kilometers.
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [Terrestrial N/A/O/D (% land area)](#terrestrial-naod--land-area)
+- [Primary L/G/W/F (% unique residents)](#primary-lgwf--unique-residents)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## Terrestrial N/A/O/D (% land area)
 
 N = natural landscape, A = active built, O = operational low/biological-zero built, D = dormant built.

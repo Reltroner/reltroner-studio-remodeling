@@ -92,6 +92,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Aurastelia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌷 1. Core Identity](#-1-core-identity)
+- [🧬 2. Demographic Composition](#-2-demographic-composition)
+- [🗺️ 3. Geography & Landmark Features](#️-3-geography--landmark-features)
+- [🏙️ 4. Major Cities](#️-4-major-cities)
+- [🧘 5. Social & Cultural Life](#-5-social--cultural-life)
+- [🧠 6. Governance & Political Structure](#-6-governance--political-structure)
+- [✨ 8. Philosophy and Intergalactic Role](#-8-philosophy-and-intergalactic-role)
+- [📊 9. Indexes & Indicators](#-9-indexes--indicators)
+- [🔬 10. Psychological Effects on Visitors](#-10-psychological-effects-on-visitors)
+- [🎴 11. Cultural Fabric of Aurastelia](#-11-cultural-fabric-of-aurastelia)
+- [📜 12. Quotes from Queen Valethra](#-12-quotes-from-queen-valethra)
+- [🌌 Aurastelia Olympic Doctrine](#-aurastelia-olympic-doctrine)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![aurastelia1](/images/aurastelia1.webp)
 ![aurastelia2](/images/aurastelia2.webp)
 ![aurastelia3](/images/aurastelia3.webp)

@@ -96,6 +96,29 @@ Six-class primary ancestry, representative planetary population benchmark:
 | **Residual 18 — one aggregate only** | **804** | **0.898402** | **1.900697** | **3.688731%** | **7.1779** |
 <!-- END NCCM_V65_PLANETARY_CROSSDOC -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. 🌐 Canonical Planetary Profile](#1--canonical-planetary-profile)
+- [3. 🧭 Circumference and World-Map Scale](#3--circumference-and-world-map-scale)
+- [5. 🌍 Natural and Visual Identity](#5--natural-and-visual-identity)
+- [6. 🗺️ Why Asthorteran Countries Feel Enormous](#6-️-why-asthorteran-countries-feel-enormous)
+- [8. 🏙️ Civilization at Multi-Trillion Scale](#8-️-civilization-at-multi-trillion-scale)
+- [10. 🧠 Sentient Development as a Planetary Metric](#10--sentient-development-as-a-planetary-metric)
+- [12. 🔗 A Multipolar Planetary Civilization](#12--a-multipolar-planetary-civilization)
+- [14. ⚙️ Infrastructure at Asthorteran Scale](#14-️-infrastructure-at-asthorteran-scale)
+- [16. 🪐 Gravity and Biological Adaptation](#16--gravity-and-biological-adaptation)
+- [17. 🧬 Longevity and Civilizational Time](#17--longevity-and-civilizational-time)
+- [19. 🌌 Planetary Scale Before Cosmic Scale](#19--planetary-scale-before-cosmic-scale)
+- [21. 🔭 Final Interpretation](#21--final-interpretation)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## NCCM V6.5 — Year 0 canon statistics (C)
 
 **CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, seven migration routes, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).

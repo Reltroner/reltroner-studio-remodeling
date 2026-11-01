@@ -113,6 +113,29 @@ Six-class primary ancestry, representative planetary population benchmark:
 | **Residual 18 — one aggregate only** | **804** | **0.898402** | **1.900697** | **3.688731%** | **7.1779** |
 <!-- END NCCM_V65_PLANETARY_CROSSDOC -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. 🪐 Core Planetary Identity](#1--core-planetary-identity)
+- [4. 🌊 Land-Rich Planetary Geography](#4--land-rich-planetary-geography)
+- [7. 🌤️ Atmosphere and Sky Identity](#7-️-atmosphere-and-sky-identity)
+- [9. 🎨 Lunar Color and Visual Canon](#9--lunar-color-and-visual-canon)
+- [12. 👥 Population](#12--population)
+- [15. 🏙️ Urbanization](#15-️-urbanization)
+- [18. 🏛️ Civilization-Centered Planetary Structure](#18-️-civilization-centered-planetary-structure)
+- [21. 🔗 Planetary Supply-Chain Civilization](#21--planetary-supply-chain-civilization)
+- [24. 🌌 Astralis and Nytherion](#24--astralis-and-nytherion)
+- [26. 🎨 Planetary Visual Language](#26--planetary-visual-language)
+- [29. 🌍 Why the Planet Matters to the Narrative](#29--why-the-planet-matters-to-the-narrative)
+- [32. 🔭 Final Interpretation](#32--final-interpretation)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## NCCM V6.5 — Year 0 canon statistics (C)
 
 **CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, seven migration routes, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).

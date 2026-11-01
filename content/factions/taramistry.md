@@ -96,6 +96,29 @@ region: "Eastern and southeastern scientific-industrial belt of the eastern cont
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Taramistry
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Deterministic Canon Logic](#1-deterministic-canon-logic)
+- [4. National Identity](#4-national-identity)
+- [6. Manifestations of Synthetism](#6-manifestations-of-synthetism)
+- [9. Urban Centers](#9-urban-centers)
+- [12. Education System](#12-education-system)
+- [15. Economic Sectors](#15-economic-sectors)
+- [17. Statistical Overview](#17-statistical-overview)
+- [20. National Symbols](#20-national-symbols)
+- [23. Ethics and Public Trust](#23-ethics-and-public-trust)
+- [26. Foreign Relations](#26-foreign-relations)
+- [28. National Narrative Role in Asthortera](#28-national-narrative-role-in-asthortera)
+- [ARCHIVED — NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)](#archived--nccm-v3--cross-domain-benchmark-2026-10-30-development-material)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![taramistry1](/images/taramistry7.webp)
 ![taramistry2](/images/taramistry6.webp)
 ![taramistry4](/images/taramistry4.webp)

@@ -111,6 +111,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Hargenbor
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌍 General Information](#-general-information)
+- [🌊 Vertical Oceanic Sovereignty](#-vertical-oceanic-sovereignty)
+- [🌀 Core National Duality](#-core-national-duality)
+- [⚙️ Key Economic Sectors](#️-key-economic-sectors)
+- [🌌 Astralis–Nytherion State Polarity](#-astralisnytherion-state-polarity)
+- [🏙️ Major Cities in Hargenbor](#️-major-cities-in-hargenbor)
+- [🎵 Music and Atmosphere](#-music-and-atmosphere)
+- [⚔️ Three-Domain Fleet Structure](#️-three-domain-fleet-structure)
+- [🧩 Internal Political Factions](#-internal-political-factions)
+- [🔥 Key Plot Events in Hargenbor](#-key-plot-events-in-hargenbor)
+- [🧠 Civilizational Theme](#-civilizational-theme)
+- [Final Assessment](#final-assessment)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **Creator-ratified national founding (2026-10-31): 1984 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** Cosmeilian merchant sailors from the established Port of Astro Bay developed the coastal loop, fisheries, harbors, shipyards and maritime trade with already-founded Lenternow (2072 BAC); expansion demanded navigation law, maritime safety, resource management and independent state institutions. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 

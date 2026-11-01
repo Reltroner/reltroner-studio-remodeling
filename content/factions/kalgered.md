@@ -92,6 +92,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Kalgered
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [⚖️ A Sovereign of Sovereigns](#️-a-sovereign-of-sovereigns)
+- [🕊️ The Paradox of Kalgered](#️-the-paradox-of-kalgered)
+- [👥 Demographics](#-demographics)
+- [🛡️ Cultural Identity](#️-cultural-identity)
+- [📜 3352 BAC --- Treaty of Highstone](#-3352-bac-----treaty-of-highstone)
+- [🌲 3200--3000 BAC --- Permanent Frontier Communities](#-3200--3000-bac-----permanent-frontier-communities)
+- [🍁 2920--2900 BAC --- Cultural Differentiation](#-2920--2900-bac-----cultural-differentiation)
+- [🏛️ 2882 BAC --- Foundation of Stelpadland](#️-2882-bac-----foundation-of-stelpadland)
+- [🍁 2800 BAC --- Maple Concord](#-2800-bac-----maple-concord)
+- [🌲 2750--2432 BAC --- The Rise of Stelpadian Civilization](#-2750--2432-bac-----the-rise-of-stelpadian-civilization)
+- [🌍 Kalgered's Major Civilizational Relationships](#-kalgereds-major-civilizational-relationships)
+- [📌 Closing Notes](#-closing-notes)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![kalgered1](/images/kalgered1.webp)
 ![kalgered2](/images/kalgered2.webp)
 ![kalgered-rhythm-heaven.webp](/images/kalgered-rhythm-heaven.webp)

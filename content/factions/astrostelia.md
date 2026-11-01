@@ -110,6 +110,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Astrostelia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. 🔌 Core Identity](#1--core-identity)
+- [3. 🌍 Geography and Natural Features](#3--geography-and-natural-features)
+- [5. ✨ Society and Culture](#5--society-and-culture)
+- [6. 🔬 Key Institutions and Wonders](#6--key-institutions-and-wonders)
+- [8. 🌌 Philosophical Stance](#8--philosophical-stance)
+- [10. 💠 The Astrostelian Economy](#10--the-astrostelian-economy)
+- [12. 🌌 Astrostelia as the Founding Soul of the Asthortera Space Command](#12--astrostelia-as-the-founding-soul-of-the-asthortera-space-command)
+- [14. 🌠 Strategic Implications](#14--strategic-implications)
+- [16. 🛡️ Position Relative to Reltronland Space Command](#16-️-position-relative-to-reltronland-space-command)
+- [17. 📈 Comparative Power Matrix](#17--comparative-power-matrix)
+- [19. 🌠 Strategic Triangle of Astrostelian Space Civilization](#19--strategic-triangle-of-astrostelian-space-civilization)
+- [21. Final National Position](#21-final-national-position)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **Cross-country founding continuity (creator-ratified 2026-10-31):** The independent aviation country **Pasgerflit was founded in 1545 BAC** following a large Astrostelian fleet's emergency landing on its sparsely settled future territory. A cascading failure in spacecraft landing-support infrastructure prompted the deliberately simpler, modular atmospheric-aviation engineering program that later seeded Pasgerflit's aviation economy. This does **not** make Pasgerflit a province of Astrostelia, nor does it make 1545 BAC the beginning of spaceflight on Asthortera. [Full founding synthesis](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
 

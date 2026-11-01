@@ -101,6 +101,29 @@ coreTheme: "Civilization of Illumination"
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Lenternow
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Canon Resolution and Deterministic Logic](#1-canon-resolution-and-deterministic-logic)
+- [4. National Philosophy](#4-national-philosophy)
+- [7. Key Cities](#7-key-cities)
+- [10. Macroeconomic Profile](#10-macroeconomic-profile)
+- [13. Top Exports](#13-top-exports)
+- [16. Illuminary Bonds](#16-illuminary-bonds)
+- [18. Energy and Infrastructure](#18-energy-and-infrastructure)
+- [21. Government and Ideology — Bicameral Lenternokratia](#21-government-and-ideology--bicameral-lenternokratia)
+- [24. Tourism and Nightscape Civilization](#24-tourism-and-nightscape-civilization)
+- [27. Conflict System and Blind Spots](#27-conflict-system-and-blind-spots)
+- [30. National Character](#30-national-character)
+- [33. One-Line Canon Lock](#33-one-line-canon-lock)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **Creator-ratified national founding (2026-10-31): 2072 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** discovery of extraordinarily rich illumination materials and anti-resource-curse domestic refining and manufacturing; industrial complexity demanded safety, fiscal, labor, research and civic institutions; regional Cosmeilian stewardship predates sovereignty; Lenternow then served as manufacturing partner to later-founded Hargenbor. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 

@@ -100,6 +100,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Beluftner
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌍 General Information](#-general-information)
+- [🌌 National Overview](#-national-overview)
+- [🏛️ Civilization Philosophy](#️-civilization-philosophy)
+- [🧠 Cultural Identity](#-cultural-identity)
+- [🏙️ Major Cities](#️-major-cities)
+- [👥 Demographics](#-demographics)
+- [💰 Economy](#-economy)
+- [🚢 Major Exports](#-major-exports)
+- [⚔️ Military Doctrine](#️-military-doctrine)
+- [🌍 Foreign Relations](#-foreign-relations)
+- [Official National Motto](#official-national-motto)
+- [Civilizational Principle](#civilizational-principle)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![beluftnerball](/images/beluftnerball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
   <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/beluftner-part1.mp4" type="video/mp4" />

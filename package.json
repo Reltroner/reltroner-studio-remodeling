@@ -9,6 +9,8 @@
     "canon:v65:crossdocs:check": "node tools/sync-asthortera-nccm-crossdocs.mjs --check",
     "canon:qa:strict": "node tools/audit-asthortera-cross-domain.mjs --json",
     "content:catalog:check": "node tools/sync-content-catalog.mjs --check",
-    "content:catalog:write": "node tools/sync-content-catalog.mjs --write"
+    "content:catalog:write": "node tools/sync-content-catalog.mjs --write",
+    "content:reading-guides:check": "node tools/sync-asthortera-reading-guides.mjs --check",
+    "content:reading-guides:write": "node tools/sync-asthortera-reading-guides.mjs --write"
   }
 }

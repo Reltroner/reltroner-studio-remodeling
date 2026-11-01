@@ -22,6 +22,20 @@ tags: ["Kalgered", "Statistics", "NCCM V6.5", "Fictional Data", "Consumption"]
 | KAL 60,000+ | **5%** | 5.40 billion |
 | **Total** | **100%** | **108.00 billion** |
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [Indicator definition](#indicator-definition)
+- [Interpretation and known limitations](#interpretation-and-known-limitations)
+- [Data glossary](#data-glossary)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## Indicator definition
 
 - **Series ID:** `AST-KAL-PCEXP-Y0-01`.

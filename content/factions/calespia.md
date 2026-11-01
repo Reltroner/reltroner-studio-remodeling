@@ -114,6 +114,29 @@ tags:
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Calespia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Country overview](#1-country-overview)
+- [2. Geography, land and settlement](#2-geography-land-and-settlement)
+- [3. History: founding and sovereign agency](#3-history-founding-and-sovereign-agency)
+- [5. National culture and everyday life](#5-national-culture-and-everyday-life)
+- [6. Government and agrarian rights](#6-government-and-agrarian-rights)
+- [7. NCCM V6 national quantitative baseline](#7-nccm-v6-national-quantitative-baseline)
+- [8. Trade diplomacy and the Calespian supply network](#8-trade-diplomacy-and-the-calespian-supply-network)
+- [9. Aesthetic identity, colors and symbolism](#9-aesthetic-identity-colors-and-symbolism)
+- [10. Institutional conflict and scientific ethics](#10-institutional-conflict-and-scientific-ethics)
+- [12. Countryball portrayal versus citizens](#12-countryball-portrayal-versus-citizens)
+- [13. Next quantitative and cultural decisions](#13-next-quantitative-and-cultural-decisions)
+- [14. Canon, provisional facts and source-of-truth distinctions](#14-canon-provisional-facts-and-source-of-truth-distinctions)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **91 billion** resident sentients (previously **71 billion**); 10B from Astrostelia; 10B from Lenternow. National SDI remains **0.946**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 13.574 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
 
 

@@ -104,6 +104,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Depcutland
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [I. Foundational Philosophy — Tradition with Intelligence](#i-foundational-philosophy--tradition-with-intelligence)
+- [III. Government and Political Structure](#iii-government-and-political-structure)
+- [VI. Asthortera Comparative Framework](#vi-asthortera-comparative-framework)
+- [VIII. Historical Chronology and Structural Transformation](#viii-historical-chronology-and-structural-transformation)
+- [X. Reltronland and Depcutland — Twin Pillars of Conscious Civilization](#x-reltronland-and-depcutland--twin-pillars-of-conscious-civilization)
+- [XIII. Rivalry Doctrine](#xiii-rivalry-doctrine)
+- [XV. The Endless Library of Depcutland](#xv-the-endless-library-of-depcutland)
+- [XVIII. Daily Cultural Practices of Depcutland Citizens](#xviii-daily-cultural-practices-of-depcutland-citizens)
+- [XX. Neiput Treaty Dialogue — Diplomatic Scene in Four Movements](#xx-neiput-treaty-dialogue--diplomatic-scene-in-four-movements)
+- [XXII. TCBC Internal Governance Charter](#xxii-tcbc-internal-governance-charter)
+- [XXV. Narrative and Worldbuilding Hooks](#xxv-narrative-and-worldbuilding-hooks)
+- [XXVII. Final Civilizational Assessment](#xxvii-final-civilizational-assessment)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![depcutland1](/images/depcutland1.webp)
 ![depcutland2](/images/depcutland2.webp)
 ![depcutland-3](/images/depcutland-3.webp)

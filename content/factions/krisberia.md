@@ -112,6 +112,29 @@ tags:
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Krisberia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National identity and basic facts](#1-national-identity-and-basic-facts)
+- [2. Geography and the Reltronland–Krisberia frontier](#2-geography-and-the-reltronlandkrisberia-frontier)
+- [3. Historical lineage and the founding constraint](#3-historical-lineage-and-the-founding-constraint)
+- [5. The craftsmanship learning pathway](#5-the-craftsmanship-learning-pathway)
+- [6. Government, social responsibility and institutional ethics](#6-government-social-responsibility-and-institutional-ethics)
+- [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
+- [8. Relations, exports and diplomacy](#8-relations-exports-and-diplomacy)
+- [9. Linguistic evolution and cultural autonomy](#9-linguistic-evolution-and-cultural-autonomy)
+- [10. Architecture and visual style](#10-architecture-and-visual-style)
+- [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
+- [13. Outstanding national-canon decisions](#13-outstanding-national-canon-decisions)
+- [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **58 billion** resident sentients (previously **48 billion**); 10B from Lenternow. National SDI remains **0.955**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 16.457 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
 
 

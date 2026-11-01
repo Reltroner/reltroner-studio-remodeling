@@ -114,6 +114,29 @@ tags:
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Ethaptoria
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National overview](#1-national-overview)
+- [2. Geography and settlements](#2-geography-and-settlements)
+- [3. History and national formation](#3-history-and-national-formation)
+- [4. Education and the culture of inquiry](#4-education-and-the-culture-of-inquiry)
+- [5. Politics and civic institutions](#5-politics-and-civic-institutions)
+- [6. Linguistic and cultural evolution](#6-linguistic-and-cultural-evolution)
+- [8. Regional partnerships and diplomatic relationships](#8-regional-partnerships-and-diplomatic-relationships)
+- [9. Risks, limits and ethical tradeoffs](#9-risks-limits-and-ethical-tradeoffs)
+- [10. The Abyss of Comfort — proposed narrative tension](#10-the-abyss-of-comfort--proposed-narrative-tension)
+- [11. National identity versus countryball characterization](#11-national-identity-versus-countryball-characterization)
+- [12. Cross-domain QA and future remodeling agenda](#12-cross-domain-qa-and-future-remodeling-agenda)
+- [13. Canon, provisional facts and source-of-truth distinctions](#13-canon-provisional-facts-and-source-of-truth-distinctions)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 > **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **84 billion** resident sentients (previously **59 billion**); 15B from Astrostelia; 10B from Lenternow. National SDI remains **0.950**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 13.173 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
 
 

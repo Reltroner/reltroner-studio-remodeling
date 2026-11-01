@@ -104,6 +104,29 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 > **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Pencilfania
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National Identity](#1-national-identity)
+- [3. National Atmosphere](#3-national-atmosphere)
+- [5. Major Cities](#5-major-cities)
+- [8. Laws and Civic Visual Systems](#8-laws-and-civic-visual-systems)
+- [10. National Institutions](#10-national-institutions)
+- [12. Education](#12-education)
+- [14. Festivals and Traditions](#14-festivals-and-traditions)
+- [16. Defense and Resilience](#16-defense-and-resilience)
+- [18. Tourism](#18-tourism)
+- [21. Sync of Asthortera Gameplay Identity](#21-sync-of-asthortera-gameplay-identity)
+- [23. Strategic Role in Asthortera](#23-strategic-role-in-asthortera)
+- [25. Final Canon Summary](#25-final-canon-summary)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ![pencilfania1](/images/pencilfania1.webp)
 ![pencilfania2](/images/pencilfania2.webp)
 ![pencilfania3](/images/pencilfania3.webp)
