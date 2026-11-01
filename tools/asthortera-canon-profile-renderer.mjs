@@ -26,6 +26,10 @@ function renderNational(c,j){
  `| GNI per resident (adopted zero-net-primary-income bridge) | **USD ${fmt(c.gni_per_capita_usd_proxy_V6/1e9,6)} billion** |`,
  `| Local currency / reference quotation | **${c.fx.code}** / USD ${fmt(c.fx.usd_per_local_unit,2)} per unit |`,
  `| Land area | ${c.land_area_million_km2==null?"**Unassigned**":`**${fmt(c.land_area_million_km2,0)} million km²**`} |`,
+ ...(c.name==="Hargenbor"?[
+  `| Civilian/public underwater urban minimum z | **−1,000 m** (maximum inhabited underwater depth) |`,
+  `| Sovereign maritime jurisdiction minimum z | **−36,000 m** (not a civilian residential zone) |`
+ ]:[]),
  `| Median age | ${c.median_age_years==null?"**Unassigned**":`**${fmt(c.median_age_years,0)} years**`} |`,
  `| Period life expectancy | ${c.life_expectancy_years==null?"**Unassigned**":`**${fmt(c.life_expectancy_years,0)} years**`} |`,
  `| Urbanization | ${c.urbanization==null?"**Unassigned**":`**${pct(c.urbanization)}**`} |`,

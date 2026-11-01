@@ -172,10 +172,23 @@ Each individual source nation sums to 100%, independently of the departure volum
 | Stelpadland | 200 | 253 | 481 | 73.00% | 1.63 | 0.969 | 1.80% | 1.2 |
 | Pasgerflit | 72 | 252 | 476 | 94.50% | 1.82 | 0.957 | 2.00% | 3.7 |
 | Hargenbor | 39 | 251 | 465 | 87.50% | 1.86 | 0.933 | 2.90% | 3.1 |
-| Beluftner | 88 | 249 | 452 | 72.00% | 1.80 | 0.904 | 3.30% | 1.6 |
+| Beluftner | 363 | 249 | 452 | 72.00% | 1.80 | 0.904 | 3.30% | 1.6 |
 | Cenrestier | 102 | 250 | 459 | 81.00% | 1.72 | 0.919 | 2.70% | 2.6 |
 
 **Scope caveats:** Carbon intensity cannot yet be ranked reliably without harmonizing gross versus offset-adjusted reporting. TFR and educational access proxies are comparative scenarios, not a universal census. National-level median ages and TFR cannot be inferred for the five newer states or the residual 18.
+
+## 5S. Canon C — National terrestrial land-area amendment (2026-11-01)
+
+| Nation | Land area (million km²) | Canon C decision |
+|---|---:|---|
+| Beluftner | **363** | Supersedes former 88-million-km² historical figure |
+| Calespia | **120** | Newly ratified; no longer unassigned |
+| Ethaptoria | **110** | Newly ratified; no longer unassigned |
+| Mapether | **91** | Newly ratified; no longer unassigned |
+
+**Remaining unassigned:** Scenrepolia and Krisberia have no ratified national land area; no individual land-area census is assigned to the residual eighteen countries. These km² values are **terrestrial footprints**, not 3D constructed/habitable volume or sovereign undersea area. The planet retains approximately **4,503 million km²** of land. The sum of the original fourteen terrestrial country footprints is now **2,176 million km²**; the three newly specified Eastern land footprints sum to **321 million km²**. The **2,006 million km² remainder** is only an unallocated balancing envelope across Scenrepolia, Krisberia and the 18 unsplit countries, **not** a newly ratified bloc area census.
+
+**Hargenbor's vertical exception:** civilian/public underwater urban habitation is restricted to **0 m to −1,000 m** relative to sea level, whereas pre-existing maritime jurisdiction extends to about **−36 km**. Deepwater sovereignty permits non-residential research, logistics, monitoring and defense without authorizing deep civilian towns. Natural usable sunlight may be weak much shallower than 1 km.
 
 ## 5A. Reconciled national TFR — 19 nations and 18-nation residual
 

@@ -40,7 +40,7 @@ tags:
 | GDP per resident per year | **USD 13.573854 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 13.573854 billion** |
 | Local currency / reference quotation | **CAL** / USD 71.20 per unit |
-| Land area | **Unassigned** |
+| Land area | **120 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -126,7 +126,7 @@ Its foundational question: **What do people owe to the living systems, workers a
 | Linguistic ancestry | Stelpadien-derived branch; final current language name pending |
 | Formal government system | Not yet ratified; governance proposals below |
 | Illustrative motto | *Cultivate Knowledge. Nourish Life. Honor Its Origins* |
-| Modern national land area | Not independently measured in available source |
+| Modern national land area | **120 million km² — creator-ratified Canon C (2026-11-01)** |
 | National ancestry distribution | Not separately assigned; do not project the global mean as a measured national census |
 
 ---
@@ -279,7 +279,7 @@ These country-specific numeric estimates are the **creator-ratified NCCM V6.5 fi
 | National ancestry percentages | **Not specified** | Do not copy a planetary weighted proxy into a local census |
 | National total fertility rate (Year 0 C) | **2.01** | Canon C modeled proxy, not independently surveyed |
 | National median age, CPI and Gini | **Unassigned** | No invented national measures |
-| National land area and population density | **Not specified** | Map cannot substitute for land-area survey |
+| National land area | **120 million km² (Canon C)** | Population-density derivations require separate agreed denominator |
 
 The national SDI model is \`0.60 × 0.9480 + 0.40 × 0.9430 = 0.946\`. This is a calibrated component decomposition, not an independent measurement of every individual's cognitive capacity or every institution's quality.
 
@@ -374,7 +374,7 @@ This fictional character captures one cultural tendency. It is **not** a scienti
 - Design national ancestry, Phantomkind rights, demographic cohort series, labor categories and agricultural migration.
 - Model nutrition access and physical capacity across different sentient species.
 - Build the real producer-to-processor input-output table and export accounts.
-- Add national inflation, land area, population density, inequality, government finances and CO₂ scope.
+- Add national inflation, measured settlement density and its geographic denominator, inequality, government finances and CO₂ scope. National land area **120 million km²** is already ratified.
 - Preserve **2628 BAC**, **1149–1137 BAC**, **76% historical territory**, and the legal-economic—not ethnic or military—cause of disputes.
 
 ---
@@ -390,7 +390,7 @@ This fictional character captures one cultural tendency. It is **not** a scienti
 | Quantitative population / SDI / GDP / sectors | NCCM V6.5 creator-ratified national modeled values (C) |
 | Currency name, proposed code and USD exchange rate | FX development scenario, requiring legacy-code crosswalk |
 | Undocumented constitutional titles and specific districts | Development proposals only |
-| National ancestry, other unassigned vital statistics and land area | **Unassigned**; the national TFR is already ratified C |
+| National ancestry and other unassigned vital statistics | **Unassigned**; national TFR and **120 million km²** terrestrial land area are ratified C |
 | 18 other unprofiled nations | Remain within the unchanged combined residual of 804 billion people in the five-country model |
 
 The six-category planetary ancestry distribution is temporarily **represented by the population-weighted distribution of the original 14 nations**. It is **not** a statement that every citizen of Calespia follows those exact percentages. Distinct nationality, citizenship, primary ancestry, inclusive lineage and personal appearance must not be collapsed into one label.
