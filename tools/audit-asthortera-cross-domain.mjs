@@ -60,7 +60,8 @@ for(const c of v.countries_14){
  inspect(files.has(c.source),'PROFILE_FILE_MISSING',c.source);
  if(!historic)continue;
  const leaving=v.migration_year0.routes.filter(x=>x.origin===c.name).reduce((sum,x)=>sum+x.population_billion,0);
- inspect(eq(c.population_billion,historic.census.population_billion-leaving)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,historic.census.land_area_million_km2),'NATIONAL_CENSUS_ANCHORS',c.name);
+ const knownHistoricalArea=c.name==='Beluftner'?363:historic.census.land_area_million_km2;
+  inspect(eq(c.population_billion,historic.census.population_billion-leaving)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,knownHistoricalArea),'NATIONAL_CENSUS_ANCHORS',c.name);
  inspect(eq(c.gdp_planet_share,historic.economy.planetary_gdp_share.value),'GDP_SHARE_UNCHANGED',c.name);
  inspect(eq(c.gdp_usd_annual_V6,10*historic.economy.core_gdp_nominal_usd_reference.value),'GDP_UPLIFT_10X',c.name);
  inspect(eq(c.sdi_individual_component*.6+c.sdi_institution_component*.4,c.sdi),'NATIONAL_SDI_COMPONENTS',c.name);
@@ -121,6 +122,14 @@ for(const c of v.countries_5){
  inspect(c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26,'FX_RANGE',c.name);
  inspect(c.country_specific_ancestry_status==='not_ratifed','DO_NOT_FABRICATE_5_NATION_ANCESTRY',c.name);
 }
+const ratifiedAreas={Beluftner:363,Calespia:120,Ethaptoria:110,Mapether:91};
+for(const [name,area] of Object.entries(ratifiedAreas)) {
+ const country=activeNations.find(c=>c.name===name);
+ inspect(country?.land_area_million_km2===area,'RATIFIED_NATIONAL_LAND_AREA',name+' must keep '+area+' million km²');
+}
+inspect(v.countries_5.find(c=>c.name==='Scenrepolia')?.land_area_million_km2===null&&v.countries_5.find(c=>c.name==='Krisberia')?.land_area_million_km2===null,'UNRATIFIED_EASTERN_LAND_AREA_NULL','Do not invent Scenrepolia/Krisberia km²');
+const hs=v.countries_14.find(c=>c.name==='Hargenbor')?.maritime_spatial_canon;
+inspect(hs?.civilian_public_underwater_urban_z_min_m===-1000&&hs?.deepest_maritime_sovereignty_z_m===-36000&&hs?.civilian_underwater_population_pct===null,'HARGENBOR_CIVILIAN_DEPTH_BOUNDARY','Civilian residences max 1 km deep, sovereignty remains 36 km, population unknown');
 // Year 0 cross-domain V6.5 fertility and real GDP growth invariants.
 const activeNations=[...v.countries_14,...v.countries_5],rest18=v.aggregate_remaining_18;
 const modeledTFR=(sum(activeNations,c=>c.population_billion*c.tfr_candidate)+rest18.population_billion*rest18.tfr_population_weighted_proxy_required)/P.population_billion;

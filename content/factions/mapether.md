@@ -40,7 +40,7 @@ tags:
 | GDP per resident per year | **USD 15.332235 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 15.332235 billion** |
 | Local currency / reference quotation | **MWV** / USD 77.60 per unit |
-| Land area | **Unassigned** |
+| Land area | **91 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -273,7 +273,7 @@ Individual dignity must not depend on clothing brand, personal aesthetics, econo
 | National total fertility rate (Year 0 C) | **1.89** | Ratified modeled TFR; cohort data unassigned |
 | National median age and life expectancy | **Unassigned** | No invented demographic measurements |
 | Annual CPI, income Gini, unemployment, carbon | **Open** | No invented measured figures |
-| National land area | **Open** | Map provides geography, not verified km² |
+| National land area | **91 million km²** | Creator-ratified land-area Canon C (2026-11-01) |
 
 The modeled SDI identity is **0.60 × 0.9400 + 0.40 × 0.9325 = 0.937**. This gives a conceptually consistent individual/institution split, **not** an independently observed microdata result.
 
@@ -388,7 +388,7 @@ Outstanding issues:
 
 - Confirm the political **capital**, distinct from the cultural references to **Bonether**.
 - **Resolved:** MWV is the sole active national currency; market FX and purchasing power remain to be measured.
-- Establish the modern land area, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration.
+- Model settlement density, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration; modern national land area is already **91 million km² Canon C**.
 - Ratify the six-category national ancestry table; the planetary representative average is not a local census.
 - Differentiate fashion manufacturing, textiles, design IP and export margins without double counting.
 - Preserve **2164 BAC founding**, **5% initial territory**, **39% territory at 1125–1121 BAC**, Beluftner-origin sovereignty and subsequent Depeisit cultural influence.
@@ -406,7 +406,7 @@ Outstanding issues:
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
 | Currency code and modeled FX | **MWV** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
-| Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
+| Unpublished national ancestry and other vital statistics | Unassigned; national land area **91 million km²** is ratified C |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |
 
 **World-scale accounting:** Year 0 after migration: the 14 countries contain **3,213 billion**, the five Eastern countries **395 billion**, and 18 other countries **804 billion combined**. The earlier **3,288B/320B** partition was pre-redistribution, not current canon. Mapether is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Mapether's local ancestry percentages.

@@ -35,7 +35,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | GDP per resident per year | **USD 9.263159 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 9.263159 billion** |
 | Local currency / reference quotation | **BLF** / USD 22.00 per unit |
-| Land area | **88 million km²** |
+| Land area | **363 million km²** |
 | Median age | **249 years** |
 | Period life expectancy | **452 years** |
 | Urbanization | **72.00%** |
@@ -102,7 +102,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Official Language       | Beluftner National Language                                          |
 | Currency                | $BLF (Beluftnerian Enchantmark)                                      |
 | Population              | 91 Billion Sentients                                                 |
-| Territory               | 88 Million km²                                                       |
+| Territory               | 363 Million km²                                                       |
 | SDI                     | 0.896                                              |
 | National Archetype      | The Cradle Civilization                                              |
 | Civilization Type       | Ancient Arcane Civilization                                          |
@@ -617,7 +617,7 @@ Six-way primary ancestry is **0.2% Depeisit, 0.5% Cistheta, 2% Cosmeilian, 90.3%
 <!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->
 > **V3 archive: superseded for Year 0.** The values below are kept as historical candidate provenance, not current statistics. The ratified NCCM V6.5 C national GDP is **USD 8.429475089776e+20**, TFR **1.80**, real growth **3.32%**, and SDI **0.896**. The current model remains distinct from independently observed demographic cohorts or deflated real production accounts.
 
-**Unchanged canonical nation anchors:** **91 billion** residents, **88 million km²**, and **SDI 0.896**. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
+**Current Canon C national anchors (area amended 2026-11-01):** **91 billion** residents, **363 million km²**, and **SDI 0.896**. The previous **88 million km²** was a superseded early-model footprint, not a current national area. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
 
 **Completed cross-domain simulation columns — all asterisked figures are candidates, not independently measured national facts:**
 
