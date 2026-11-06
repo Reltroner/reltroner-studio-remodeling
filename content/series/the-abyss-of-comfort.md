@@ -6474,6 +6474,10 @@ A highly capable ally may make a Nytherion-shaped choice; a previous adversary m
 
 The story follows the survival of Astralis's conscious agency, memory, judgment, and responsibility under Nytherion's enduring pressure and the independent interests of other entities. Local tactical victories, Henchoway defeats, and institutional reforms do not abolish the underlying possibility of future stagnation or make every conflict a Nytherion plot.
 
+## Rule 33 — Honor Canon and Production Boundaries
+
+Maintain the original Season 1–17 chronology and currently active Mid-Season 17 position; keep Seasons 18–40 in their documented planning statuses until individually promoted. Preserve the source-of-truth precedence, originality through Asthorteran causality, and explicit review of any revisions to already-published events.
+
 ## Rule 34 — An Expected Service Is Not an Accepted Obligation
 
 In the planned Season 40 five-party supply-chain case, an indicated transport capacity, production forecast, provisional route, regulatory review, signed contract, accepted cargo and completed delivery are **different record states**.
@@ -6483,11 +6487,6 @@ Do not depict Pasgerflit as automatically liable for freight it was not lawfully
 Responsibility follows verified parties, terms, prerequisites, notice duties, evidence, jurisdiction and applicable legal remedies. The queen can host accountable review; she cannot decree supranational compensation by resonance.
 
 **SRA-40, Commitment Gap and CRR-40 are proposed forward-architecture constructs, not established findings about prior seasons.**
-
-## Rule 33 — Honor Canon and Production Boundaries
-
-Maintain the original Season 1–17 chronology and currently active Mid-Season 17 position; keep Seasons 18–40 in their documented planning statuses until individually promoted. Preserve the source-of-truth precedence, originality through Asthorteran causality, and explicit review of any revisions to already-published events.
-
 ---
 ---
 # 14. Current Series Position
