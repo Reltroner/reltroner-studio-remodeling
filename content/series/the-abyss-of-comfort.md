@@ -4,7 +4,7 @@ description: "The master narrative architecture for The Abyss of Comfort from th
 image: "/images/the-abyss-of-comfort.webp"
 author: "Rei Reltroner"
 date: "2026-09-02"
-lastUpdated: "2026-10-25"
+lastUpdated: "2026-11-07"
 published: true
 category: "Series Architecture"
 world: "Asthortera"
@@ -12,7 +12,7 @@ series: "The Abyss of Comfort"
 canonStatus: "Current Master Narrative Architecture — Season 4 Continuity Corrected — Astralis/Reltronland Influence Integration — Forward Architecture Integrated Through Season 40"
 currentStoryPosition: "Mid-Season 17 — The Moreg Driftwar"
 forwardArchitectureThrough: "Season 40 — The Weight of a World"
-tags: ["The Abyss of Comfort", "Asthortera", "Narrative Architecture", "Season Timeline", "Delwyn Harper", "Sterling Logger", "Redley Ris", "Barry Heathrow", "Isaac Luminar", "Professor Altair Troner", "Dr. Westley Watson", "Albert Locke", "Queen Valethra Seraphine Lunara", "Vitor Baythorne", "Brexar Veilthorn", "Astralis Pinnacle", "Nytherion Abyss", "Henchoway", "Reltronland", "Depcutland", "Depsetica", "The Endless Library", "Astrostelia", "Astrosetria", "Institute of Cosmic Phenomena", "Astortera Enterprise", "Astortera City", "Aurora Gateway", "Aurastelia", "Aurorasia", "Reltronepolis Central Station", "Roadglass-5", "Pencilfania", "Stelpadland", "Pasgerflit", "Moreg", "Taramistry", "Lenternow", "Hargenbor", "AICR", "Stillwater Meridian", "The Moreg Driftwar", "The Resonant Audience", "The Dissonant Forum", "The Weight of a World", "International Strategic Council", "Resonance Lag", "Responsibility Vacuum", "Neiput", "TCBC", "Planetary Responsibility Interface", "Dynamic Market Capitalization"]
+tags: ["The Abyss of Comfort", "Asthortera", "Narrative Architecture", "Season Timeline", "Delwyn Harper", "Sterling Logger", "Redley Ris", "Barry Heathrow", "Isaac Luminar", "Professor Altair Troner", "Dr. Westley Watson", "Albert Locke", "Queen Valethra Seraphine Lunara", "Vitor Baythorne", "Brexar Veilthorn", "Astralis Pinnacle", "Nytherion Abyss", "Henchoway", "Reltronland", "Depcutland", "Depsetica", "The Endless Library", "Astrostelia", "Astrosetria", "Institute of Cosmic Phenomena", "Astortera Enterprise", "Astortera City", "Aurora Gateway", "Aurastelia", "Aurorasia", "Reltronepolis Central Station", "Roadglass-5", "Pencilfania", "Stelpadland", "Pasgerflit", "Moreg", "Taramistry", "Lenternow", "Hargenbor", "AICR", "Stillwater Meridian", "The Moreg Driftwar", "The Resonant Audience", "The Dissonant Forum", "The Weight of a World", "International Strategic Council", "Resonance Lag", "Responsibility Vacuum", "Neiput", "TCBC", "Planetary Responsibility Interface", "Dynamic Market Capitalization", "The Contract That Never Moved", "Commitment Gap", "Contractual Resonance Review", "SRA-40"]
 ---
 # The Abyss of Comfort
 # Complete End-to-End Narrative Architecture
@@ -101,6 +101,8 @@ Personal grief
 → multilateral Resonance Lag
 → interoperable policy despite disagreement
 → Hargenbor responsibility fracture
+→ five-party Moreg / Pasgerflit / AE / Astrostelia / Hargenbor contract dispute
+→ Commitment Gap / CRR-40
 → dynamic twin-pillar market concentration
 → the Planetary Guarantor Trap
 → accountable planetary burden allocation
@@ -5032,6 +5034,242 @@ to:
 
 > **Who is capable of stabilizing the consequences, and who is actually obliged to do so?**
 
+### The Contract That Never Moved — SRA-40 Supply-Chain Hearing
+
+**Narrative status:** Planned Season 40 sub-arc. The project name, contracts, dispute records, testimony and findings below are **proposed narrative evidence**, not previously verified historical events or an automatic judgment against the states involved.
+
+**Function:** Turn the Responsibility Vacuum from an abstract planetary debate into a technically and legally legible supply-chain dispute before the delegates redirect attention toward Reltronland's apex capacity.
+
+**Participating interests:**
+- **Hargenbor:** Stillwater-linked project buyer/beneficiary, investors, maritime industrial actors and national oversight.
+- **Moreg:** advanced manufacturing, production scheduling and material readiness, with its own legitimate internal obligations.
+- **Pasgerflit:** aviation and mobility logistics, cargo acceptance, safe routing and the scope of enforceable transport commitments.
+- **Astortera Enterprise (AE):** a **private Astrostelia-based** commercial integrator, supplier-assurance and consolidated schedule actor; neither a nation nor the Astrostelian government.
+- **Astrostelia:** sovereign regulatory, scientific and commercial-jurisdiction authorities; independent legal clearance is not the same as an AE contractual promise.
+
+The public assumption is that **Moreg failed to deliver manufactured components** for a Stillwater-related reference and monitoring adaptation.
+
+Moreg objects: part of its production sequence depended on planned material transfers and special freight, which Pasgerflit did not execute.
+
+Pasgerflit objects in turn: it executed the **effective, complete transport scope**, whereas some revised freight instructions lacked final signed amendments or necessary approvals. It cannot legally or safely be presumed to perform an incomplete contractual scope.
+
+AE says its integrated project schedule reflected anticipated Pasgerflit capability; Astrostelia distinguishes a forecast regulatory clearance from clearance that was actually issued; Hargenbor demands to know why investors and receiving contractors were told to expect an integrated project milestone.
+
+The underlying conflict is not whether anyone should care about delay. It is **which distinct promise, forecast, authorization, delivery, and prerequisite each actor is referring to**.
+
+#### Proposed Work Package — Stillwater Reference Adaptation (SRA-40)
+
+SRA-40 is a planning label for a proposed adaptation package involving monitoring equipment, mobility logistics and reference compatibility in the wider Stillwater-linked ecosystem. It does **not** imply one universal contract binding five nations or that the sovereign governments are corporate signatories.
+
+| Contractual / operational layer | Relevant actor | Proposed evidenced state | What it does not prove |
+|---|---|---|---|
+| Engineering specification and project integration | AE with authorized technical counterparties | Initial specification valid; revision disputed or pending | The revised scope was fully contracted |
+| Standard component manufacture | Moreg production contractor | Some completed; some genuinely late within the factory | All delay came from logistics |
+| Baseline contracted freight | Pasgerflit operator | Effective instructions performed | Every extra freight movement was approved |
+| Special freight / revised payload | Pasgerflit operator and contracting parties | Amendment, cargo acceptance or safety documents incomplete | Failure to execute a binding shipment |
+| Independent safety/technical clearance | Relevant Astrostelian authority | Additional review not finalized | Government guaranteed the forecast clearance date |
+| Destination acceptance and milestone reporting | Hargenbor-linked receiving/project parties | Final package acceptance delayed | A single state caused all downstream losses |
+
+Some underlying logistics legs may run through several jurisdictions; no sovereign carrier monopoly, universal state-owned production chain or impossibly single contract is assumed.
+
+The central question for all participants is:
+
+> **“Was the shipment late, or had the shipment never become authorized?”**
+
+#### Resonance Chamber — Five Definitions of Delay
+
+During Queen Valethra's hearing, Hargenbor blames Moreg for missing the delivery milestone.
+
+**Hargenbor representative:**
+
+> “Moreg failed to deliver the manufactured systems according to our project timeline.”
+
+**Moreg industrial minister:**
+
+> “Our production windows depended on material movements and revised logistics that never occurred.”
+
+**Pasgerflit mobility representative:**
+
+> **“We fulfilled the effective services. We did not execute the additional shipment because its contractual instructions were incomplete.”**
+
+Moreg:
+
+> “Without that movement our production sequence could not continue.”
+
+Pasgerflit:
+
+> **“A capacity indication is not a transport authorization. A forecast is not an accepted consignment.”**
+
+AE:
+
+> “Our integrated schedule included that capacity and we planned around its availability.”
+
+Pasgerflit:
+
+> “Then your plan assumed a commitment we had not yet accepted.”
+
+**Astrostelian regulatory delegate:**
+
+> **“An anticipated clearance is not an issued clearance. Corporate schedules do not override regulatory review.”**
+
+Hargenbor demands:
+
+> **“Then who told our investors the modules would arrive?”**
+
+Valethra does not make the delegates feel peaceful or declare a winner.
+
+> **“You are using one word for five different events: delay.”**
+
+She distinguishes:
+1. late manufacturing under an existing production obligation;
+2. late delivery under an **effective** transport obligation;
+3. conditional or incomplete shipment instructions with no executable approval yet;
+4. pending regulator clearance, with its own defined process and review requirements;
+5. a project forecast that was mistaken for a contractual commitment.
+
+Her task is not to erase the conflict but to make each claim **capable of being verified**.
+
+#### Sterling's Contract-Provenance Discovery
+
+With recorded authorization, Sterling compares contract versions, shipment instructions, production records, technical clearances and AE's integrated schedule.
+
+The first proposed finding is **a semantic state mismatch**, not a fabricated signature or confirmed criminal conspiracy.
+
+~~~text
+CAPACITY INDICATED
+→ CAPACITY EXPECTED
+→ ROUTE PLANNED
+→ PROJECT DELIVERY FORECAST
+→ [UNVERIFIED PROMOTION]
+→ DELIVERY COMMITTED
+~~~
+
+A cross-company dashboard or planning relay treated **conditional feasibility** as though it were **accepted enforceable performance**. A deadline became an organizational promise without the correct release-gate proof.
+
+Sterling:
+
+> **“The system promoted an expectation into a commitment.”**
+
+Isaac must verify the relevant technical predicates rather than infer physical completion from a dashboard status. Redley must identify which contracting parties actually accepted a duty, under which governing law, and which records are admissible. Delwyn prevents the dispute becoming a pretext for intimidation or unauthorized intrusion.
+
+#### Moreg: Not All Production Delays Came From Pasgerflit
+
+Factory records reveal that **some standard manufacturing stages were delayed internally** even before the disputed special-freight amendment, while **other stages really did depend on missing inbound materials or an unexecuted transport variation**.
+
+Moreg must account for its own internal production variance without surrendering a legitimate claim about external dependencies.
+
+Isaac:
+
+> **“Those are separate failures with separate causes.”**
+
+This is not an exoneration of Moreg and not proof Pasgerflit caused every delay.
+
+#### Pasgerflit: Lawful Non-Execution Is Not the Whole Audit
+
+Pasgerflit can be correct to refuse cargo movement where there is **no effective signed instruction, accepted cargo scope or legally required clearance**.
+
+But Valethra asks a separate question:
+
+> **“When did you know that the missing authorization threatened the integrated schedule, and whom were you required to notify?”**
+
+Evidence must establish whether Pasgerflit complied with **its actual notification, mitigation and escalation obligations**. Those duties are not invented retroactively just because delay occurred.
+
+Barry, a former Pasgerflit aviation professional and the team's Mobility specialist, explains:
+
+> **“An aircraft slot is not a shipment. A route plan is not an accepted consignment. A forecast arrival is not a binding authorization.”**
+
+When accused of defending Pasgerflit, he answers:
+
+> **“No. I'm explaining how transportation works.”**
+
+#### Astrostelia and AE: Regulation Is Not Corporate Assurance
+
+AE's private integration team must explain:
+- whether schedules distinguished draft amendments from signed instructions;
+- who reclassified forecast capacity as guaranteed delivery;
+- when customers were informed of changed prerequisites;
+- whether affected insurance, reference and logistics data carried the correct status;
+- which delays it itself caused or failed to mitigate.
+
+Astrostelian authorities must disclose applicable review criteria and process status as law allows. A regulator does not owe approval because a private company forecast a date, but **actual procedural obligations remain auditable**.
+
+Astrostelia must not be collapsed into AE, and AE's operational statements must not be treated as sovereign commitments.
+
+Hargenbor's contractual and project-governance decisions also remain reviewable: what did its receiving parties approve, what amendments were requested, and which risk disclosures were provided to investors?
+
+#### The Commitment Gap
+
+This proposed Season 40 investigative term means:
+
+> **The difference between what interconnected actors collectively expect to happen and what each has actually authorized, accepted, and committed to perform.**
+
+The distinction from neighboring concepts is explicit:
+- **Consequence Gap (Season 32):** truth fails to become durable institutional consequence.
+- **Context Collapse (Season 37):** a model loses essential conditions for its continued validity.
+- **Resonance Lag (Season 39):** interconnected institutions recognize and adapt to a shared shift at different times.
+- **Responsibility Vacuum (Season 40):** shared consequences lack effective accountable assignment.
+- **Commitment Gap (Season 40):** a plan assumes a duty for which an enforceable commitment or release-gate condition has not been established.
+
+~~~text
+incomplete contractual prerequisites
+→ optimistic consolidated forecast
+→ planning systems treat anticipated services as executable
+→ dependent production and receiving milestones are scheduled
+→ unapproved logistics scope is not performed
+→ integrated milestone slips
+→ actors describe different failures as one delay
+→ responsibility is disputed
+~~~
+
+Valethra:
+
+> **“You did not merely disagree about who was late. You disagreed about what had ever been promised.”**
+
+This is **contractual Context Collapse**, not magical wrongdoing or proof Henchoway altered the records.
+
+#### Contractual Resonance Review — CRR-40
+
+Valethra proposes a bounded multi-party review rather than personally awarding damages or overruling contracting jurisdictions.
+
+**CRR-40** would require:
+1. **Verified Obligation Ledger:** record the exact contracting entity, governing law, versioned scope, signed acceptance, responsible party, prerequisite and evidence.
+2. **Separation of Unexecuted Scope:** mark work that is late under an enforceable obligation separately from work not yet contractually, technically or legally executable.
+3. **Corrected Integrated Forecast:** reconcile AE's and the other parties' project schedules to proven release conditions rather than assumed commitments.
+4. **Bounded Recovery Negotiation:** negotiate production recovery, approved freight, regulator review, costs, dispute settlement and liability **through the relevant institutions**, with clear reservations and lawful jurisdiction.
+
+CRR-40 is a **proposed evidence-and-process mechanism**, not a ratified treaty or a royal court exercising legal power over Moreg, Pasgerflit, AE, Hargenbor, and Astrostelia.
+
+The forum can agree on **how to classify outstanding questions** without agreeing on financial responsibility or signing all amendments immediately.
+
+#### Escalation Into the Reltronland Guarantee Debate
+
+With the five-party dispute unresolved, some Hargenbor and AE representatives suggest that **Reltronland should provide emergency industrial, engineering or financial capacity**.
+
+Reltronland rejects the idea that another network's incomplete private commitments automatically become its sovereign commitments:
+
+> **“Our industrial capacity is not an automatic substitute for incomplete private contracts.”**
+
+Depcutland clarifies rather than defends Reltronland's entire political position:
+
+> **“Why is your first solution to five incomplete institutional commitments a sixth commitment from a country that did not sign them?”**
+
+Valethra refuses to treat emergency aid as inherently wrong. She separates **voluntary and properly authorized support** from **retroactive reassignment of liability**.
+
+This gives the later **Undocumented Planetary Backstop** discovery a concrete, visible precedent: some plans can assume that other actors will perform obligations the plans never actually secured.
+
+#### Season 40 Investigation and Performance Boundaries
+
+- Moreg's manufacturing capability remains real; acknowledge its own production delays where evidenced.
+- Pasgerflit is not guilty merely for refusing to execute **incomplete or unauthorized** freight instructions; check any **actual** notification duties independently.
+- AE remains a legitimate commercial institution; its schedule may be mistaken without automatically being criminally manipulated.
+- Astrostelia's independent regulator is not AE's sales department.
+- Hargenbor's receiving parties and investors maintain independent agency and obligations.
+- Valethra makes distinctions legible, invites evidence and dissent, and **does not** issue supranational binding judgments by spiritual insight.
+- Barry supplies operational expertise; Sterling supplies provenance; Isaac verifies technical facts; Redley checks legitimacy; Delwyn preserves lawful field conduct.
+- Henchoway may benefit from a Commitment Gap without being presumed to have created every missing amendment or scheduling mistake.
+- **No implicit planetary rescue guarantee** arises merely because Reltronland is exceptionally capable.
+- SRA-40, CRR-40, the described hearings and their proposed documentary results remain **forward architecture** until separately ratified into completed story canon.
+
 ### Pressure on Reltronland
 AE and several participating national representatives argue that the planetary economy depends disproportionately on Reltronland's technology, finance and systemic engineering.
 
@@ -5560,6 +5798,10 @@ authenticated Valethra invitation
 → Hargenbor reopens responsibility for Stillwater
 → governmental, private, investor and researcher fractures
 → Responsibility Vacuum
+→ SRA-40 manufacturing and special-freight dispute
+→ Moreg / Pasgerflit / AE / Astrostelia / Hargenbor responsibility hearing
+→ Commitment Gap and contractual state reconstruction
+→ Contractual Resonance Review (CRR-40)
 → disputed demands on Reltronland's apex capability
 → Depcutland translates the objection without becoming a defender
 → Neiput and TCBC demonstrate bounded interdependence
@@ -5728,6 +5970,15 @@ Garren discovers Henchoway
 → the forum adopts only a minimum interoperable response while national commitments remain independent
 → Hargenbor's unresolved Stillwater legacy triggers renewed planetary responsibility evaluation
 → the government, investors, researchers and elites of Hargenbor divide over jurisdiction, benefit, knowledge and liability
+→ Hargenbor alleges delays in Moreg manufacturing under SRA-40
+→ Moreg challenges Pasgerflit over unexecuted freight and disrupted production dependencies
+→ Pasgerflit distinguishes its completed effective transport obligations from unsigned or unauthorized additional instructions
+→ AE's consolidated forecast is compared with corporate commitments and Astrostelian regulator clearance
+→ Sterling detects an unverified promotion of expected capacity into purported delivery commitment
+→ Moreg's own manufacturing delays and Pasgerflit's distinct notice obligations remain independently auditable
+→ Barry separates transport capacity, cargo acceptance, authorization and actual delivery
+→ Valethra defines the Commitment Gap and proposes a bounded CRR-40 rather than declaring a legal winner
+→ participants attempt to transfer private contract recovery to Reltronland's sovereign capability
 → other delegations demand broader Reltronland responsibilities based on its apex economic position
 → Depcutland refuses the automatic planetary-guarantor label while rejecting Hargenbor's attempts to evade its own duties
 → Neiput's history, TCBC private governance and the Endless Library's licensed 4D architecture demonstrate deep cross-border dependence without shared sovereignty
@@ -5774,7 +6025,7 @@ Garren discovers Henchoway
 | Season 37 | Context collapse, Aurora resonance, and sovereign epistemic boundaries | What is lost when a living adaptive reference is commercialized as a static standard? |
 | Season 38 | Sovereign audience, wonder, epistemic restraint | Can outsiders challenge an Apex's assumptions without treating her status as proof? |
 | Season 39 | Multilateral dissonance, Resonance Lag, systemic interoperability | Can states share evidence and remain interoperable while rejecting one another's preferred policy? |
-| Season 40 | Hargenbor accountability, twin-pillar hegemony, planetary burden distribution | Who must carry the world when its most capable country never agreed to become the world's permanent guarantor? |
+| Season 40 | Hargenbor accountability, five-party contract conflict, Commitment Gap, twin-pillar hegemony and planetary burden distribution | Can verified obligations be separated from unfulfilled expectations before institutions demand that the strongest nation carry the costs? |
 ---
 # 12. Delwyn Harper’s End-to-End Development
 ## Seasons 1–3
@@ -5924,7 +6175,7 @@ Season 36 proves his growth from execution toward containment: when force is fin
 Season 37 forces him to accept that the next correct action may be to stop at a sovereign epistemic boundary and ask another civilization to examine its own system.
 Season 38 confronts him with the dignity and uncertainty of a first personal audience with Valethra, without making him a chosen hero.
 Season 39 teaches that legitimate disagreement is not sabotage and that an independent witness does not become a planetary policymaker.
-Season 40 teaches that evidence of danger does not itself allocate sovereignty, liability, funding or the right to command another country's response.
+Season 40 teaches that evidence of danger does not itself allocate sovereignty, liability, funding or the right to command another country's response. During the five-party contract hearing he sees why a missed project milestone cannot be treated as proof that a transport provider violated an obligation it never accepted.
 
 ---
 # 13. Structural Rules for Future Development
@@ -6193,7 +6444,7 @@ Depcutland's accurate translation of that boundary is not unconditional politica
 Hargenbor, AE, participating states and all other actors must retain their own accountable choices. Valethra does not shift unlimited planetary responsibility to Aurastelia either.
 
 ## Rule 25 — Forward Seasons Are Proposals Until Promoted
-Seasons 18–40 are planned forward architecture, not retrospective proof of completed events. New Season 38–40 institutional names, CRX-1 findings, the Undocumented Planetary Backstop and PRI-40 are scenario architecture, not established facts from older source documents.
+Seasons 18–40 are planned forward architecture, not retrospective proof of completed events. New Season 38–40 institutional names, CRX-1 findings, SRA-40, the Commitment Gap, CRR-40, the Undocumented Planetary Backstop and PRI-40 are scenario architecture, not established facts from older source documents.
 
 ## Rule 26 — Keep the Cross-Genre Promise
 
@@ -6222,6 +6473,16 @@ A highly capable ally may make a Nytherion-shaped choice; a previous adversary m
 ## Rule 32 — Preserve the Permanent Existential Throughline
 
 The story follows the survival of Astralis's conscious agency, memory, judgment, and responsibility under Nytherion's enduring pressure and the independent interests of other entities. Local tactical victories, Henchoway defeats, and institutional reforms do not abolish the underlying possibility of future stagnation or make every conflict a Nytherion plot.
+
+## Rule 34 — An Expected Service Is Not an Accepted Obligation
+
+In the planned Season 40 five-party supply-chain case, an indicated transport capacity, production forecast, provisional route, regulatory review, signed contract, accepted cargo and completed delivery are **different record states**.
+
+Do not depict Pasgerflit as automatically liable for freight it was not lawfully authorized or contractually bound to carry. Do not erase Moreg's independently established production issues. Do not convert AE project forecasts into Astrostelian sovereign regulatory decisions. Do not treat Hargenbor or its private investors as a single uniform party.
+
+Responsibility follows verified parties, terms, prerequisites, notice duties, evidence, jurisdiction and applicable legal remedies. The queen can host accountable review; she cannot decree supranational compensation by resonance.
+
+**SRA-40, Commitment Gap and CRR-40 are proposed forward-architecture constructs, not established findings about prior seasons.**
 
 ## Rule 33 — Honor Canon and Production Boundaries
 
@@ -6305,6 +6566,9 @@ Kill-switch debate
 → CRX-1 / Resonance Lag / Civilizational State Divergence
 → Season 40 / The Weight of a World
 → Hargenbor Stillwater responsibility fracture
+→ SRA-40 five-party manufacturing / freight / regulatory dispute
+→ The Contract That Never Moved
+→ Commitment Gap / CRR-40
 → dynamic Reltronland–Depcutland twin-pillar concentration
 → Neiput / TCBC / Endless Library sovereign-boundary precedents
 → Planetary Responsibility Matrix
@@ -6353,6 +6617,8 @@ It expands into a story about:
 - A dynamic, economically dominant Reltronland and second-largest Depcutland combining for 51–65% of planetary market capitalization without merging sovereignty
 - Neiput border arbitrage, TCBC private banking, and the Endless Library as non-merger models of interdependence
 - The Planetary Guarantor Trap, and a negotiated rather than assumed responsibility interface
+- A concrete five-party supply-chain dispute that separates Moreg manufacturing variance, Pasgerflit freight authorization, AE forecasting, Astrostelian regulatory clearance and Hargenbor receiving commitments
+- The Commitment Gap, a contract-provenance inquiry and CRR-40 as an institutional response to an assumed rather than enforceable transport obligation
 The architecture is cumulative.
 ```text
 Pencilfania teaches the team to question meaning.
@@ -6376,7 +6642,7 @@ Aurora Gateway forces them to confront Context Collapse: the danger of preservin
 The Season 37 invitation establishes Aurastelia as a sovereign epistemic domain rather than a territory the protagonists may simply enter and inspect.
 Season 38 forces the team to stand before Valethra without mistaking her authority for automatic correctness.
 Season 39 forces the world to remain interoperable despite ministerial and legislative disagreement.
-Season 40 forces the world to confront a Responsibility Vacuum: the strongest economy cannot become the unconsented permanent guarantor of a multipolar planet, and every state and private institution must account for its own obligations.
+Season 40 forces the world to confront a Responsibility Vacuum: the strongest economy cannot become the unconsented permanent guarantor of a multipolar planet, and every state and private institution must account for its own obligations. The SRA-40 contract hearing makes that problem concrete when Moreg, Pasgerflit, AE, Astrostelia and Hargenbor discover that delivery expectations had been promoted beyond their verified contractual and regulatory status.
 ```
 Reltronland remains the recurring manifestation of Astralis Pinnacle:
 - The place where evidence converges
