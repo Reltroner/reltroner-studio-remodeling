@@ -1,6 +1,6 @@
 ---
 title: "Asthortera Ball"
-subtitle: "The Quiet Drift"
+subtitle: "Asthortera Countryball TV — In Development"
 description: "Official franchise profile for Asthortera Ball, an animated countryball series exploring civilization, stagnation, growth, and the subtle influence of Nytherion Abyss across the world of Asthortera."
 image: "/images/asthortera-countryball-characters.webp"
 creator: "Reltroner Studio"
@@ -10,6 +10,7 @@ format: "Animated Countryball Series"
 genre: "Comedy, Civilizational Satire, Philosophical Fiction, Political Comedy, Social Commentary"
 status: "In Development"
 classification: "Official Franchise Bible"
+lastUpdated: "2026-11-07"
 published: true
 ---
 
@@ -57,7 +58,7 @@ The world does not revolve around the protagonists.
 
 ## TV program integration decision — 2026-11-07
 
-**Asthortera Ball / Asthortera Countryball TV** is an in-development screen program inside the shared Asthortera universe, not a renumbering of *The Abyss of Comfort* seasons. Episode order, arc changes and canon freeze require explicit owner decisions.
+**Asthortera Ball / Asthortera Countryball TV** is an in-development screen program inside the shared Asthortera universe, not a renumbering of *The Abyss of Comfort* seasons. The frontmatter `continuity: Primary Canon` refers to the intended universe continuity, **not** canon-freeze or publication of future episode events. Episode order, arc changes and canon freeze require explicit owner decisions.
 
 **P6 continuity is binding for this TV adaptation:** The genuine 3D **WB-NPC-001** engineering foundation retains **one expressive mouth and two detached 3D hands**, not the older mouthless/handless illustration restriction. Every named nation still needs its approved emblem, color, established personality and any signature accessories under the [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md). The generic white NPC is **not** already a final Pasgerflitball or any other named character. No long arms, legs or anthropomorphic anatomy are introduced.
 
