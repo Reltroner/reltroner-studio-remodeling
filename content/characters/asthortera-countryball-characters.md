@@ -4,6 +4,7 @@ description: "Official visual identity, personality archetype, narrative role, a
 image: "/images/asthortera-countryball-characters.webp"
 author: "Rei Reltroner"
 date: "2026-06-06"
+lastUpdated: "2026-11-07"
 published: true
 category: "Character Design"
 tags: [Asthortera, Countryball, Character Design, Animation, Worldbuilding, Visual Identity, Character Bible, Asthortera Ball, Geopolitics]
