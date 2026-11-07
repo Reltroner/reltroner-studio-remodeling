@@ -2177,6 +2177,16 @@ Countryball should not replace deeper canon.
 
 It should make deeper canon easier to enter.
 
+## 23.3 Asthortera Ball TV adaptation boundary (owner direction, 2026-11-07)
+
+**Asthortera Ball / Asthortera Countryball TV** is a distinct, in-development screen program inside the shared Asthortera universe, not a renumbering of *The Abyss of Comfort* or its seasons. Its **series/season/episode narrative decisions** reside in [the Asthortera Ball franchise bible](../series/asthortera-ball.md); **individual national-character identity and visual performance rules** reside in [the Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md). The [series roadmap](../series/series-roadmap.md) indexes the relationship without defining a second season chronology.
+
+The owner-selected screen-performance baseline **reuses the existing genuine 3D WB-NPC-001 P6 work**, including a facial mouth and **exactly two detached three-dimensional hands**; no arms or legs are introduced. Older no-mouth/no-hand descriptions are **legacy visual direction for this TV adaptation**, not a reason to discard P6. Nation-specific color, emblem, personality and accessories still require character-by-character fidelity; the generic white sphere is an engineering foundation, not an approved final model for every nation. This is a **program production decision**, not automatic ratification of an episode, new lore event or published canon.
+
+The program is currently scoped to country/civilizational personifications and relevant story roles. **Phantomkind and Cosmeilian species-character arcs are deferred** from this TV program's present contract; their existing universe canon is not changed. Pasgerflitball is an important recurring audience gateway, not the sole mandatory lead: the currently documented Season 1 opening remains **"The Pencilfania Problem"**, unless separately revised and approved through the franchise bible.
+
+The **proposed P7 landscape and long-form adapter** is a subordinate production plan, not proof of a deployed or approved TV episode. The operational specification lives in [Faceless YouTube Production Architecture — document 14](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md). Technical gates, source revisions, creative approval, canon freeze and release remain separate.
+
 ---
 
 # 24. The Reltroner Content Operating System
