@@ -5,7 +5,7 @@ author: "Rei Reltroner"
 version: "1.3"
 status: "Proposed Operational Framework — Subordinate to Binding Apex Source of Truth"
 date: "2026-10-22"
-lastUpdated: "2026-11-06"
+lastUpdated: "2026-11-07"
 published: true
 image: "/images/reltroner-studio-communication-framework.webp"
 tags:
