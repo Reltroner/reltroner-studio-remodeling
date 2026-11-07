@@ -10,6 +10,14 @@ date: "April 8, 2025"
 
 # Asthortera Novel Series Roadmap
 
+## Screen-program cross-reference — Asthortera Ball TV (2026-11-07)
+
+**This page remains the novel/inter-series roadmap; it does not become a second Countryball episode schedule.** [Asthortera Ball](asthortera-ball.md) owns the developing TV season/arc/episode order and the currently documented S1E1 **"The Pencilfania Problem"**. Pasgerflitball is a recurring viewer gateway, not an automatic replacement for that opening. The separate *The Abyss of Comfort* season chronology and the novel timelines below remain independent even when they share the Asthortera setting.
+
+The owner-approved TV **visual-performance direction** retains the P6 genuine 3D WB-NPC-001 mouth and two detached hands, subject to [national identity specifications](../characters/asthortera-countryball-characters.md). The generic white NPC is a technical base, not a completed countryball. Phantomkind/Cosmeilian species-centered characters are out of the **current TV production scope**, not deleted from the world. The [P7 TV production adapter](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md) is proposed and does not imply a finished landscape season.
+
+**Status separation:** screen development plan ≠ chronology of novel canon ≠ published episode. See the [master release doctrine](../principles/reltroner-studio-master-source-of-truth.md) for canon approval and freeze rules.
+
 ---
 
 **1. Title:** *The Spiral and The Astralis*
