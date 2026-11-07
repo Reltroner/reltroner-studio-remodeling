@@ -5,7 +5,7 @@ author: "Rei Reltroner"
 version: "2.3"
 status: "Binding Apex Source of Truth"
 date: "2026-10-07"
-lastUpdated: "2026-10-12"
+lastUpdated: "2026-11-07"
 published: true
 image: "/images/reltroner-studio-master-source-of-truth.webp"
 tags:
