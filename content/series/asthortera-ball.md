@@ -399,36 +399,9 @@ The previous *Boarding Pass to Trouble* material is retained as an earlier produ
 
 ---
 
+## Archived development profile (retained for provenance)
 
----
-
----
-
-title: "Asthortera Ball"
-
-subtitle: "The Quiet Drift"
-
-description: "Official franchise profile for Asthortera Ball, an animated countryball series exploring civilization, stagnation, growth, and the subtle influence of Nytherion Abyss across the world of Asthortera."
-
-image: "/images/asthortera-countryball-characters.webp"
-
-creator: "Reltroner Studio"
-
-universe: "Asthortera"
-
-continuity: "Primary Canon"
-
-format: "Animated Countryball Series"
-
-genre: "Comedy, Civilizational Satire, Philosophical Fiction, Political Comedy, Social Commentary"
-
-status: "In Development"
-
-classification: "Official Franchise Bible"
-
-published: true
-
----
+The profile and eight-episode *The Quiet Drift* proposal below are **historical development material**, not a second active series metadata block or a competing S1E1. The only page frontmatter is at the top. Narrative details may be reused after continuity review; active TV performance rules live above and in the [Countryball character guide](../characters/asthortera-countryball-characters.md).
 
 # 🌍 ASTHORTERA BALL
 
@@ -804,9 +777,9 @@ Each civilization serves as a cultural lens through which different approaches t
 
 # VISUAL DIRECTION
 
-## Art Style
+## Art Style — archived reference
 
-MrSpherical-inspired countryball animation.
+The older draft cited a countryball illustration reference. It is historical inspiration, **not** a directive to copy third-party visual identity or replace the original P6-based 3D TV design.
 
 ---
 
@@ -828,15 +801,9 @@ The old mouthless/handless flat-vector rules were part of an earlier 2D plan and
 
 ---
 
-## Rendering Standards
+## Rendering Standards — current/legacy distinction
 
-* Clean vector artwork
-
-* Consistent shading
-
-* Broadcast-quality presentation
-
-* High readability at all screen sizes
+Historical still illustrations may use vector artwork. Active Countryball TV uses the existing Three.js **P6 real-geometry rig**, coherent lighting/shading, readable outlines and national iconography. Technical QA is distinct from owner visual approval.
 
 ---
 
