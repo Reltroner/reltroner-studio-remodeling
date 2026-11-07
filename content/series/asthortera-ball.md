@@ -55,6 +55,20 @@ The world does not revolve around the protagonists.
 
 ---
 
+## TV program integration decision — 2026-11-07
+
+**Asthortera Ball / Asthortera Countryball TV** is an in-development screen program inside the shared Asthortera universe, not a renumbering of *The Abyss of Comfort* seasons. Episode order, arc changes and canon freeze require explicit owner decisions.
+
+**P6 continuity is binding for this TV adaptation:** The genuine 3D **WB-NPC-001** engineering foundation retains **one expressive mouth and two detached 3D hands**, not the older mouthless/handless illustration restriction. Every named nation still needs its approved emblem, color, established personality and any signature accessories under the [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md). The generic white NPC is **not** already a final Pasgerflitball or any other named character. No long arms, legs or anthropomorphic anatomy are introduced.
+
+**Current scope** covers the civilization/country personifications, their institutions and supporting scene roles. Phantomkind and Cosmeilian species-centered characters/manifestations are deferred from this TV program; their existing world canon remains untouched.
+
+**Ensemble architecture:** Asthortera is the overarching narrative center; Pasgerflitball is an important recurring **audience gateway**, not the exclusive lead. **S1E1 remains "The Pencilfania Problem"** below. *The Wrong Kind of Wake-Up*, *Boarding Pass to Trouble*, and the historical eight-episode *The Quiet Drift* proposal may be considered for future placement, but are **not alternative active S1E1 decisions**.
+
+**P7 production boundary:** The [long-form landscape TV adapter](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md) proposes how season manifests drive the existing Three.js/Remotion character/world/audio engine. A proposal is **not** a completed landscape render, approved season or published episode.
+
+---
+
 # CURRENT SEASON 1 OPENING
 
 ## Season 1 Episode 1 — The Pencilfania Problem
@@ -796,23 +810,9 @@ MrSpherical-inspired countryball animation.
 
 ---
 
-## Character Standards
+## Character Standards — archived vector direction
 
-All characters must maintain:
-
-* Perfect spherical geometry
-
-* No arms
-
-* No legs
-
-* No hands
-
-* No feet
-
-* No mouths
-
-* Minimalist design language
+The old mouthless/handless flat-vector rules were part of an earlier 2D plan and are **superseded for the active 3D TV format**. The current rule is owned by the [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md): genuine 3D spherical body, expressive mouth, exactly two detached 3D hands, no long arms or legs, and distinct nation-specific identities.
 
 ---
 
@@ -840,19 +840,15 @@ All characters must maintain:
 
 ---
 
-## Production Format
+## Production Format — archived planning example
 
-Resolution: 1920×1080
-
-Aspect Ratio: 16:9
-
-Frame Rate: 24 FPS
+This older section used 1920×1080 (16:9) at **24 FPS**. The P7 landscape-TV target is **1920×1080 at 30 FPS**, reusing the existing Remotion 30 FPS timebase. P7 landscape rendering remains a **proposal until locally implemented and tested**; see the [TV/P7 adapter contract](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md).
 
 ---
 
-# SEASON ONE
+# ARCHIVED SEASON-ONE OUTLINE — THE QUIET DRIFT
 
-# THE QUIET DRIFT
+**Development archive:** These eight episode concepts are retained for future adaptation, but do **not** override the current S1E1 *The Pencilfania Problem* described at the start of this franchise bible. Reordering or promoting them requires explicit continuity review.
 
 ## Season Statement
 
