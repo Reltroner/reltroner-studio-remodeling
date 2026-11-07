@@ -488,6 +488,14 @@ Distinguish clearly between **concept**, **development material**, **planned for
 
 This is sample positioning copy, not a quote from an unpublished story.
 
+### 10.5 Asthortera Ball TV viewer-entry contract (2026-11-07)
+
+For the developing **Asthortera Ball / Countryball TV** program, lead with a character's understandable action, tension or choice before explaining a national institution. Pasgerflitball is a **recurring audience gateway**, not the mandatory protagonist of every episode: the current S1E1 opening in [the franchise bible](../series/asthortera-ball.md) remains *The Pencilfania Problem*. The [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md) owns national character voice/acting and the owner-approved P6 **mouth + two detached 3D hands** performance baseline; this communication document does not redefine that rig.
+
+Communicate clearly whether a script, season, still, trailer or video is **proposed, in development, technically rendered, owner-approved, canon-frozen or published**. Do not call an unapproved 3D prototype a final nation design, represent a speculative arc as established canon, imply a TV upload exists without a URL, or present third-party inspiration (including *SolarBalls*) as an official Reltroner affiliation. Character-led educational explanations may use **Current Lore → necessary Wiki/Backstory → Current Lore**, not a mandatory lore lecture.
+
+Retain 100% faceless production, authorized synthetic dialogue/narration, scene-addressable audio/captions and human release review. **Phantomkind and Cosmeilian species-driven character narratives are outside the current TV program scope**; do not erase them from general Asthortera communications. The [technical season-to-P7 adapter](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md) is subordinate production guidance, not a new marketing claim.
+
 ---
 
 ## 11. Creator-Facing Educational Communication
