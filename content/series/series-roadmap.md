@@ -6,6 +6,7 @@ image: "/images/series-roadmap.webp"
 author: "Reltroner Studio"
 published: true
 date: "April 8, 2025"
+lastUpdated: "2026-11-07"
 ---
 
 # Asthortera Novel Series Roadmap
