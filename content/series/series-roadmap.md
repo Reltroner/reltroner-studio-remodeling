@@ -19,7 +19,7 @@ The owner-approved TV **visual-performance direction** retains the P6 genuine 3D
 
 **Status separation:** screen development plan ≠ chronology of novel canon ≠ published episode. See the [master release doctrine](../principles/reltroner-studio-master-source-of-truth.md) for canon approval and freeze rules.
 
-**Abyss of Comfort season alignment (2026-11-08):** The established [series narrative master](the-abyss-of-comfort.md) still positions the active story in **mid-Season 17** and contains forward architecture through **Season 40**. The approved **Season 41 — The Covenant of Five Voices** concept is added to this *inter-series roadmap* as **planned forward development**, not as an already published season, a retroactive change to earlier story events, or a claim that the master series document has itself been updated to Season 41.
+**Abyss of Comfort season alignment (2026-11-08):** The established [series narrative master](the-abyss-of-comfort.md) retains **mid-Season 17** as the active narrative position and now includes approved **Season 41 — The Covenant of Five Voices** as forward architecture. This inter-series roadmap remains a cross-series companion, not a second episode master; the new season is not yet a published or completed narrative.
 
 ---
 
@@ -82,7 +82,7 @@ The owner-approved TV **visual-performance direction** retains the P6 genuine 3D
 
 The series entry above remains the **inter-series novel premise**. For season-level causality, the binding narrative reference is [The Abyss of Comfort — Complete End-to-End Narrative Architecture](the-abyss-of-comfort.md). This bridge gives downstream authors and adaptation planners a compact overview; it is **not** a second competing episode-master or the Asthortera Ball TV production schedule.
 
-**Active release/story status:** Mid-Season 17 — The Moreg Driftwar. **Seasons 18–41 are forward architecture.** Season 38–40 are documented in the linked narrative master; Season 41 is a newly approved *roadmap-level concept* awaiting corresponding master-series integration.
+**Active release/story status:** Mid-Season 17 — The Moreg Driftwar. **Seasons 18–41 are forward architecture.** Seasons 38–41 are documented in the linked narrative master. This roadmap records the same approved Season 41 premise at inter-series planning granularity.
 
 | Season | Title | Inter-series function |
 |---|---|---|
