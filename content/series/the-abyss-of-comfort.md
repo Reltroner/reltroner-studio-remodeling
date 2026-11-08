@@ -429,6 +429,17 @@ Her role complements:
 
 Season 37 does not place the bounty-hunter team in Aurastelia; it establishes an invitation. Season 38 begins the first in-person audience at Aurora Crystal Palace, Season 39 establishes her multilateral resonance role, and Season 40 tests that role against the planetary burden-transfer dispute without making Valethra sovereign over other countries.
 
+### Neris Valcane — Formulation and Reproducibility
+A Taramistrian professional whose Seasons 19–21 lens is biomedical formulation, experimental reproducibility, and the gap between symptom relief and preserved choice.
+
+### Celine Corisa — Bioethical Consent and Clinical Rights
+A separate Taramistrian professional lens for consent, patient agency, lawful clinical-data use and institutional accountability. Scientific disagreement does not make her an enemy of medical progress.
+
+### Mira Talena — Applied Synthesis and Continuity of Care
+A practical Taramistrian voice for therapy implementation, affected people, monitoring, field feasibility and long-term patient support.
+
+Their formal institutional job titles, family biographies and absolute authority are **not** assigned by this series document. They retain separate agency after the Taramistry arc and may join a later voluntary Hana consultation without becoming permanent bounty hunters.
+
 ### Daan Coen — Reflection
 Represents:
 - Compassion
@@ -1403,6 +1414,34 @@ The team traces:
 - Redley secures lawful access.
 - Delwyn investigates disappearances and intimidation.
 - Altair debates system-level evidence with Taramistrian experts.
+### Neris, Celine and Mira — Three Independent Taramistrian Perspectives
+
+**Neris Valcane**, **Celine Corisa**, and **Mira Talena** enter the forward architecture here, through the Moreg-to-Taramistry medical evidence trail. Their functional specializations below are proposed narrative lenses, **not unsupported permanent job titles, government appointments, or automatic team membership**.
+
+| Character | Professional narrative function | Primary tension |
+|---|---|---|
+| **Neris Valcane** | Biomedical formulation, independent reproducibility and measurement limits | A treatment can relieve symptoms while failing to measure whether agency survives |
+| **Celine Corisa** | Bioethical safeguards, clinical consent, patient rights and data-use boundaries | A valid original consent cannot silently authorize unlimited derivatives or later uses |
+| **Mira Talena** | Applied synthesis, clinical integration, care continuity and post-treatment outcomes | Successful laboratory claims do not guarantee realistic, safe recovery paths |
+
+The medical trail plausibly reaches **Phardicalpolis** through the lawful pharmaceutical/export chain and **Tachemistria** through national scientific, clinical and bioethical review, with **Chemistalia** relevant to commercialization and licensing. Their sequence is evidence-led, not random tourism.
+
+**Proposed first-contact dialogue:**
+
+> **Neris:** “The measured relief is real. That is why the missing measurement matters.”
+>
+> **Sterling:** “What measurement?”
+>
+> **Neris:** “Whether the patient can still refuse the path the therapy makes easiest.”
+>
+> **Celine:** “Informed consent must survive the intervention, not merely precede it.”
+>
+> **Mira:** “And what we do next must not abandon people already receiving legitimate care.”
+
+Karler and Luke provide Moreg's engineering and survivor evidence; Delwyn, Sterling, Redley and Barry investigate within lawful boundaries. **Isaac has not yet joined the core team in this period**. Altair supports AICR-level inference, not national clinical command.
+
+The three Taramistrian professionals do not agree automatically. Neris wants robust replication, Celine insists on enforceable consent and lawful data use, and Mira fears blanket withdrawal of services needed by real patients. Their national institutions retain primary authority. A research similarity to Driftwar misuse is **not proof** that Taramistry caused the war or that every Taramistrian scientist belongs to Henchoway.
+
 ### Ending
 The team arrives in Phardicalpolis or Tachemistria.
 A treatment appears to remove trauma perfectly.
@@ -1437,6 +1476,55 @@ The conflict involves:
 - Henchoway-linked intermediaries
 ### Central Question
 > **Who defines what counts as evidence when the measurable result is relief but the unmeasured cost is identity?**
+### The Three Professionals Disagree Within a Capable Scientific Civilization
+
+**Neris** leads the inquiry's formulation-and-replication lens: she compares immediate symptom relief, longer-term volition, decision reversibility and the patient's capacity to refuse a recommendation. Her competence lies in revising a technically successful claim when a crucial outcome was never evaluated.
+
+> **Neris:** “The formula answered our original question. That doesn't prove it was the right question.”
+
+**Celine** investigates consent records, participant comprehension, derivative licensing, secondary clinical-data use, incentives and enforceable rights. She is an advocate and expert within her professional remit, **not declared to be the Bioethical Tribunal itself**.
+
+> **Celine:** “A real signature can still be used to justify a decision it never authorized.”
+
+**Mira** tests care pathways outside controlled laboratories: ability to maintain treatment, monitored transition, post-treatment agency, and what happens if a service is withdrawn too abruptly.
+
+> **Mira:** “We cannot call the science humane if its correction forgets the patient.”
+
+They confront competing incentives from researchers, manufacturers, regulators, licensees, medical providers, patients and civic stakeholders. They should be able to challenge one another without being reduced to a heroic trio against an evil country.
+
+### Use Taramistry's Actual Institutions
+
+The country's established **Synthetism of Merit** and national science pipeline make the arc distinctive:
+- **National Scientific Presidium (NSP):** scientific priority and evidence leadership;
+- **Ministry of Alchemic Progress / IncubaTorium:** research-to-application and scaling;
+- **Bioethical Tribunal:** constitutional ethics and clinical-data oversight;
+- **Public Synthesis Exchange (PSX):** regulated intellectual-property commercialization;
+- **Replication Week:** independent replication and public correction;
+- **MedCreds:** incentives for voluntary clinical participation, requiring scrutiny for social pressure without assuming criminal intent.
+
+The established **Three-Gate Protocol** means **Ethics Gate**, **Efficacy Gate** and **Sustainability Gate**. The failure involves a therapy that can repeatedly pass a narrow efficacy endpoint while important agency and long-term social consequences remain insufficiently characterized under the other two gates.
+
+~~~text
+GENUINE MEDICAL RELIEF
+→ REPRODUCIBLE NARROW EFFICACY
+→ INCOMPLETE LONGITUDINAL AGENCY METRIC
+→ COMMERCIAL TRANSFER OR REPURPOSING
+→ POSSIBLE LOSS OF PATIENT SELF-DIRECTION
+→ NATIONAL SCIENTIFIC AND BIOETHICAL REVIEW
+~~~
+
+The PSX and legitimate Taramistrian scientists are **not** automatically Henchoway collaborators because a lawful discovery was misused downstream. Sterling can reconstruct licensing, Redley can secure legal access, Barry can map mobility, Karler can compare control interfaces, Luke can testify to real-world effects, and Delwyn can pursue specific intimidation evidence when established.
+
+### Replication Week — Success Without Certainty
+
+A proposed Replication Week sequence reproduces excellent relief scores but uncovers inconsistent or previously unmeasured effects on voluntary decision-making. Neris insists the efficacy observation remains valuable, Celine challenges deficient consent safeguards, and Mira prevents the debate from forgetting continuity of care.
+
+> **Neris:** “If we stop measuring, we can destroy a real discovery.”
+>
+> **Celine:** “If we proceed without valid consent, we can destroy the person the discovery was meant to help.”
+>
+> **Mira:** “And if we stop treatment indiscriminately, the patients carry the cost of our argument.”
+
 ### Expected Outcome
 Season 20 exposes the institutional and scientific architecture of the crisis but does not fully resolve it.
 It leads into a national synthesis crisis.
@@ -1463,6 +1551,30 @@ Taramistry must save itself through its own strengths:
 - Volunteer testimony
 Reltronland contributes clarity.
 It does not replace Taramistry’s sovereignty.
+### Three Character Decisions at the Climax
+
+**Neris — Correcting a Successful Formula.** An independent study supports the intervention's measurable benefit but reveals that some apparent improvements mask declines in agency. Neris publicly amends the interpretation, calls for a broader longitudinal outcome model and refuses both evidence denial and unqualified deployment.
+
+> **Neris:** “We proved that it worked for what we measured. We failed to prove we measured enough.”
+
+**Celine — A Right That Can Be Exercised.** Celine works through appropriate advocates and review institutions to secure understandable consent, withdrawal/re-consent pathways, protected appeal, and limits on secondary data use. She cannot personally issue national legal rulings by fiat.
+
+> **Celine:** “The right to refuse must remain available after the treatment changes what refusal feels like.”
+
+**Mira — Keeping Patients Safe During Correction.** Mira designs a phased care transition for people who require monitoring, alternative therapy and follow-up. She opposes both indefinitely continuing unsafe uses and abrupt blanket suspension that would harm genuine patients.
+
+> **Mira:** “We can repair our mistake without making patients carry the entire cost of the repair.”
+
+**National response:** The NSP, Ministry of Alchemic Progress, Bioethical Tribunal, independent replicators, clinical providers and patient representatives use their actual competencies to evaluate **Ethics, Efficacy and Sustainability**. The response may involve scope-limited suspension, revised metrics, lawful re-consent, audited PSX licensing and protected alternative care. There is **no magical universal cure** and no unilateral AICR takeover of Taramistry.
+
+The intervention's narrow efficacy and its abuse can both be real. Henchoway-linked intermediaries may exploit the transfer, but no single data correlation convicts an entire scientific sector.
+
+### Departure and Future Relevance
+
+Neris, Celine and Mira retain their own Taramistrian professional lives after the crisis. Their lawful connections with the investigators and wider scientific networks can later provide credible grounds for **Hana**, who already knows them by Season 42, to invite them for an independent cross-domain consultation. This later link does **not** imply they served at Aurora Covenant during the early Taramistry seasons.
+
+Post-crisis licensed methods and their reinterpretation provide the causal bridge into Lenternow's environmental regulation and adaptive-light systems. Taramistry's principal lessons are **valid science, voluntary care, and independently corrected institutions**.
+
 ### Thematic Purpose
 Taramistry converts the series conflict from:
 ```text
@@ -5843,6 +5955,270 @@ These episode titles are **optional future planning**, not separate television c
 ---
 ---
 ---
+
+---
+## SEASON 42 — The Price of Being Connected
+**Status:** Planned forward architecture following creator-approved Season 41; not a completed narrative episode  
+**Primary Locations:** Roadglass-5 return, AICR Spire / Reflection Chamber / Sentivision Valley, Reltronland; Hana's independent Aurora Covenant community and Mainroom, Aurorasia, Aurastelia; Reiwara Micro Devices in Reiwara, Reiweston, Reltronland (remote); optional approved Taramistrian consultation  
+**Primary Characters:** Delwyn Harper, Sterling Logger, Redley Ris, Barry Heathrow, Isaac Luminar, Professor Altair Troner; Hana Seraphine Lunara, Claudia Cloud, Andrea, Elise, Inela, Olivia, Uriela; Neris Valcane, Celine Corisa, Mira Talena  
+**Core Theme:** Trust is not permanent obligation; visible connection is not authorization; capability and influence are not ownership.
+
+### Bridge — Season 41 Stays Intact
+
+Season 41 already ends after **one hour of voluntary Mainroom evidence review**, following the separate airbase approach and travel. The bounty hunters depart Aurastelia in **atmospheric-only Roadglass-5** with an authenticated **CCCL / Unassigned Witness** summary; they did not join Hana's community, sign an RMD sponsorship or grant data access.
+
+Season 42 begins **after** that departure, at AICR. Hana's surprise appearance at their departure increased the team's perceived public visibility, but the cause of that visibility and Hana's actual motives are not presumed hostile or covert.
+
+### ACT I — Roadglass-5 Returns to Altair
+
+The team reaches AICR's Sentivision Valley facilities. Altair is waiting, without a ceremony.
+
+> **Barry:** “You always know when we're coming.”
+>
+> **Altair:** “The aircraft sends an arrival schedule, Barry.”
+
+Within his established **Reflection Chamber**, the team speaks candidly about emotional overload after the royal audience, planetary forum and unplanned Hana encounter.
+
+> **Delwyn:** “It feels like people are interested in deciding what we become.”
+>
+> **Sterling:** “Public proximity is being mistaken for affiliation.”
+>
+> **Redley:** “We accepted one hour of evidence review. We did not accept a new command structure.”
+>
+> **Isaac:** “RMD's products may be excellent. What happens if we can no longer perform without them?”
+
+The conversation does not pretend their emotions are forensic proof. Barry contrasts available logistics capacity with accepted commitments—a specific lesson from the Season 40 Moreg/Pasgerflit/AE dispute.
+
+### ACT II — Altair's Own Encounter with RMD
+
+The team asks whether Claudia's original approach to AICR felt unexpectedly spontaneous.
+
+> **Sterling:** “Did RMD surprise you too?”
+>
+> **Altair:** “Its timing did. Its capabilities did not.”
+>
+> **Delwyn:** “Why agree to collaborate?”
+>
+> **Altair:** “Because rejecting a capable partner without investigating the effects can be as careless as accepting one without scrutiny.”
+
+**RMD** remains a private **Reltronland semiconductor and computing supplier**, headquartered in **Reiwara, Reiweston**, with **Claudia Cloud as CEO**. Its existing commercial provision of AICR hardware is distinct from any new research initiative. Claudia's friendship with Hana does not authorize RMD to access classified AICR data or change institute strategy.
+
+Altair accepts bounded legitimate cooperation because RMD appears able and willing to contribute to AICR's mission, while he wants to accumulate **evidence of value, economic interests, systemic influence, dependency and opportunity cost**.
+
+His proposed evaluation covers:
+- verified compute performance and reproducibility;
+- scientific advantages and delivered outcomes;
+- procurement and maintenance costs;
+- alternative suppliers, portable interfaces and fallback capacity;
+- firmware/control boundaries and independent tests;
+- data privacy, IP, access and publicity limitations;
+- who can influence priorities, what requires separate consent;
+- exit readiness, continuity and costs of replacement.
+
+No RMD exclusivity, corporate coercion or malicious intent is invented as an established fact.
+
+> **Altair:** “I did not set out to decide whether RMD was good or bad. I wanted to understand what changes when institutions like ours become connected.”
+
+### ACT III — Trust and the Influence Race
+
+Delwyn, Sterling, Redley, Barry and Isaac acknowledge that Altair is their most trusted leader and mentor. Their relationships with Watson and Albert Locke feel especially reliable because those experts have independent, long-standing professional relationships with Altair.
+
+> **Delwyn:** “We trust you as our mentor more than anyone.”
+>
+> **Altair:** “Then trust me enough to disagree with me. If your judgment needs my approval to function, my mentorship has failed.”
+
+The team sees Hana coordinating a professional community with five specialist sisters and Claudia directing a powerful technology corporation. They fear an **influence race** over AICR's research direction, reputation, access and collaboration.
+
+Altair asks:
+
+> **“A race toward what? Has anyone established that you're obliged to compete with them?”**
+
+He separates **verified contributions**, **measurable concentration exposure** and **unverified motives**.
+
+The five form a lawful **AICR dependency review**, not a secret war against Hana and Claudia:
+- Delwyn: autonomy of field decisions;
+- Sterling: institutional networks, records and data lineage;
+- Redley: contract, consent, procurement and public-affiliation boundaries;
+- Barry: logistics and support continuity;
+- Isaac: hardware verification, interoperability and substitutes;
+- Altair: independent synthesis and research governance.
+
+The team does not automatically terminate a useful supplier contract or treat supportive attention as evidence of capture.
+
+### ACT IV — Hana's Product Has Failed Its Real Requirement
+
+Camera shift: **Aurorasia**, an independent Aurora Covenant professional community facility, not the queen's cabinet.
+
+**Proposed CLM-42 — Covenant Link & Match** is Hana's working product concept to connect verified *supply* (professional expertise, research tools, industrial capabilities and services) with actual *demand* (institutional requirements, projects, clinical or scientific questions and resources).
+
+The prototype produces many plausible matches but few lawful, executable collaborations. Its matching engine optimized **similarity** rather than **authorization, delivery readiness, explicit commitment and consent**.
+
+~~~text
+PROFILE MATCH: HIGH
+CAPABILITY: PLAUSIBLE
+RESOURCE COMMITMENT: UNVERIFIED
+DATA AUTHORIZATION: INCOMPLETE
+VALID PROJECT START: NOT ESTABLISHED
+~~~
+
+This is a proposed design failure for Season 42, not a retrospective fact or proof of criminal interference.
+
+> **Hana:** “We have capable people and organizations asking for help. Why are so few valid collaborations beginning?”
+>
+> **Hana:** “We matched what could be offered with what others said they needed. We never established what they were willing and authorized to do together.”
+
+She fears losing community relevance and member trust, but cannot solve the problem through **Queen Valethra's royal authority**. She has a community coordination mandate, not automatic Aurastelian state office or throne succession.
+
+### ACT V — Five Sisters, Five Independent Objections
+
+The quintuplets remain **Andrea (documentation), Elise (external/corporate liaison), Inela (technical validation), Olivia (operations) and Uriela (ethics/compliance)**. Each is an independent adult, not a clone or shared consciousness. Their five-vowel resemblance may provide warm humor without eliminating their individuality.
+
+> **Inela:** “The matching engine is functioning exactly as specified.”
+>
+> **Olivia:** “A match is not a verified deployment capability.”
+>
+> **Elise:** “Partner interest is not an accepted resource commitment.”
+>
+> **Uriela:** “We cannot improve ranking with data people did not permit us to use.”
+>
+> **Andrea:** “Our decision records never defined what successful collaboration actually meant.”
+
+Hana recognizes **a product requirements failure**, not just bad code.
+
+### ACT VI — The Chessboard of Time, Budget, Data and Opportunity Cost
+
+Hana weighs a large full-platform release against a smaller defensible service. Her trade-offs:
+- **time:** broad coverage versus timely feedback;
+- **budget:** extensive platform development versus verified operations and community programs;
+- **data:** matching accuracy versus privacy, consent and least-necessary access;
+- **opportunity cost:** every development resource not spent on training or existing member services;
+- **leadership trust:** prestige of a big launch versus the credibility of admitting and correcting a mistake.
+
+The chess analogy is **strategic consequence modeling**, not treating community members as owned pieces.
+
+> **Hana:** “My grandmother can hold a room of disagreeing ministers. I'm still learning how to align people who already want to collaborate.”
+
+She must prioritize, document decisions, retain community oversight and accept that some good opportunities will not be pursued.
+
+### ACT VII — Claudia and the Taramistry Trio Enter the Mainroom
+
+Hana invites **Claudia Cloud**, her trusted friend and RMD CEO, plus **Neris Valcane, Celine Corisa, and Mira Talena**, whom she knows through independently formed professional connections after the Taramistry arc. None becomes an automatic member of Aurora Covenant or an AICR employee.
+
+The cross-institutional review covers:
+**problem → proposed solution → expected result → previous experience → independent interests → evaluation → concrete next steps**.
+
+| Participant | Distinct interest | Non-negotiable boundary |
+|---|---|---|
+| **Hana / local Aurora Covenant community** | Community trust, useful matches and operational sustainability | Voluntary participation and no borrowed royal authority |
+| **Claudia / RMD** | Sustainable revenue, valid engineering outcomes, client relationships and defensible investment | Corporate approvals, IP rights; no automatic AICR data access |
+| **Neris** | Reproducible and relevant scientific work | Profile similarity is not experimental validity |
+| **Celine** | Consent, data rights and participant agency | Match recommendations do not authorize data sharing |
+| **Mira** | Usable and maintainable real-world results | Technical possibility is not deployment readiness |
+| **Andrea, Elise, Inela, Olivia, Uriela** | Evidentiary, liaison, technical, operational and ethical integrity | No one role authorizes another |
+
+> **Claudia:** “A good match must support a business case, not just a flattering dashboard.”
+>
+> **Neris:** “Compatibility doesn't establish scientific validity.”
+>
+> **Celine:** “Scientific validity doesn't cancel consent.”
+>
+> **Mira:** “And none of it guarantees that anyone can implement the result.”
+
+### ACT VIII — Claudia and Hana Negotiate Real Incentives
+
+Claudia proposes RMD compute/engineering support for a possible pilot. This could improve performance and reduce development costs, but raise future supplier concentration concerns.
+
+> **Inela:** “Auditability isn't the same as portability.”
+>
+> **Claudia:** “An easily replaceable supplier has less incentive to invest without sustainable compensation.”
+>
+> **Hana:** “Then we need an agreement that rewards your contribution without making dependence the product.”
+
+Claudia is allowed to press for revenue and reject commercially unreasonable terms. Hana must accept additional cost, narrower scope or slower development if she wants genuine exit options.
+
+No instant unanimous agreement or moral conversion is imposed.
+
+### ACT IX — The Bounded CLM-42 Pilot
+
+Hana proposes postponing the full marketplace and testing a small **verified professional matching workflow**:
+
+~~~text
+SPECIFIC DEMAND
+→ VERIFIED SUPPLY
+→ PROVISIONAL MATCH — NOT COMMITMENT
+→ AUTHORIZED DATA AND MUTUAL CONSENT
+→ SCOPE, OWNER, BUDGET AND DELIVERY CAPACITY
+→ AGREED PILOT
+→ OUTCOME REVIEW, REVOCATION AND PORTABLE EXIT
+~~~
+
+The measure of success is not number of recommendations, but **valid, consensual and delivered collaborations with traceable consequences**.
+
+> **Hana:** “I'm choosing a market we can actually serve.”
+
+No numeric budget, launch deadline, binding RMD supply amendment or automatic state endorsement is invented at this stage.
+
+### ACT X — AICR Preserves Its Option to Decline
+
+Altair's team receives a new **scope-limited proposal**, not a retrospective claim that Season 41 created partnership approval.
+
+The proposal separates:
+- AICR's research mandate and classified data from RMD's commercial interests;
+- Aurora Covenant community facilitation from national authority;
+- independently approved information from restricted research;
+- supplier performance and IP terms from personal friendship;
+- accepted pilot commitments from hypothetical opportunities;
+- explicit exit rights from breach of already enforceable obligations.
+
+> **Delwyn:** “They've made it easier for us to leave.”
+>
+> **Altair:** “Would that make their contribution less useful?”
+
+AICR begins independent assessment; acceptance is **not guaranteed**.
+
+### ACT XI — Familiarity Is Not Readiness
+
+During a lawful synthetic or specifically authorized simulation, Inela notices CLM-42 ranks **AICR demand + RMD supply + Aurora Covenant facilitation** highly due to previous relationships.
+
+But no actual AICR demand authorization, accepted project scope or binding decision has been established. The simulator cannot claim real confidential procurement records.
+
+> **Hana:** “It's recommending us because we're already connected.”
+>
+> **Inela:** “Technical compatibility may still be real.”
+>
+> **Uriela:** “Permission to execute it isn't established.”
+>
+> **Hana:** **“We built a system that mistakes familiarity for readiness.”**
+
+Hana prevents publication of the simulated match as a real partnership. That decision builds independent leadership credibility more than her family name ever could.
+
+### ACT XII — Two Institutions, Two Open Questions
+
+**Aurastelia, Hana:**
+
+> **“Our system knows who is connected. It still doesn't know who has agreed.”**
+
+**Reltronland, Altair:**
+
+> **“We know who contributes to our work. We still need to know who we're becoming dependent upon.”**
+
+**Institutional Influence Paradox (proposed):** the relationships that improve capacity, access and visibility can reduce institutional freedom when familiarity, reputation or expected continued support substitutes for explicit consent and actual value.
+
+The season closes with continuing **Unassigned Witness** questions from Season 41 and no conclusive Henchoway attribution. It preserves Hana and Claudia as capable, sincerely motivated actors with independent interests—not villains by default—and keeps AICR's review, not their automatic submission, as the next action.
+
+### Season 42 Guardrails
+
+- **Season 41:** one-hour Mainroom review remains canonically planned and separate from travel/airbase scenes.
+- **Season 42:** Roadglass-5 returns to **AICR**, and Altair remains the anchor mentor of the bounty team.
+- **RMD:** established AICR supplier, not owner of AICR, permanent exclusive vendor, or Reltronland state authority.
+- **Hana:** local community coordinator and granddaughter of Valethra, not automatic successor or planetary diplomat.
+- **Claudia:** powerful private CEO with ordinary commercial incentives and real rights to negotiate.
+- **Five sisters:** independent biological quintuplets with five distinct roles.
+- **Neris, Celine, Mira:** professional Taramistrian characters introduced much earlier, joining this discussion voluntarily without retroactive AICR membership.
+- **Data and commitments:** no match, friendship, publicity, supplier proposal or public acknowledgment grants consent, access or procurement authorization by itself.
+- **Character trust:** Delwyn's confidence in Altair and in Watson/Albert does not replace independent verification.
+- **Future status:** all CLM-42 product architecture, meeting dialogue, pilot results and the Institutional Influence Paradox remain forward proposals pending later canon promotion.
+
 # 9. Macro-Arc Architecture
 
 ## 9.1 Discovery-Triggered Micro-to-Macro Progression
