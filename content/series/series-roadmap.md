@@ -89,24 +89,24 @@ The series entry above remains the **inter-series novel premise**. For season-le
 | **38** | **The Resonant Audience** | The five investigators arrive in Aurastelia aboard the atmospheric-only Roadglass-5, meet Queen Valethra in person for the first time, and secure a bounded Aurora-related research review |
 | **39** | **The Dissonant Forum** | Valethra hosts selective multilateral cooperation with real ministerial, legislative and technical disagreements, leading to bounded CRX-1 testing and the Resonance Lag model |
 | **40** | **The Weight of a World** | Hargenbor's Stillwater legacy, the Moreg–Pasgerflit–AE–Astrostelia–Hargenbor contractual dispute, the Commitment Gap, dynamic Reltronland–Depcutland economic concentration and contested planetary responsibility |
-| **41** | **The Covenant of Five Voices** | After the forum, a suspicious encounter with Hana leads to a one-hour, consent-bounded Aurora Covenant community review, seven new female characters, the Reiwara Micro Devices connection, and a new unresolved evidence-to-responsibility question |
+| **41** | **The Covenant of Five Voices** | After the forum, a suspicious encounter with **Hana Seraphine Lunara**, Valethra's biological granddaughter, leads to a one-hour, consent-bounded Aurora Covenant community review, seven youthful adult women with polished celebrity-level aesthetics, the Reiwara Micro Devices connection, and a new unresolved evidence-to-responsibility question |
 
 #### Season 41 — Core Premise and Direct Continuity
 
 Immediately following **Season 40** at **Aurora Crystal Palace Airbase, Aurorasia**, **Delwyn Harper, Sterling Logger, Redley Ris, Barry Heathrow and Isaac Luminar** prepare to depart on **Roadglass-5**, intending to return to **AICR in Reltronland** and report to **Professor Altair Troner**.
 
-An unfamiliar beautiful young-adult woman, **Hana**, calls all five by name from behind the aircraft boarding area. The team turns together, alarmed by the apparent knowledge of their mission and departure.
+An unfamiliar, exceptionally beautiful young-adult woman with a poised celebrity-level presence, **Hana Seraphine Lunara** (usually called **Hana**), calls all five by name from behind the aircraft boarding area. The team turns together, alarmed by the apparent knowledge of their mission and departure.
 
 Hana correctly infers their likely AICR destination. She denies receiving any personal message or secret instruction from **Altair, Watson or Queen Valethra**. Her basis is knowledge of the Season 37 invitation issued while the team was at Depcutland's Endless Library, information about the publicly documented Aurastelian forum and the AICR-associated aircraft, and her own explicitly fallible inference. **Her knowledge does not establish covert monitoring, privileged aircraft access or omniscience.** Private itinerary details remain protected.
 
-Hana identifies herself as **the biological granddaughter of Queen Valethra Seraphine Lunara** and a professional coordinator within a local **Aurora Covenant** community. Biological kinship is not automatic crown succession, state authority, diplomatic privilege or clearance to restricted information.
+Her **complete canonical name is HANA SERAPHINE LUNARA** (standard written form: **Hana Seraphine Lunara**; conversational name: **Hana**). She identifies herself as **the biological granddaughter of Queen Valethra Seraphine Lunara** and a professional coordinator within a local **Aurora Covenant** community. The matching **Seraphine Lunara** family names reflect her stated royal biological lineage but do not, by themselves, establish political office or access rights; she supplies independently verifiable credentials where appropriate. Biological kinship is not automatic crown succession, state authority, diplomatic privilege or clearance to restricted information.
 
 The team **initially refuses** Hana's request to follow her. Their refusal remains legitimate. Hana refers to the team's willingness to disagree with Valethra—especially Redley's direct challenge in Season 38—not to shame them into obedience, but to ask whether they will evaluate *her evidence* to the same rigorous standard. She asks whether their original mission to resist **Henchoway**, protect **Astralis**, and keep Asthortera's institutions capable of responsible action has ended simply because the multilateral forum concluded.
 
 After the tense confrontation, Hana admits that she does not know what the investigators have personally endured and stops questioning their devotion. She offers a specific, independently reviewable inquiry.
 
-**Ratified dialogue timing correction:**
-> **Hana:** “I'm asking whether **one hour** of verifiable evidence might belong in that report.”
+**Creator-approved dialogue and timing correction — one hour, not twenty minutes:**
+> **Hana Seraphine Lunara:** “I'm asking whether **one hour** of verifiable evidence might belong in that report.”
 
 This explicitly **replaces the earlier twenty-minute proposal**. The agreement is a **one-hour initial evidentiary review**, not unlimited participation, compulsory attendance, a new investigative contract or an automatic postponement of the AICR mission.
 
@@ -115,6 +115,19 @@ This explicitly **replaces the earlier twenty-minute proposal**. The agreement i
 > **Hana:** “Agreed.”
 
 The team may leave early; the aircraft and independent reporting remain under their own authorized control. Hana offers bounded evidence, not royalty-enforced cooperation.
+
+**Timing realism:** The initial access/identity conversation at the airbase and the escorted journey to the community are separate from the **one-hour Mainroom evidentiary session**; the sixty-minute clock starts once the team voluntarily begins reviewing evidence inside Hana's Mainroom. Neither travel nor security verification is silently squeezed into the hour. The meeting's rough pacing is:
+
+| Minute | Mainroom activity | Critical continuity |
+|---|---|---|
+| **00–10** | Andrea verifies scope, visitor consent and permitted records; Hana introduces the community | Evidence access is approved rather than inherited from royal rank |
+| **10–25** | Hana, Andrea and the investigators examine the CCCL event-status chain and its uncertainty limits | Delivered, acknowledged and assigned are not synonyms |
+| **25–35** | Elise delivers Claudia Cloud's authenticated RMD message; Claudia may join briefly via approved remote connection | Resource support is only a proposal, not an executed corporate commitment |
+| **35–45** | Inela, Olivia and Uriela enter with their reports; the five sisters' biological quintuplet identities are clarified; Barry makes the **A, E, I, O, U** joke | Comic relief does not cancel independent professional agency |
+| **45–55** | Sterling, Isaac and Redley cross-check the most consequential event trail, physical claims, source permissions and legal limitations | Unassigned in visible records is not proof of sabotage |
+| **55–60** | Andrea flags the time boundary; Delwyn requests a bounded authenticated summary for Altair | The team remains free to leave and returns to the Roadglass-5 departure plan |
+
+These are **illustrative pacing beats**, not an immutable stopwatch, and preserve sufficient space for actual dialogue and interpersonal tension. The session can end early and is not automatically extended by Hana's status.
 
 #### Hana's Community — Independent Aurora Covenant Practice
 
@@ -128,19 +141,19 @@ Its hypothesis is narrower than a criminal allegation: a message may be delivere
 
 #### New Female Character Ensemble — Visual and Biological Direction
 
-**Creator-approved visual rule for all seven new women — Hana, Claudia Cloud, Andrea, Elise, Inela, Olivia, and Uriela:** each is a **beautiful adult woman with a youthful, polished, celebrity-level physical appearance**. Their looks should convey healthy, radiant, well-groomed, attractive *young-adult celebrity aesthetics* without portraying any of them as children, assigning them a real Earth celebrity's identity, or assuming their biological age equals their chronological age.
+**Creator-approved visual rule for all seven new women — Hana Seraphine Lunara, Claudia Cloud, Andrea, Elise, Inela, Olivia, and Uriela:** each is an **exceptionally beautiful adult woman with a youthful, polished, celebrity-level physical appearance**. Their looks should convey healthy, radiant, well-groomed, attractive *young-adult celebrity aesthetics* without portraying any of them as children, assigning them a real Earth celebrity's identity, or assuming their biological age equals their chronological age.
 
 | Character | Visual expression | Individual function and narrative distinction |
 |---|---|---|
-| **Hana** | Radiant light complexion, refined Korean-inspired facial styling, long smooth brown hair, fit proportional adult physique, elegant Aurastelian contemporary attire | Valethra's biological granddaughter; independent Aurora Covenant community coordinator and initiator of the one-hour invitation |
-| **Claudia Cloud** | Equally beautiful youthful adult celebrity appearance; polished professional **CBD executive** attire rather than Aurastelian spiritual clothing | Reiwara citizen, Hana's close and trusted friend; CEO of **Reiwara Micro Devices (RMD)** |
+| **Hana Seraphine Lunara (Hana)** | Exceptionally beautiful young-adult celebrity-like appearance: radiant fair complexion, refined Korean-inspired facial styling, clear neat face, silky long brown hair, fit and proportionate adult physique; elegant contemporary Aurastelian attire | **Biological granddaughter of Queen Valethra Seraphine Lunara**; independent Aurora Covenant community coordinator and initiator of the one-hour invitation |
+| **Claudia Cloud** | Equally striking, polished and radiant **young-adult celebrity-like beauty**, with a physical biological-age presentation comparable to Hana; tailored formal **CBD corporate executive** attire, not Aurastelian spiritual clothing | Reiwara citizen, Hana's close and trusted friend; CEO of **Reiwara Micro Devices (RMD)** |
 | **Andrea (A)** | Beautiful youthful adult appearance, highly similar face and build to her four biological sisters; individual professional styling | Executive coordination, documentation, meeting access and scheduling |
 | **Elise (E)** | Same sibling-family celebrity-level beauty and striking physical resemblance, with independently identifiable styling or mannerisms | Corporate relations, external messages and supplier liaison; brings Claudia's message |
 | **Inela (I)** | Same youthful adult sibling-family look; distinct professional expression | Technical analysis, reproducibility and dataset verification |
 | **Olivia (O)** | Same youthful adult sibling-family look; distinctive operational presentation | Field and operational coordination, lawful follow-ups and logistics |
 | **Uriela (U)** | Same youthful adult sibling-family look; recognizable ethics/compliance manner | Consent, privacy, disclosure authority and institutional legality |
 
-**Andrea, Elise, Inela, Olivia, and Uriela are biological quintuplet sisters**, each an independent person. They are **not** androids, AI duplicates, clones or one shared mind. Their resemblance genuinely confuses the five bounty hunters during introductions.
+**Andrea, Elise, Inela, Olivia, and Uriela are biological quintuplet sisters**, all five sharing exceptionally similar youthful-adult celebrity-level facial features, healthy proportional physiques and close apparent biological age, while each remains an independent person. They are **not** androids, AI duplicates, clones or one shared mind. Their resemblance genuinely confuses the five bounty hunters during introductions.
 
 The team eventually jokes that they can remember the sisters as the five Latin vowels:
 
@@ -195,6 +208,8 @@ It must not duplicate Garren's original mystery or turn a lack of public records
 
 The sisters provide separate evidence roles: Andrea manages authorization records; Elise manages external provenance; Inela tests technical reproduction; Olivia checks operational follow-through; Uriela ensures consent and privacy restrictions.
 
+The **A/E/I/O/U biological quintuplet reveal and Claudia's optional remote intervention occur within the one-hour Mainroom review**, whereas the aircraft-side confrontation, Hana's identification and travel are preceding scenes. This retains the requested leisurely investigative pacing without implying that the entire visit—including travel—lasts only sixty minutes.
+
 By the end of the **one-hour** review, Delwyn's team does **not** join Hana's community, accept RMD sponsorship or abandon the AICR reporting mission.
 
 They request an authenticated, scope-bounded summary for AICR review and depart Aurastelia aboard Roadglass-5.
@@ -221,8 +236,9 @@ These episode titles are **optional future planning**, not separate television c
 
 #### Season 41 Integrity Rules
 
-- The **one-hour** initial review supersedes every prior **twenty-minute** suggestion for this encounter.
-- All **seven named women** are beautiful, radiant, youthful-looking **adults** with celebrity-quality physical aesthetics, while clothing and individual personality remain distinct.
+- The **one-hour (60-minute) Mainroom evidentiary review** supersedes every prior **twenty-minute** suggestion; pre-review airbase confrontation, credential checks and travel are not included in the sixty-minute session.
+- **HANA SERAPHINE LUNARA** is the full name; **Hana** is her conversational name. She is the biological granddaughter of **Queen Valethra Seraphine Lunara**.
+- All **seven named women**—Hana Seraphine Lunara, Claudia Cloud, Andrea, Elise, Inela, Olivia and Uriela—are exceptionally beautiful, radiant, youthful-looking **adult women** with polished celebrity-quality physical aesthetics; physical similarity or glamour does not erase differences in attire, competence, personality and professional responsibility.
 - Hana is genuinely Valethra's biological granddaughter but does not use lineage to command investigators.
 - Hana does not receive covert instructions from Valethra, Watson or Altair; she reasons from properly available information and is open about uncertainty.
 - The team is entitled to disagree, refuse, verify identities and walk away; acceptance is bounded and informed.
