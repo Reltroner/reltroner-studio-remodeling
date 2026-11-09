@@ -21,7 +21,7 @@ This directory contains source articles, not the numeric canon ledger. These col
 | [Principles](principles/README.md) | Governance rules and thematic world principles | 32 |
 | [Remodeling (internal)](remodeling/README.md) | Drafting methodology, revision records, and templates | 6 |
 | [Research](research/README.md) | Exploratory reference studies | 2 |
-| [Series](series/README.md) | Narrative series and publishing roadmaps | 6 |
+| [Series](series/README.md) | Narrative series and publishing roadmaps | 8 |
 | [Statistics](statistics/README.md) | World and national statistical references | 27 |
 | [Technologies](technologies/README.md) | Fictional technologies and technical systems | 14 |
 | [Video](video/README.md) | Video-related editorial content | 1 |
