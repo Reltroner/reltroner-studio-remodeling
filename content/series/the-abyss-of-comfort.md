@@ -7971,7 +7971,7 @@ Depcutland's accurate translation of that boundary is not unconditional politica
 Hargenbor, AE, participating states and all other actors must retain their own accountable choices. Valethra does not shift unlimited planetary responsibility to Aurastelia either.
 
 ## Rule 25 — Forward Seasons Are Proposals Until Promoted
-Seasons 18–42 are planned forward architecture, not retrospective proof of completed events. New Season 38–42 institutional names, CLM-42, the Institutional Influence Paradox, CRX-1 findings, SRA-40, the Commitment Gap, CRR-40, the Undocumented Planetary Backstop, PRI-40, CCCL, C41-01 and the Unassigned Witness are scenario architecture, not established facts from older source documents.
+Seasons 18–43 are planned forward architecture, not retrospective proof of completed events. New Season 38–42 institutional names, CLM-42, the Institutional Influence Paradox, CRX-1 findings, SRA-40, the Commitment Gap, CRR-40, the Undocumented Planetary Backstop, PRI-40, CCCL, C41-01 and the Unassigned Witness are scenario architecture, not established facts from older source documents.
 
 ## Rule 26 — Keep the Cross-Genre Promise
 
@@ -8032,7 +8032,7 @@ Responsibility follows verified parties, terms, prerequisites, notice duties, ev
 The Season 41 **CCCL**, example **C41-01**, and **Unassigned Witness** are planned evidence constructs. A verified receipt without an owner visible in lawfully accessible records may reflect privacy or jurisdictional limits. It does not, by itself, prove institutional inaction, sabotage or Henchoway culpability.
 
 ## Rule 40 — The Saga Must Permit Ordinary Human Warmth
-A serious world-order saga can move from national crises to an independent community, credible professional women, respectful disagreement, sibling resemblance and humor. This is a genre transition that deepens character and institutional causality rather than trivializing the stakes. Seasons 41–42 remain forward architecture and do not rewrite earlier events.
+A serious world-order saga can move from national crises to an independent community, credible professional women, respectful disagreement, sibling resemblance and humor. This is a genre transition that deepens character and institutional causality rather than trivializing the stakes. Seasons 41–43 remain forward architecture and do not rewrite earlier events.
 
 ---
 ---
