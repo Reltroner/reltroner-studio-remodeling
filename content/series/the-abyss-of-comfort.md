@@ -7012,6 +7012,189 @@ The final visual cross-cut is deliberately restrained: Hana's unfinished enginee
 9. **Action after preservation:** the **Preservation–Correction Gap** refines, rather than replaces, the Season 32 Consequence Gap. A stored lesson is not validated procedural change. AICR's corrective measures require ownership and follow-up, not a celebratory end-card.
 10. **Status:** all Season 43 scenes, relationships and discoveries are **creator-approved planned architecture**, not proof of already published episodes. The series remains active at Mid-Season 17.
 
+
+## SEASON 44 — The Right to Be Ordinary
+**Status:** Creator-approved **planned forward narrative architecture**, including the creator-ratified genuine love and life-partnership intentions of Hana and all five quintuplets (2026-11-11). The active narrative remains **Mid-Season 17 — The Moreg Driftwar**, not a released Season 44 episode.  
+**Genre:** Romantic and psychological drama, family dynamics, existential philosophy, science-fantasy, consensual travel, maritime workplace slice of life.  
+**Locations:** **Aurora Crystal Palace, Aurorasia, Aurastelia**; Hana's own home; five quintuplets' home; lawful civilian international travel; **Pearlwave Coast — Resort Capital, Hargenbor**; cruise restaurant, café, seaside public setting.  
+**Main lens:** Hana's emotional aftermath, with **Evara Alena** as an independent, ordinary, bounded civilian guest perspective, not a secret protagonist.  
+**Central question:** **Can a woman who genuinely loves after violating trust keep choosing, correcting, and living without making the other person's reciprocation a condition for her existence?**
+
+### Ratified Relationship Contract — Six Women, Five Men
+| Woman | Man she genuinely loves | Her sincere long-term intention | Current boundary |
+|---|---|---|---|
+| **Hana Seraphine Lunara** | **Delwyn Harper** | Build a mutually chosen lifetime partnership | Her Season 43 unauthorized aircraft tracker damaged trust; reconciliation is not owed |
+| **Andrea** | **Sterling Logger** | Become his partner in a reciprocal enduring relationship | Sterling has made no romantic commitment |
+| **Elise** | **Barry Heathrow** | Build a genuine lifelong relationship beyond friendly conversation | Barry's bounded reply does not promise a date |
+| **Inela** | **Isaac Luminar** | Create a shared life that respects both individuals | Intellectual affinity does not establish his consent |
+| **Olivia** | **Delwyn Harper** | Build a mutually chosen partnership with Delwyn | She shares Hana's beloved man and was involved in tracker placement |
+| **Uriela** | **Redley Ris** | Build an enduring consensual relationship | Redley's respect for her work would not itself constitute love |
+
+**Ratified:** All six women truly love these men, with deep goals of eventually becoming their respective life partners, and are actively trying to nurture that possibility. **Not ratified:** any reciprocal confession, finalized couple, marriage, intimacy, forgiveness or victory for Hana versus Olivia. The five men remain **cautious, wary and primarily focused on the existential danger of Henchoway and Nytherion**. Love is not operational permission, a claim on someone's body, a request for protected mission details, or a reason to keep contacting someone after refusal. No sixth hunter is invented merely to balance the six women.
+
+### ACT I — Dinner Without a Throne
+**Aurora Crystal Palace, Aurorasia.** The evening after Season 43's unresolved consequences, the disclosed House of Valethra family shares a private dinner: **Queen Valethra Seraphine Lunara**, Royal Consort, eldest daughter (Hana's mother), biological son (Hana's uncle), eldest daughter's astronomer/astrology-practicing husband (Hana's father), and Hana. The working names **Aelvion Caerenth, Lysera Seraphine Lunara, Caelrion Seraphine Lunara and Eryndor Vaelith** remain provisional under [House of Valethra](house-of-valethra.md); no mysterious additional family branches are exposed by default.
+
+The family initially talks about ordinary life. Hana's uncle jokes about prototypes; her father tells her to save technical debates for after dinner. Her mother notices that Hana looks worn down. The discussion shifts to the Roadglass-5 tracker discovered by Barry at AICR. Hana describes only what she may legitimately disclose. No one at the table acquires foreign investigative authority because of being related to Valethra.
+
+> **Uncle:** "Being able to build a device was never permission to place it on an aircraft."  
+> **Hana:** "I know. I failed to respect that."  
+> **Father:** "And don't confuse facts the forensics established with whatever you imagine out of shame."  
+> **Mother:** "You have also barely rested."
+
+Valethra listens as a grandmother, not as the chair of a cabinet, judicial tribunal or AICR review.
+
+### ACT II — The Woman Who Called Herself a Failure
+Season 42's CLM-42 failure wounded Hana's confidence as a creator. Season 43 creates the **greatest emotional burden Hana remembers experiencing**, because the people whose trust she damaged include **Delwyn, whom she sincerely loves and wants as a life partner**. Her feelings are not redefined as a passing crush, nor does her guilt erase the wrongdoing.
+
+> **Hana:** "I wanted a life with Delwyn. Now he has every reason to be cautious around me. I feel like a failure."  
+> **Valethra:** "You made a choice that belonged to him and his team. You still have to face the consequence."  
+> **Hana:** "What if he never forgives me?"  
+> **Valethra:** "Then that is a choice you must respect. But it does not mean you must stop living."
+
+The family neither grants blanket forgiveness nor commands Hana to abandon her love. She wonders aloud whether extreme exhaustion, shame and loss of self-direction can eventually draw people toward **Nytherion Abyss**. Valethra distinguishes **rest with continued awareness** from surrender that extinguishes the desire or capacity to continue choosing.
+
+### ACT III — The Daughter of the Abyss
+Hana refers to **Season 11**, in which economic restructuring and job displacement leave some ordinary citizens vulnerable and some disappear toward Nytherion while records and memories are gradually lost. **Season 12** establishes Kamila's existential account of surrender and the crucial difference **Henchoway ≠ Nytherion**. Neither season proves that all tired or unemployed people necessarily fall into the Abyss.
+
+Hana does not request access to Kamila, an abyssal installation, or the bounty hunters' protected investigations. Instead, she asks Valethra about **Evara Alena, Kamila's biological daughter**, who once visited her at the palace.
+
+> **Hana:** "I want to understand what makes people stop. I know Kamila is one answer. But Evara chose a different life."  
+> **Valethra:** "She once asked me a question that was entirely her own."  
+> **Hana:** "May I meet her?"  
+> **Valethra:** "You may ask her. I cannot promise her answer."
+
+This is permission from family to take a personal journey, **not a sovereign order to compel Evara**.
+
+### ACT IV — A Visitor Who Asked for Nothing
+**Clearly identified newly proposed historical flashback, prior to Season 44's dinner.** Evara visits Aurastelia for its cultural and historical setting. She requests a short, authorized private audience with Valethra through lawful palace visitor arrangements. The Queen already knows the visitor's name from that arrangement, not supernatural surveillance. No special title or diplomatic immunity is granted to Kamila's daughter.
+
+> **Valethra:** "Evara Alena. What do you want to know?"  
+> **Evara:** "Does somebody have to be extraordinary for her life to matter?"  
+> **Valethra:** "What do you want?"  
+> **Evara:** "A job, somewhere comfortable to return to, enough money to make choices, and time to see Asthortera."  
+> **Valethra:** "If that is enough for you, why must your mother's path become yours?"  
+> **Evara:** "I suppose it doesn't have to."
+
+Valethra represents **Conscious Stillness**; Kamila represents **Surrendered Stillness**. Evara's answer is **chosen ordinary sufficiency**, not secret resistance to her mother or a cosmic prophecy. She leaves the palace as a normal visitor. Back at dinner, Hana resolves to send Evara a respectful request, not visit unannounced.
+
+### ACT V — Six Women, One Journey
+At her own residence in Aurorasia, Hana invites her adult friends **Andrea, Elise, Inela, Olivia and Uriela** to consider a personal holiday to Hargenbor. The quintuplets are sisters to one another **but not biological sisters of Hana**; none is a palace servant or compulsory royal escort. They may choose separately.
+
+> **Elise:** "Are you running away from thinking about Delwyn?"  
+> **Hana:** "No. I still love him. I just need to understand how to live responsibly without assuming he must love me back."  
+> **Uriela:** "Has Evara agreed to receive us?"  
+> **Hana:** "I've requested a short introduction. A private talk would need her separate agreement."  
+> **Olivia:** "I'd like to come, if you want me there. I know I have consequences to face too."
+
+The women do not renounce their profound romantic hopes: Andrea still loves Sterling, Elise loves Barry, Inela loves Isaac, Olivia also loves Delwyn, and Uriela loves Redley. None uses this journey to pursue the men or access confidential intelligence. Andrea, Elise, Inela and Uriela remain innocent of the earlier tracker act.
+
+### ACT VI — Across the Oceanic Frontier
+The six travel from Aurorasia using **ordinary lawful civilian passenger transport**, commercial aviation and connections if needed. There is **no automatically established direct flight**, no invented operator/timetable, no Roadglass-5, and no privileged palace aircraft. They pass Hargenbor's independent sovereign entry requirements. **Hargenbor has maritime borders rather than a land border**; the Season 43 Neiput hyperloop process is not incorrectly transplanted.
+
+They reach **Pearlwave Coast**, known for resorts, cruise terminals, beaches, coastal music and a real hospitality economy. Hargenbor remains a sovereign country with internal civic and political differences, not identical to Henchoway or Kamila. The sisters enjoy public activities suited to their different interests—music, fishing, environmental engineering, aquatic and botanical care, and reflective light installations—without every scene hiding a conspiracy clue.
+
+### ACT VII — The Waiter at Pearlwave Coast
+Evara's introductory scene is an ordinary **cruise restaurant shift**. She serves passengers of varying backgrounds to the same professional standard and works within a real crew and supervisor structure.
+
+> **Passenger:** "Could we have another glass of water?"  
+> **Evara:** "Certainly."
+
+Evara is an **adult Hargenborian woman** with a comparably elegant body silhouette and beauty to Hana, but **a distinct face**. Her signature dress is a **Japanese-inspired, professionalized long-sleeved sailor-collar service uniform with a long skirt**; it is not a school costume. She does not make her appearance her main identity. After shift, she changes out of uniform and keeps the previously agreed personal meeting.
+
+Her mother being Kamila does not turn service work into humiliation, infiltration, or proof that she secretly possesses an Apex's abilities. Evara is perceptive because she has spent years observing travelers and passengers.
+
+### ACT VIII — The Six Visitors
+Evara meets Hana and all five quintuplets at a prearranged **public café in Pearlwave Coast**. The exchange is calm and often lightly humorous. She explains how working on a ship shows her people but does not automatically let her explore the places the ship visits.
+
+> **Elise:** "You must have seen almost every city by now."  
+> **Evara:** "I've seen plenty of ports. Seeing the port isn't always the same as seeing the city."  
+> **Inela:** "So you travel when you're off duty?"  
+> **Evara:** "Whenever I can."
+
+The visitors talk about Hargenbor's hospitality, public transportation and their different hobbies. Evara is neither a universal psychological profiler nor an investigator. The five sisters eventually resume their own leisure activities as agreed, and **Evara separately confirms** she is comfortable speaking to Hana alone.
+
+### ACT IX — Two Women, No Witnesses
+Near the coast, Hana asks why some people end up in Nytherion. Evara sets a limit: **knowing Kamila as her mother does not make her an expert on the Nytherion dimension**.
+
+> **Evara:** "I know my mother as my mother. That isn't the same thing as knowing every person who went to Nytherion."  
+> **Hana:** "Then I'd like to know what you think."  
+> **Evara:** "Why is this question so important to you?"  
+> **Hana:** "Because I hurt someone I genuinely love. I'm frightened of what happens to me after that."
+
+Hana shares personal facts she has a right to disclose but no restricted AICR evidence or telemetry. Evara listens and observes rather than issuing a diagnosis, predicting Delwyn's future feelings or forgiving Hana on his behalf.
+
+### ACT X — Why People Stop
+Hana compares Season 11's displaced citizens and memory loss with Season 12's account of **Kamila's philosophy**, exhaustion and surrender. Daan Coen retains his distinct established role as a listener to real lives within Nytherion; Evara does not borrow that expertise. Neither woman claims an exact universal threshold for a person entering the Abyss.
+
+> **Evara:** "I wasn't there when those people made their choices. I can't give you their individual reasons."  
+> **Hana:** "Do you believe your mother?"  
+> **Evara:** "I can understand why endless pain might make stopping appealing. I just don't think everyone has to want that."  
+> **Hana:** "I still want to be Delwyn's partner. That hasn't changed."  
+> **Evara:** "You can want it. You can't make it his decision."  
+> **Hana:** "I know. I want to repair what I did and let him choose."
+
+Love, shame, healthy fatigue and ordinary rest are **not themselves equivalent to Nytherion**. Evara does not instruct Hana to abandon Delwyn as spiritual purification or promise that her love will succeed.
+
+### ACT XI — The Life That Is Enough
+Evara explains her chosen routine: working as a waiter, earning and spending income, returning to a comfortable home, living mostly alone by preference, and **traveling around Asthortera** when she has leave. She is also **financially prepared**: diversified investments such as shares and index holdings, reserves, multi-currency money, selected precious assets and appropriate insurance. She is not assigned a guaranteed return, secret inherited billions, speculative financial genius or precisely known portfolio value.
+
+> **Hana:** "Why not run a company or continue Kamila's research?"  
+> **Evara:** "Because I like the life I'm building."  
+> **Hana:** "What if you eventually don't need to work?"  
+> **Evara:** "Then I can choose whether to work. I'd still like to travel."  
+> **Hana:** "Where?"  
+> **Evara:** "Historic cities, factories, farms, mountains, museums, tiny towns. As much of Asthortera as I can see."
+
+For Evara, cruise work helps her observe **people**, travel helps her understand **places**, investment creates **options**, and solitude protects her freedom without requiring a tragic origin. She may feel tired, bored or lonely sometimes while still generally enjoying her independent life. Neither Hana's pursuit of love nor Evara's comfort with singlehood is treated as universal moral superiority.
+
+### ACT XII — Tomorrow Is Still a Day
+Sunset in Pearlwave Coast. Hana accepts that Evara cannot fix her reputation, force Delwyn's decision, explain every Nytherion disappearance, or replace her own family.
+
+> **Evara:** "What will you do when you get home?"  
+> **Hana:** "Finish my responsibilities. Correct what I can. Keep building things. And I still love Delwyn—even if he never chooses me."  
+> **Evara:** "That sounds like a life you can keep choosing."  
+> **Hana:** "And you?"  
+> **Evara:** "I'm working tomorrow."
+
+Hana reunites with the quintuplets. Their real love for the five men and their own work continue; the Hargenbor visit is not a ritual to renounce romance or an excuse to forget the Season 43 aviation incident. A brief parallel cut shows **Delwyn, Sterling, Redley, Barry and Isaac still cautious at AICR**, prioritizing their examination of Henchoway's credible operational threat and Nytherion's deeper existential erosion of agency, without concluding that Hana or Hargenbor's civilians are Henchoway. AICR's corrective action register has not magically been closed.
+
+The last scene shows Evara returning to her cruise shift. No telepathy, inherited glyph, cosmic prophecy, hidden villain or major career transformation occurs. She serves another guest and moves on with her day.
+
+**Final narration — Season 44:** *"She was born beneath the shadow of an extraordinary existence. Yet she did not ask the world to remember her. She only wanted enough time to experience it."*
+
+**End of planned Season 44.** No confirmed couples, changed Delwyn decision, forgiven tracking offense, completed AICR remediation or newfound metaphysical powers are implied.
+
+### Discovery 44-A — The Enough–Surrender Boundary
+**Definition:** Choosing not to pursue exceptional greatness, unlimited expansion or extraordinary status is not automatically **surrender**. Personal sufficiency can preserve conscious agency, independent judgment, relationships and enjoyment of life. This is a human-scale philosophical insight, **not an empirical formula for Nytherion entry or a newly invented metaphysical force**.
+
+| Character | Distinct existential orientation | Meaning for agency |
+|---|---|---|
+| **Kamila Alena — The Limit** | **Surrendered Stillness** | Possibility of relief from continuing conscious struggle |
+| **Queen Valethra — Resonance** | **Conscious Stillness** | Rest and harmony while preserving attention, choice and responsibility |
+| **Evara Alena — Ordinary Sufficiency** | **Chosen Enough** | Work, financial options, travel, solitude and ordinary dignity with continued self-directed life |
+| **Hana Seraphine Lunara — Accountable Continuation** | Responsibility after failure, continued desire for a mutually chosen life with Delwyn | Facing consequences without surrendering the ability to act or the right to hope |
+
+Neither Evara nor Hana is a universal answer to the other. Evara does not need Hana's enormous creative and romantic goals; Hana does not need to abandon her goals to imitate Evara. **Henchoway remains a purposeful transnational actor distinct from Nytherion**.
+
+### Evara Character Continuity Override — Companion Profile Reconciliation Required
+For this creator-approved master series direction, **Evara Alena is Kamila's adult biological daughter and an independent Hargenbor citizen based in Pearlwave Coast**. She works as a cruise waiter, takes care of her private finances, enjoys extensive personal travel, observes people quietly, and often prefers solitude. She **does not hate Kamila**, but she does not serve Nytherion or Henchoway. She is a memorable civilian perspective, not a protagonist, antagonist, Apex, secret savior or metaphysical heir. Her similarly striking physical form to Hana's is not a family or cosmic linkage.
+
+**Explicit removal:** The former Rei Reltroner / Little Rere classmate relationship, unconscious Astralis glyph sketches, unvisited Reltronepolis drawings and latent cosmic destiny are **superseded for the master narrative**. The separate [Evara character record](../characters/evara-alena.md) still contains that earlier concept and **requires its own later patch**; this commit does not claim to have updated that file. The past Valethra audience is introduced as a **proposed Season 44 flashback**, not retroactively an existing aired episode.
+
+### Season 44 Continuity and Production Guardrails
+1. **Romantic canon:** The six women truly love their respective five men, earnestly want life partnerships, and pursue those hopes while respecting refusal. The five bounty hunters remain wary and prioritize Henchoway–Nytherion. Two women love Delwyn; neither may claim him.
+2. **No romance-based immunity:** Hana's knowing tracker involvement and Olivia's placement remain serious. Investigative custody, privacy and aviation safety are not extinguished by apology, family support, romantic sincerity or a trip.
+3. **No automatic reciprocal couples:** Barry's limited reply to Elise is not a promise. Delwyn has chosen neither Hana nor Olivia. Sterling, Isaac and Redley have not made commitments.
+4. **Family bounds:** Valethra holds her established four roles but this dinner is private. Working family names stay provisional; mysterious branches remain undisclosed. Hana is not an automatic royal successor or diplomatic authority.
+5. **Evara is not Kamila's cognitive extension:** She cannot access hidden Nytherion data, read minds, reveal every victim's reason, inherit an Apex position or serve as a supernatural oracle.
+6. **Season 11–12 remain intact:** Economic displacement and memory erosion matter. Kamila's philosophical claim and Daan's lived-memory role remain distinct; Henchoway ≠ Nytherion.
+7. **Hargenbor is sovereign:** It has no land border with Aurastelia and is not synonymous with Henchoway. Civilian travel, legal entry and hospitality remain normal.
+8. **Consent at every step:** Evara may accept a short group meeting and separately a private meeting with Hana; she may set limits or refuse. No royal command overrides that choice.
+9. **Ordinary dignity is not a clue:** No Rei connection, inherited Astralis glyphs, hidden destiny or engineered revelation that Evara secretly changes the world.
+10. **Production status:** Ratified romantic motivation is canon; the Season 44 acts remain approved **forward architecture**. Current story position stays Mid-Season 17.
+
+---
 # 9. Macro-Arc Architecture
 
 ## 9.1 Discovery-Triggered Micro-to-Macro Progression
