@@ -6714,7 +6714,7 @@ The confession is truthful but does **not** settle responsibility, establish red
 ### ACT IX — Affection Is Not Authorization
 The six women's feelings become known unevenly. Olivia privately admits to Hana that she also loves Delwyn and hopes to become his life partner, not that he is a prize to win.
 
-> **Olivia:** "I like him too."
+> **Olivia:** "I love him too. I wanted the chance to share a life with him."
 >
 > **Hana:** "Since when?"
 >
@@ -7500,7 +7500,7 @@ No nation, sovereign institution or private company is merged by the relationshi
 ## ARC XIV — The Hearts Behind the Signal
 ### Season 43
 ~~~text
-Six adult women privately recall the five bounty hunters with growing romantic curiosity
+Six adult women privately recall the five bounty hunters; their early interest develops into creator-ratified genuine love and aspirations for shared life partnerships
 → Hana and Olivia's earlier unauthorized choice is revealed in a pre-Season-41 rewind
 → Barry's authorized Roadglass-5 inspection detects an unregistered potential tracker
 → AICR preserves the aircraft, technical facts and evidentiary uncertainty
@@ -7519,7 +7519,7 @@ Six adult women privately recall the five bounty hunters with growing romantic c
 → a repeat authorized deposit uses the existing AICR Redundancy Vault address from Season 30
 → the team reunites with Dr. Westley Watson and revisits the limits of archives
 → Preservation–Correction Gap: preserved evidence still requires verified institutional change
-→ the six women's and five men's romantic futures remain open, as do AICR's corrective follow-ups
+→ the six women's deep life-partnership aspirations are genuine, while the five men remain wary and reciprocity and AICR corrective follow-ups remain open
 ~~~
 
 Primary question:
@@ -7527,6 +7527,38 @@ Primary question:
 > **How can a civilization preserve affection and relationships without surrendering consent, preserve evidence without inventing certainty, and turn the memory of its own mistakes into demonstrable correction?**
 
 This arc maintains the franchise's causal distinction between local wrongdoing, deliberate adversarial exploitation, and Nytherion's wider existential gravity.
+
+---
+## ARC XV — The Right to Be Ordinary
+### Season 44
+~~~text
+Season 43 ends with lawful custody at the Endless Library but unresolved trust and correction
+→ House of Valethra holds a private, non-sovereign dinner in Aurora Crystal Palace
+→ Hana confesses record emotional pressure and the fear that Delwyn may never trust her
+→ family distinguishes verified wrongdoing, continuing responsibility and exhaustion
+→ Hana asks Valethra about Kamila, Nytherion and Evara Alena
+→ newly proposed flashback recounts Evara's voluntary, authorized earlier palace audience
+→ Evara's desire for an ordinary self-directed life contrasts with a compulsory inherited Apex role
+→ Hana invites five adult biological quintuplet friends to a civilian journey
+→ Evara separately consents to a group meeting and private conversation
+→ lawful passenger travel carries six women to Hargenbor's Pearlwave Coast
+→ Evara appears first in cruise hospitality employment, not metaphysical spectacle
+→ the six women speak to Evara as separate adults; the five sisters leave for ordinary leisure
+→ Hana privately asks Evara about Season 11–12 Nytherion, surrender and Kamila
+→ Evara respects her own knowledge limits and does not excuse the Roadglass-5 breach
+→ Evara explains diversified financial security, meaningful work, travel and chosen solitude
+→ Discovery 44-A: the Enough–Surrender Boundary distinguishes ordinary sufficiency from lost agency
+→ Hana keeps her genuine love for Delwyn while respecting that he may refuse
+→ the sisters retain their genuine life-partnership hopes for the five men
+→ the five cautious bounty hunters remain primarily focused on Henchoway and Nytherion
+→ Evara returns to normal cruise work and the larger conflict remains unresolved
+~~~
+
+Primary question:
+
+> **Must an individual become extraordinary to keep agency, or can a freely chosen ordinary life be enough—while another individual continues to repair a genuine failure and hope for mutual love?**
+
+Evara is not a sixth investigator, a child of Astralis, a Henchoway operative or an authority above Kamila. The axis remains **chosen sufficiency versus surrender**, without erasing Hana's meaningful desire for an enduring romantic partnership.
 
 ---
 
@@ -7737,7 +7769,16 @@ Garren discovers Henchoway
 → AICR repeats its lawful deposit at the existing Endless Library custody address from Season 30
 → Watson meets the returning team and revisits Garren's missing payload, provenance and the Consequence Gap
 → the Preservation–Correction Gap requires measured institutional follow-up beyond perfect archival storage
-→ Season 43 closes with personal affection unresolved and civilizational learning still requiring action
+→ Season 43 closes with six genuine loves, five wary mission-first men and civilizational learning still requiring action
+→ Season 44 opens at a House of Valethra family dinner after the emotional fallout
+→ Valethra recounts Evara Alena’s previously authorized palace audience in a bounded flashback
+→ Hana and five biological quintuplets travel as ordinary visitors to Pearlwave Coast, Hargenbor
+→ Evara appears as a cruise waiter, private investor and self-directed traveler
+→ an agreed four-eyes conversation examines Season 11–12 Nytherion without attributing Kamila’s expertise to Evara
+→ Discovery 44-A / The Enough–Surrender Boundary
+→ Hana’s love and accountability continue without overriding Delwyn’s choice
+→ the bounty hunters remain cautious and focused on Henchoway and Nytherion
+→ Evara returns to her ordinary working life
 ```
 ---
 # 11. Thematic Escalation
@@ -7777,7 +7818,8 @@ Garren discovers Henchoway
 | Season 40 | Hargenbor accountability, five-party contract conflict, Commitment Gap, twin-pillar hegemony and planetary burden distribution | Can verified obligations be separated from unfulfilled expectations before institutions demand that the strongest nation carry the costs? |
 | Season 41 | Aurora Covenant community, Hana, seven adult female characters, quintuplets, RMD and the Unassigned Witness | Does acknowledgment prove that a responsible decision-maker received the obligation to act? |
 | Season 42 | AICR–RMD dependence, Hana's CLM-42 failure, the quintuplets' domestic disagreement, hands-on design work, Claudia's RelCafe CEO reflection, physical training and ordinary private life | Can people sustain trust and independent judgment while their institutions, relationships, responsibilities and personal limits remain connected? |
-| Season 43 | Hidden attraction across six women and five men, Hana–Olivia tracker revelation, Barry's AICR discovery, Altair's Henchoway/Nytherion threat review, Neiput public transit, the repeated Endless Library custody deposit and Watson's Preservation–Correction Gap | Can affection coexist with boundaries, and can preserved evidence become verified institutional self-correction without false attribution or coerced reconciliation? |
+| Season 43 | Six women's true love for five men alongside Hana–Olivia tracker wrongdoing, AICR forensics, Henchoway/Nytherion threat reflection, Neiput and the repeated Endless Library deposit | Can sincere affection coexist with consent and accountability while the men remain free to be cautious? |
+| Season 44 | House of Valethra dinner, Hana's emotional pressure, Evara's bounded earlier audience, six-woman Hargenbor visit, four-eyes conversation, Ordinary Sufficiency and Discovery 44-A | Can freely chosen ordinary life and accountable continuation both retain agency without forcing romantic reciprocity or surrendering the existential mission? |
 ---
 # 12. Delwyn Harper’s End-to-End Development
 ## Seasons 1–3
@@ -8196,7 +8238,7 @@ Depcutland's accurate translation of that boundary is not unconditional politica
 Hargenbor, AE, participating states and all other actors must retain their own accountable choices. Valethra does not shift unlimited planetary responsibility to Aurastelia either.
 
 ## Rule 25 — Forward Seasons Are Proposals Until Promoted
-Seasons 18–43 are planned forward architecture, not retrospective proof of completed events. New Season 38–42 institutional names, CLM-42, the Institutional Influence Paradox, CRX-1 findings, SRA-40, the Commitment Gap, CRR-40, the Undocumented Planetary Backstop, PRI-40, CCCL, C41-01 and the Unassigned Witness are scenario architecture, not established facts from older source documents.
+Seasons 18–44 are planned forward architecture, not retrospective proof of completed events. New Season 38–42 institutional names, CLM-42, the Institutional Influence Paradox, CRX-1 findings, SRA-40, the Commitment Gap, CRR-40, the Undocumented Planetary Backstop, PRI-40, CCCL, C41-01 and the Unassigned Witness are scenario architecture, not established facts from older source documents.
 
 ## Rule 26 — Keep the Cross-Genre Promise
 
@@ -8228,7 +8270,7 @@ The story follows the survival of Astralis's conscious agency, memory, judgment,
 
 ## Rule 33 — Honor Canon and Production Boundaries
 
-Maintain the original Season 1–17 chronology and currently active Mid-Season 17 position; keep Seasons 18–43 in their documented planning statuses until individually promoted. Preserve the source-of-truth precedence, originality through Asthorteran causality, and explicit review of any revisions to already-published events.
+Maintain the original Season 1–17 chronology and currently active Mid-Season 17 position; keep Seasons 18–44 in their documented planning statuses until individually promoted. Preserve the source-of-truth precedence, originality through Asthorteran causality, and explicit review of any revisions to already-published events.
 
 ## Rule 34 — An Expected Service Is Not an Accepted Obligation
 
@@ -8323,14 +8365,30 @@ The Season 43 **Preservation–Correction Gap** is a bounded instantiation of Se
 The team knows Westley Watson from Seasons 30–33 and returns to a Library institution they have already visited; Season 34 supplies the reverse Neiput route precedent. Keep Altair's research/trajectory role, Watson's provenance/custody role and Albert's live-observation role distinct. The Season 43 return follows the AICR hangar and Reflection Chamber scenes and remains inside Season 43, not a Season 44 prologue.
 
 
+## Rule 59 — Six Women's Love Is Genuine; Five Men's Mission Priority Is Equally Real
+The creator has ratified the enduring life-partnership motivation of **Hana → Delwyn, Andrea → Sterling, Elise → Barry, Inela → Isaac, Olivia → Delwyn, Uriela → Redley**. These are six genuine loves, not six official couples. The five investigators currently remain vigilant about these women and focus on the existential threats of Henchoway and Nytherion. In particular Delwyn has not committed to Hana or Olivia. Romantic pursuit must remain compatible with consent and the men's independent professional priorities.
+
+## Rule 60 — The House of Valethra Dinner Is Not an AICR Tribunal
+The Season 44 private family dinner can reveal emotional context, not sealed AICR investigative evidence or foreign adjudication. Valethra retains her four sovereign/spiritual functions, but she cannot erase an unauthorized tracker decision, compel Delwyn, command Hargenborian immigration or mandate Evara's participation. Working names and undisclosed family branches retain their existing provisional status.
+
+## Rule 61 — Evara Is an Ordinary Adult, Not a Hidden Astralis Successor
+The new Evara direction discontinues Rei/Little Rere ties and supernatural Astralis glyphs. Her identity is Kamila's biological daughter and an independent Hargenbor resident, cruise waiter, investor and traveler. She has no guaranteed insight into the Nytherion dimension. Her chosen solitary life and personal comfort do not indicate surrender; being physically similar to Hana except for the face is not evidence of kinship.
+
+## Rule 62 — Respect Two Consents and One Sovereign Border
+Evara may choose to receive the six visiting women for a brief meeting and separately to speak privately with Hana. Travel from Aurastelia to Hargenbor uses lawful civilian routes and Hargenbor's **maritime sovereign** entry requirements, not the Neiput land-border process from Season 43. No royal status overrides visitor autonomy.
+
+## Rule 63 — Discovery 44-A Is an Interpretive Boundary, Not a Nytherion Cure
+**The Enough–Surrender Boundary** means a life of chosen ordinary sufficiency can preserve agency, while a person recovering from guilt can continue choosing and repairing harm. It adds no new metaphysical substance, eradication of Nytherion, knowledge of missing Season 11 victims, or forced resolution of Hana and Delwyn's relationship.
+
+
 # 14. Current Series Position
 The current active narrative remains in the middle of:
 # **Season 17 — The Moreg Driftwar**
 
 The approved forward architecture now extends through:
-# **Season 43 — The Hearts Behind the Signal**
+# **Season 44 — The Right to Be Ordinary**
 
-Seasons 18–43 remain forward architecture unless later promoted to completed canon events.
+Seasons 18–44 remain forward architecture unless later promoted to completed canon events.
 Current conditions:
 - Driftwar Protocol is active.
 - Moreg’s mobility architecture is fragmented.
@@ -8432,7 +8490,16 @@ Kill-switch debate
 → public transit through Reltronepolis Central Station and Neiput to Depsetica
 → return to the same AICR Redundancy Vault custody address at the Endless Library
 → Watson and the Preservation–Correction Gap
-→ unfinished accountability, optional relationships, and tested future correction
+→ unfinished accountability, genuine unreciprocated love, and tested future correction
+→ Season 44 / The Right to Be Ordinary
+→ House of Valethra private dinner / Hana addresses unprecedented emotional burden
+→ Evara Alena’s bounded earlier Aurora Crystal Palace visit / Ordinary Sufficiency
+→ six women use lawful civilian travel to Hargenbor / Pearlwave Coast
+→ cruise-service encounter and consent-bounded four-eyes Hana–Evara conversation
+→ Season 11–12 Nytherion questions / Kamila understood without Evara becoming a cosmic authority
+→ Discovery 44-A / The Enough–Surrender Boundary
+→ Hana and five sisters retain life-partnership intentions while the five men remain cautious and mission-first
+→ Evara returns to her ordinary profession
 ```
 ---
 # 15. Final Master Summary
@@ -8507,7 +8574,8 @@ Season 39 forces the world to remain interoperable despite ministerial and legis
 Season 40 forces the world to confront a Responsibility Vacuum: the strongest economy cannot become the unconsented permanent guarantor of a multipolar planet, and every state and private institution must account for its own obligations. The SRA-40 contract hearing makes that problem concrete when Moreg, Pasgerflit, AE, Astrostelia and Hargenbor discover that delivery expectations had been promoted beyond their verified contractual and regulatory status.
 Season 41 returns the camera to an independent Aurastelian community where Hana and her colleagues distinguish acknowledged warnings from verified assignment of responsibility, while the bounty hunters retain their refusal rights and independence from RMD.
 Season 42 asks whether a technically compatible, socially familiar, or commercially useful connection has actually become an authorized, resourced and reversible commitment.
-Season 43 tests the same boundary at personal scale: affection is not permission, a functioning tracking device is not authorized access, and a preserved record is not proof of institutional correction. Returning to Watson and the existing Endless Library custody address transforms an intimate breach into a durable responsibility without inventing a Henchoway operation or a guaranteed romance.
+Season 43 tests the same boundary at personal scale: even sincere love is not permission, a functioning tracking device is not authorized access, and a preserved record is not proof of institutional correction. Returning to Watson and the existing Endless Library custody address transforms an intimate breach into a durable responsibility without inventing a Henchoway operation or a guaranteed romance.
+Season 44 asks whether chosen ordinary sufficiency is itself a meaningful act of continued agency. Hana keeps her genuine love for Delwyn and responsibility for her mistake, Evara remains an independent civilian, and five cautious bounty hunters remain focused on Henchoway and Nytherion. This does not require romantic closure, a new cosmic heir or a hidden threat in every act of service.
 ```
 Reltronland remains the recurring manifestation of Astralis Pinnacle:
 - The place where evidence converges
