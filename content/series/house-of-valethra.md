@@ -4,13 +4,13 @@ description: "A focused House of Valethra family architecture: Queen Valethra, h
 image: "/images/queen-valethra.webp"
 author: "Rei Reltroner"
 date: "2026-11-09"
-lastUpdated: "2026-11-09"
+lastUpdated: "2026-11-11"
 published: true
 category: "Series Lore"
 world: "Asthortera"
 series: "The Abyss of Comfort"
-canonStatus: "Creator-approved bounded family architecture; working names and company labels remain provisional; Seasons 41–42 remain forward narrative architecture"
-tags: ["House of Valethra", "Queen Valethra Seraphine Lunara", "Hana Seraphine Lunara", "Aurastelia", "Aurora Sancta", "Royal Family", "Resonance", "Astralis Pinnacle", "Aurora Energy", "Astronomy", "Independent Leadership", "Character Quality", "Season 41", "Season 42"]
+canonStatus: "Creator-approved bounded family architecture; working names and company labels remain provisional; Seasons 41–44 remain forward narrative architecture"
+tags: ["House of Valethra", "Queen Valethra Seraphine Lunara", "Hana Seraphine Lunara", "Aurastelia", "Aurora Sancta", "Royal Family", "Resonance", "Astralis Pinnacle", "Aurora Energy", "Astronomy", "Independent Leadership", "Character Quality", "Season 41", "Season 42", "Season 43", "Season 44", "Adult Visual Canon", "The Lobby of Six Unwritten Futures"]
 ---
 
 # House of Valethra
@@ -266,6 +266,12 @@ Her relationship to the family is **real and affectionate**. Her choice of indep
 
 This does **not** make her institutionally superior to Valethra or replace the five bounty hunters as the series' existing primary experiential thread.
 
+### Hana's approved physical appearance
+
+Hana follows the eight-woman **adult** appearance canon: a fit, proportionate build, brightly cared-for complexion in a Korean-inspired aesthetic, remarkably youthful **adult baby face**, long smooth hair and neat presentation. No exact biometrics are inferred. Her face remains individually recognizable. **Evara resembles Hana in general form and beauty but has a different face**; this does not make her related to the royal family.
+
+Hana's beauty cannot excuse Season 43 wrongdoing or secure Delwyn's romantic response.
+
 ### Why independence is a choice rather than financial necessity
 
 Hana could plausibly live within the wealthy royal environment with extensive primary, secondary and tertiary material needs provided for.
@@ -427,6 +433,15 @@ Family members share a meal rather than a cabinet meeting.
 
 The family contributes distinct professional and emotional perspectives without instant consensus.
 
+### C2. Season 44 — Later Family Dinner, Then the Lobby of Six Unwritten Futures
+
+The **planned Season 44 private dinner** occurs **after Season 43** and is distinct from the optional Season 42 prototype discussion immediately above. Hana tells her family of her exceptional emotional burden: she genuinely loves **Delwyn Harper** and wants him as a life partner, yet knowingly facilitated an unauthorized Roadglass-5 tracking incident that gives him reasons to distrust her. **Valethra** offers family counsel, not legal absolution, political immunity or romantic commands.
+
+> **Hana:** "I love Delwyn. I wanted a life with him, but I cannot demand he trust me."  
+> **Valethra:** "Then correct what you can and let him decide freely. Your life is not finished."
+
+Later, **Hana hosts Andrea, Elise, Inela, Olivia and Uriela in the private lobby of her own independent Aurorasia residence**. This is **not the palace lobby** and **not** the sisters' separate Season 42 household argument. They imagine six life partnerships with five men, tease one another, then **Uriela** redirects the conversation into a debate about respectful strategies, consent and the men's mission-first caution. **Olivia and Hana both sincerely love Delwyn**, whose choice remains entirely his. Hana subsequently asks whether the women would accompany her on a **consent-bounded civilian trip to Evara in Hargenbor**. Evara and Claudia are not present in the lobby.
+
 ### D. The Comfortable Palace and the Open World
 
 > **Valethra:** "You could have lived comfortably within these walls."
@@ -465,6 +480,14 @@ The family and the professional community are **separate kinds of relationship**
 
 ---
 
+### Creator-Ratified Visual Canon — Eight Adult Women and Five Adult Men
+
+**Hana Seraphine Lunara, Andrea, Elise, Inela, Olivia, Uriela, Evara Alena and Claudia Cloud** share an intentionally cohesive adult female appearance standard: **fit and proportionate height/weight, especially noticeable youthful-looking adult baby faces, bright and groomed skin following a Korean-inspired beauty aesthetic, long smooth well-maintained hair, and tidy, attractive physical presentation**. The eight retain **distinct faces and identities**. Five sisters have close **biological** resemblance; Hana is not their sixth biological sibling; Claudia remains a separate RMD CEO; **Evara has a strikingly similar physique and beauty to Hana but a different face**, not a hidden family or Astralis connection. Evara's long-sleeved, long-skirt sailor-inspired clothing is professional **adult cruise hospitality** attire.
+
+**Delwyn Harper, Sterling Logger, Redley Ris, Barry Heathrow and Isaac Luminar** share a handsome **Nordic-inspired masculine visual aesthetic**: relatively tall, balanced weight, fit and athletic frames, some modest abdominal definition or musculature, and a neat and well-groomed presentation. They have **five distinguishable faces, body language styles and field identities**, not a single repeated model or exaggerated bodybuilder build.
+
+**Canon boundary:** These are visual artistic directions, **not exact numerical heights, weights, ages, eye colors, hair colors, Earth ethnicities or race classifications in Asthortera**. "Baby face" means a youthful-looking **adult**, not a minor. Korean/Nordic are Earth-based *aesthetic references*, not new nation/species lore. Appearance creates neither moral superiority nor romantic consent, privileged information access, forgiveness or a guaranteed relationship.
+
 ## 13. Season-Level Continuity
 
 **Season 38 — The Resonant Audience:** Valethra meets the bounty-hunter group for the first time at the palace. Hana is **not retroactively inserted** as the Queen's secret recruiter.
@@ -476,6 +499,10 @@ The family and the professional community are **separate kinds of relationship**
 **Season 41 — The Covenant of Five Voices:** Hana independently approaches **Delwyn Harper, Sterling Logger, Redley Ris, Barry Heathrow and Isaac Luminar** at the Aurora Crystal Palace Airbase. Her family affiliation does not grant knowledge of private flight plans, unrestricted intelligence, or the right to compel them. The voluntary Mainroom session lasts **one hour** and follows separate verification and travel.
 
 **Season 42 — The Price of Being Connected:** Roadglass-5 returns to **AICR** and Altair. The existing twelve-ACT architecture develops RMD supplier risk, the CLM-42 product failure, the sisters' independent objections, Claudia's corporate reasoning and a bounded possible pilot. Hana's blueprint house, scientific research, server maintenance, emotional exhaustion and ordinary yoga/fitness coexist with those decisions. Claudia's **RelCafe Central** reflection takes place at the existing **Tron Square District, Reltronepolis** flagship during a business visit, not as an RMD relocation or secret contract signing.
+
+**Season 43 — The Hearts Behind the Signal:** Hana and Olivia independently face the consequences of unauthorized aircraft tracking, while all six women's genuine hopes for life partnerships with the five bounty hunters become canon. The men remain cautious and prioritize Henchoway and Nytherion.
+
+**Season 44 — The Right to Be Ordinary:** Hana's later private family dinner precedes the **lobby gathering in Hana's own home**, Uriela's strategic pivot and Discovery 44-B, followed by a lawful visit to Evara in Pearlwave Coast. Fantasies are not completed couple events.
 
 **Current production boundary:** The active story position remains **Mid-Season 17 — The Moreg Driftwar**. The family material and Seasons 38–42 are planned forward architecture; new private family dialogue has not automatically become a completed, released episode.
 
@@ -501,6 +528,10 @@ The family and the professional community are **separate kinds of relationship**
 16. **No forced shared worldview:** Affectionate relatives may disagree about commerce, spirituality, scientific evidence, fatigue, inheritance and individual choice.
 17. **Preserve institution boundaries:** Family status does not override the CRM, Public Lumina Circle, Aurora Covenant communities, AICR, RMD, Aurora Sancta or foreign sovereignty.
 18. **Every future relative disclosure needs a specific function:** A branch remains mysterious until the creator deliberately authorizes a narratively necessary reveal.
+19. **Adult aesthetics:** Hana has the ratified fit, balanced, baby-faced adult, Korean-inspired bright, long-smooth-haired and tidy appearance. Exact numbers and Earth ancestry are not implied.
+20. **No appearance-based genealogy:** Evara has a different face from Hana, and neither Evara, Claudia nor the quintuplets thereby join the House.
+21. **House dinner versus lobby:** The Season 44 family dinner is at the palace; the six-woman strategy debate is at Hana’s separate private home; the Season 42 sisters’ household argument remains another event.
+22. **No royal advantage in love:** Hana and Olivia both genuinely love Delwyn; he and the other four bounty hunters remain free to decline and focused on Henchoway/Nytherion.
 
 ---
 

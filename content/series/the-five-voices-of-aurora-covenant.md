@@ -4,13 +4,13 @@ description: "Creator-ratified family origins and character architecture for And
 image: "/images/the-abyss-of-comfort.webp"
 author: "Rei Reltroner"
 date: "2026-11-09"
-lastUpdated: "2026-11-09"
+lastUpdated: "2026-11-11"
 published: true
 category: "Series Lore"
 world: "Asthortera"
 series: "The Abyss of Comfort"
-canonStatus: "Creator-ratified five-sister family foundation and local node origin; proposed scene dialogue and facility names remain working material; Seasons 41–42 remain forward narrative architecture"
-tags: ["The Five Voices of Aurora Covenant", "Andrea", "Elise", "Inela", "Olivia", "Uriela", "Biological Quintuplets", "Aurastelia", "Aurorasia", "Aurora Covenant", "Volunteer Care", "Found Family", "Disability Inclusion", "Rehabilitation", "Community Origins", "Hana Seraphine Lunara", "The Abyss of Comfort", "CCCL", "CLM-42", "Season 41", "Season 42", "Character Depth"]
+canonStatus: "Creator-ratified five-sister family foundation and local node origin; proposed scene dialogue and facility names remain working material; Seasons 41–44 remain forward narrative architecture"
+tags: ["The Five Voices of Aurora Covenant", "Andrea", "Elise", "Inela", "Olivia", "Uriela", "Biological Quintuplets", "Aurastelia", "Aurorasia", "Aurora Covenant", "Volunteer Care", "Found Family", "Disability Inclusion", "Rehabilitation", "Community Origins", "Hana Seraphine Lunara", "The Abyss of Comfort", "CCCL", "CLM-42", "Season 41", "Season 42", "Season 43", "Season 44", "Character Depth", "Adult Visual Canon", "The Lobby of Six Unwritten Futures", "Discovery 44-B"]
 ---
 
 # The Five Voices of Aurora Covenant
@@ -22,7 +22,7 @@ tags: ["The Five Voices of Aurora Covenant", "Andrea", "Elise", "Inela", "Olivia
 
 This is the focused **family, upbringing, and character-function reference** for **Andrea (A), Elise (E), Inela (I), Olivia (O), and Uriela (U)**, the five biological quintuplet sisters who become adult professionals within the **independent local Aurora Covenant community** in *The Abyss of Comfort*.
 
-Like [House of Valethra](house-of-valethra.md), the purpose is **quality and depth before quantity**. It is not necessary to identify every volunteer, invent a huge adoption genealogy, fill the estate with named supporting characters, or give each sister a predetermined marriage or romantic storyline. Their shared childhood has consequences without reducing them to five identical personalities.
+Like [House of Valethra](house-of-valethra.md), the purpose is **quality and depth before quantity**. It is not necessary to identify every volunteer, invent a huge adoption genealogy, fill the estate with named supporting characters, or assume a predetermined successful marriage or reciprocal romantic outcome, even though their genuine love and desire for life partnerships are now creator-ratified motivations. Their shared childhood has consequences without reducing them to five identical personalities.
 
 ### Relationship to existing canon
 
@@ -46,6 +46,8 @@ Read this document alongside:
 5. From infancy through childhood the sisters grew up within a **volunteer residential estate**, with a stable home, daily care, educational and social experience, and volunteer-family relationships.
 6. **Young Hana Seraphine Lunara**, of a broadly comparable childhood age, became curious about the five similar-looking girls. She approached them, asked questions, and formed a relationship with them **during childhood**, well before the adult Season 41–42 events.
 7. As adults the five sisters live as **distinct individuals** with specialized professional functions and private leisure; Hana works with them inside the **local independent Aurora Covenant node**.
+8. Their adult visual identity is ratified as fit and proportionate, visibly youthful with strong adult baby-face features, bright Korean-inspired styling, long smooth hair and neat grooming.
+9. Their genuine romantic life-partnership hopes are ratified: Andrea → Sterling, Elise → Barry, Inela → Isaac, Olivia → Delwyn, Uriela → Redley. Hana also loves Delwyn; the five men remain cautious and mission-first, with no finalized couple.
 
 **Not yet specified:** the parents' names, species, exact ages, precise date and mechanism of the accident, accident liability, the medical details of each amputation, the exact duration and neurological consequences of either coma, the final legal form of collective adoption, the parents' later residential choices, all volunteer identities, property ownership, school names, and every character's precise chronology.
 
@@ -221,7 +223,7 @@ The estate need not have been built **from scratch** for five babies; it may hav
 
 All five sisters share family experience but need individual possessions, preferences, friendships, boundaries and private space. Their faces can be remarkably similar without identical choices, identical talents or identical emotional responses.
 
-The visual direction in the series master remains: as adults they are **five distinct, healthy, exceptionally attractive, youthful-looking women with close biological resemblance**, not copies, artificial constructs, or people whose chronological ages are defined by appearance.
+The creator-ratified adult visual direction is **five fit, proportionately built, exceptionally attractive women**, with prominent youthful-looking **adult baby faces**, bright well-cared-for skin in a **Korean-inspired** beauty aesthetic, **long smooth maintained hair**, and tidy clothes and presentation. They have strong biological resemblance **without identical faces, personalities or clothes**. Height/weight are balanced but have **no assigned numerical values**. The adult baby-face description does not suggest underage characters. Hana, Claudia and Evara share this larger female artistic baseline without being quintuplets; Evara has a face distinct from Hana. The five male bounty hunters instead share a handsome, relatively tall, Nordic-inspired, fit and modestly muscular adult aesthetic, with five separate faces and no asserted Earth ethnic identity.
 
 ---
 
@@ -461,6 +463,39 @@ Their shared biological origin neither forces identical values nor obliges an au
 
 ---
 
+### Season 44 Interlude — The Lobby of Six Unwritten Futures
+
+After the **later House of Valethra dinner**, all five adult sisters visit **Hana's own independent residential lobby in Aurorasia**. This is a third location distinct from the royal palace and the five sisters' shared home where their **Season 42 CLM-42 argument** took place. Claudia and Evara are **not** in the lobby. The scene is **planned forward architecture**, not an already aired episode.
+
+All six women genuinely love their intended partners and imagine ordinary, committed domestic futures, but **these are internal fantasies, not real future events or the men's reciprocal memories**:
+
+| Woman | Man loved | Imagined life | Personal, respectful approach |
+|---|---|---|---|
+| **Hana** | **Delwyn Harper** | A trusted home where he freely returns after difficult missions | Correct her own tracker wrongdoing; honor his chosen distance |
+| **Andrea** | **Sterling Logger** | Quiet reading, shared meals and calm companionship | Welcome, patient conversation rather than records-gathering |
+| **Elise** | **Barry Heathrow** | Public-transit trips, fishing, laughter and comfortable silence | Honest affectionate expression if he wishes to hear it |
+| **Inela** | **Isaac Luminar** | Shared curiosity and everyday life beyond a laboratory | Learn about the person without a matchmaking algorithm |
+| **Olivia** | **Delwyn Harper** | Peaceful afternoons at her aquafarm and a chosen shared home | Face separate tracker consequences; never claim a prior right to Delwyn |
+| **Uriela** | **Redley Ris** | Mutual affection and safe disagreement beyond professional duties | Seek consent and privacy-respecting communication |
+
+**Uriela** notices a key asymmetry and redirects the group from romantic daydreaming into an earnest **strategy debate**.
+
+> **Uriela:** "Six futures. Five men. Not one is here to say he wants any of them."  
+> **Elise:** "Then how will they ever understand we're serious?"  
+> **Andrea:** "If they welcome a conversation. A friendly reply isn't agreement."  
+> **Inela:** "Nor can CLM-42's matching logic manufacture someone's consent."  
+> **Olivia:** "Hana and I made a mistake before asking."  
+> **Hana:** "I still love Delwyn. I will face the consequences, not demand forgiveness."  
+> **Uriela:** "Our strategy may guide our own behavior. It cannot control their choices."
+
+Elise's playful *"Operation Five Husbands"* quip is rejected as a **joke**, not a marriage plan or strategy for manipulating five men. The six pursue **independent non-coercive approaches**. Hana and Olivia acknowledge that they love the **same Delwyn**, will likely feel sadness if he chose the other, and must allow him to choose **neither**. Hana has no royal privilege in romance. The five bounty hunters remain cautious and focused on threats from **Henchoway and Nytherion**.
+
+The scene concludes when Hana proposes visiting **Evara Alena in Hargenbor**. The sisters can choose to join a lawful holiday; Evara must separately consent to a brief six-person introduction and a possible private conversation with Hana.
+
+**Discovery 44-B — The Imagined Future–Mutual Commitment Gap:** Deep authentic love and a vividly pictured domestic future are not the same as a **mutually chosen partnership**. This echoes CLM-42's distinction between match and authorized commitment but **people are not product conversions, compatibility scores or targets**. Their appearance does not grant the men's consent.
+
+---
+
 ## 15. The Living Biological Family — Visits, Memory, and Agency
 
 Both parents' lives continue alongside those of their daughters and the volunteer households. Their relationship may involve accessible visits, communication, private recollections and shared celebrations whenever desired and feasible.
@@ -636,9 +671,17 @@ Their parents may appear in optional respectful family scenes, but the story doe
 
 Hana and Claudia's RMD, AICR and commercial boundaries remain intact. The sisters' childhood backstory must not silently turn any private hospital record into evidence about Henchoway or sovereign political questions.
 
+### Season 43 — The Hearts Behind the Signal
+
+All six women genuinely love their chosen bounty hunters; Hana and Olivia are separately accountable for the unauthorized tracker. The other four sisters did not participate. The men remain cautious and mission-first.
+
+### Season 44 — The Right to Be Ordinary
+
+The five sisters join Hana at **her residential lobby**, fantasize about six romantic futures, debate responsible individual strategies after Uriela's intervention, and then consider a lawful consent-based Hargenbor visit. This does not revise their family origin.
+
 ### Current series position
 
-The master continues to identify **Mid-Season 17 — The Moreg Driftwar** as the current active narrative. Seasons 41–42 are **planned forward architecture**. Backstory has been ratified as an architectural foundation; new dialogue and flashback scenes remain **scene proposals**, not completed published scenes.
+The master continues to identify **Mid-Season 17 — The Moreg Driftwar** as the current active narrative. Seasons 41–44 are **planned forward architecture**. Backstory has been ratified as an architectural foundation; new dialogue and flashback scenes remain **scene proposals**, not completed published scenes.
 
 ---
 
@@ -664,6 +707,10 @@ The master continues to identify **Mid-Season 17 — The Moreg Driftwar** as the
 18. **Honor rights and evidence.** Childhood, adoption, clinical and personal data are not automatically open to researchers, friends, royal relatives or investors.
 19. **No royal ownership.** Valethra's spiritual authority, Hana's lineage and Claudia's commercial reach do not override the community's legitimate processes.
 20. **Preserve original Asthorteran identity.** This is a modern second-world Aurastelian society, not a renamed Earth orphanage, feudal wardship trope or automatic fantasy curse.
+21. **Adult visual individuality:** Five fit, neat, bright Korean-inspired, long-haired, baby-faced adults remain individuals; exact biometrics and Earth ethnicities are unknown.
+22. **Genuine love is not reciprocation:** All sisters seek life partnerships but the bounty hunters may decline; Hana and Olivia both love Delwyn.
+23. **Lobby and chronology:** Season 44’s Hana-home lobby follows the palace dinner and must not replace the Season 42 sisters-home argument or include Claudia/Evara.
+24. **Consent first:** No surveillance, coercive romantic campaign, repeated unwanted contact, privileged data access or demands that the men abandon their Henchoway/Nytherion mission.
 
 ---
 
