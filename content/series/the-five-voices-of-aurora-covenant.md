@@ -59,7 +59,7 @@ Read this document alongside:
 
 These names are useful for drafting scenes, **not yet established registered institutions or exclusive national facilities**. The historical existence and functions of the care network and local node are the approved substance.
 
-**Timeline status:** These origin events are approved as **backstory architecture**, not a retroactive claim that a specific childhood flashback has already been depicted on screen. The main story is still active in **Mid-Season 17**; Seasons 41–42 remain **planned forward narrative architecture**.
+**Timeline status:** These origin events are approved as **backstory architecture**, not a retroactive claim that a specific childhood flashback has already been depicted on screen. The main story is still active in **Mid-Season 17**; Seasons 41–44 remain **planned forward narrative architecture**.
 
 ---
 

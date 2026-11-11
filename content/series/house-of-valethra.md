@@ -27,7 +27,7 @@ tags: ["House of Valethra", "Queen Valethra Seraphine Lunara", "Hana Seraphine L
 This reference must be read together with:
 - [Aurastelia — The Realm of Resonant Light](../factions/aurastelia.md) — nation, wealth, spiritual culture, lawful sovereignty, public institutions and industry;
 - [Queen Valethra Seraphine Lunara](../characters/queen-valethra.md) — her established identity, sovereign functions, civilizational Resonance and post-authoritarian philosophy;
-- [The Abyss of Comfort — Master Narrative](the-abyss-of-comfort.md) — narrative continuity, especially planned Seasons 38–42;
+- [The Abyss of Comfort — Master Narrative](the-abyss-of-comfort.md) — narrative continuity, especially planned Seasons 38–44;
 - [Planet Asthortera — Planetary Canon Reference](../statistics/asthortera_identity.md) — an original second-world civilization with twelve natural moons, distinct sovereign nations, highly developed technology and interdependence;
 - [Reltroner Studio Master Source of Truth](../principles/reltroner-studio-master-source-of-truth.md) — overarching precedence.
 
@@ -504,7 +504,7 @@ The family and the professional community are **separate kinds of relationship**
 
 **Season 44 — The Right to Be Ordinary:** Hana's later private family dinner precedes the **lobby gathering in Hana's own home**, Uriela's strategic pivot and Discovery 44-B, followed by a lawful visit to Evara in Pearlwave Coast. Fantasies are not completed couple events.
 
-**Current production boundary:** The active story position remains **Mid-Season 17 — The Moreg Driftwar**. The family material and Seasons 38–42 are planned forward architecture; new private family dialogue has not automatically become a completed, released episode.
+**Current production boundary:** The active story position remains **Mid-Season 17 — The Moreg Driftwar**. The family material and Seasons 38–44 are planned forward architecture; new private family dialogue has not automatically become a completed, released episode.
 
 ---
 

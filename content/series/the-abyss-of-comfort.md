@@ -8472,15 +8472,6 @@ The Season 43 **Preservation–Correction Gap** is a bounded instantiation of Se
 The team knows Westley Watson from Seasons 30–33 and returns to a Library institution they have already visited; Season 34 supplies the reverse Neiput route precedent. Keep Altair's research/trajectory role, Watson's provenance/custody role and Albert's live-observation role distinct. The Season 43 return follows the AICR hangar and Reflection Chamber scenes and remains inside Season 43, not a Season 44 prologue.
 
 
-## Rule 64 — Visual Aesthetics Are Adult Descriptors, Not Numeric or Ethnic Canon
-Eight women share the fit, neat, long-smooth-haired, youthful adult baby-face and bright Korean-inspired style; five men share Nordic-inspired handsome, tall, fit and moderately muscular styling. Do not invent numeric measurements, minors or Earth ancestry. **Evara's face is different from Hana's**, and Claudia is not a quintuplet.
-
-## Rule 65 — The Lobby Is a Fantasy and Consent Discussion
-The expanded Season 44 **ACT V** contains six clearly imagined romantic futures, Uriela's strategy pivot and Discovery 44-B. No fantasy becomes an actual couple, and no coordinated manipulation of the five men's mission, autonomy or protected data is permitted.
-
-## Rule 66 — Keep Three Domestic Locations Distinct
-**Season 42** sister-home CLM-42 argument; **Season 44** private royal family dinner; **Season 44** Hana-home residential lobby romance discussion are separate sequences and locations. **Evara and Claudia are absent from the lobby.**
-
 ## Rule 59 — Six Women's Love Is Genuine; Five Men's Mission Priority Is Equally Real
 The creator has ratified the enduring life-partnership motivation of **Hana → Delwyn, Andrea → Sterling, Elise → Barry, Inela → Isaac, Olivia → Delwyn, Uriela → Redley**. These are six genuine loves, not six official couples. The five investigators currently remain vigilant about these women and focus on the existential threats of Henchoway and Nytherion. In particular Delwyn has not committed to Hana or Olivia. Romantic pursuit must remain compatible with consent and the men's independent professional priorities.
 
@@ -8496,6 +8487,15 @@ Evara may choose to receive the six visiting women for a brief meeting and separ
 ## Rule 63 — Discovery 44-A Is an Interpretive Boundary, Not a Nytherion Cure
 **The Enough–Surrender Boundary** means a life of chosen ordinary sufficiency can preserve agency, while a person recovering from guilt can continue choosing and repairing harm. It adds no new metaphysical substance, eradication of Nytherion, knowledge of missing Season 11 victims, or forced resolution of Hana and Delwyn's relationship.
 
+
+## Rule 64 — Visual Aesthetics Are Adult Descriptors, Not Numeric or Ethnic Canon
+Eight women share the fit, neat, long-smooth-haired, youthful adult baby-face and bright Korean-inspired style; five men share Nordic-inspired handsome, tall, fit and moderately muscular styling. Do not invent numeric measurements, minors or Earth ancestry. **Evara's face is different from Hana's**, and Claudia is not a quintuplet.
+
+## Rule 65 — The Lobby Is a Fantasy and Consent Discussion
+The expanded Season 44 **ACT V** contains six clearly imagined romantic futures, Uriela's strategy pivot and Discovery 44-B. No fantasy becomes an actual couple, and no coordinated manipulation of the five men's mission, autonomy or protected data is permitted.
+
+## Rule 66 — Keep Three Domestic Locations Distinct
+**Season 42** sister-home CLM-42 argument; **Season 44** private royal family dinner; **Season 44** Hana-home residential lobby romance discussion are separate sequences and locations. **Evara and Claudia are absent from the lobby.**
 
 # 14. Current Series Position
 The current active narrative remains in the middle of:
