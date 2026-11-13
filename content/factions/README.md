@@ -1,11 +1,13 @@
 # Factions — content catalog
 
 **Purpose:** Nations, institutions, and civilization profiles.
-**Entries:** 26 Markdown source files. Listed by file path; content and Canon C values are unchanged.
+**Entries:** 27 Markdown source files. Listed by file path; content and Canon C values are unchanged.
 
 [Content architecture](../README.md)
 
 **Navigation only.** Entries do not certify publication status.
+
+**Professional / psychosocial pressure reference (2026-11-13):** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md). This is a **qualitative, non-ranked comparison** of all nineteen countries, with the creator-ratified definition of **Aurastelia's Emotional Stability Rate 97% (external emotional-behavioral regulation)** and **Conflict Rate Near Zero (rare overt aggressive/violent confrontations)**. Neither indicator implies absence of internal stress, intense work, debate or dissent. No new national numeric data or workplace laws have been created.
 
 ## Canonical national profiles (19)
 
@@ -30,6 +32,8 @@
 - [Taramistry](./taramistry.md)
 
 ## Other factions and comparative references
+
+- [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md)
 
 - [asthortera-countryball-sovereignty-forms.md](./asthortera-countryball-sovereignty-forms.md)
 - [bureaucracy-bros.md](./bureaucracy-bros.md)
