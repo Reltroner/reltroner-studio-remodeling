@@ -1378,6 +1378,20 @@ It seeks to understand them, coexist with them, build responsibly among them, an
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Cosmic observation, orbital engineering and Astortera Enterprise's public–private research interface.
+
+**Pressure interpretation:** A professional may face unusually complex verification, live-reference uncertainty, engineering safety review and pressure to distinguish authenticated observation from commercially attractive explanations.
+
+**Possible internal psychological burden:** Possible burdens include scientific reputation anxiety, uncertainty fatigue and competing industrial deadlines. The profile discusses concern that private commercial pressure could distort long-term research priorities.
+
+**Evidence and canon boundary:** These are **qualitative, occupation-specific interpretations** grounded in this national profile, not new national clinical statistics, mandatory work-hour figures, uniform experiences for all residents or evidence of overt aggression. Professional pressure, inner distress, external emotional regulation, and physical/intimidating conflict must be distinguished. Aurastelia's **97% outward Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** apply **only to Aurastelia** and do not transfer to this country.
+
+**Comparison:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md) records the nineteen-country distinction and its evidentiary limits.
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **1%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.
