@@ -1166,6 +1166,20 @@ Taramistry's conflicts are high-development conflicts: merit pressure, citation 
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Biochemical sciences, medicine, reproducibility, bioethical review and a merit-oriented research ecosystem.
+
+**Professional / institutional pressure:** The national profile already explicitly identifies Merit Pressure, Citation Anxiety, ethical friction versus innovation speed, data transparency fatigue and professional concern over public-benefit metrics.
+
+**Psychosocial interpretation:** These tensions can produce severe intellectual and reputational pressure even with high societal development. Clinical disorder prevalence, compulsory exploitation and identical exhaustion among all researchers are not established.
+
+**Evidence boundary:** This is domain-grounded qualitative analysis; it does not define a nationwide mental-health statistic, workplace-hour threshold, new clinical condition or a rank among countries. Work demands, subjective stress, outward composure and aggressive/violent incidents are separate subjects. Aurastelia's creator-clarified **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have no automatic numerical equivalent in taramistry.
+
+**Comparative framework:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.
