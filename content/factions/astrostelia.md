@@ -152,6 +152,10 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 # 🌌 ASTROSTELIA — The Cosmic Civilization of Asthortera
 
+**Aurastelia / Aurora Sancta boundary (2026-11-16):** Astrostelia's longstanding scientific tradition is distinct from, but need not negate, Aurastelia's **Aurora Sancta**: the Aurora people's and their descendants' religion rooted in potentially beneficial direct naked-eye encounters with the skyborne Aurora. Faithful interpretations remain contestable and are not automatic scientific proof. Queen Valethra invites Aurora citizens to criticize and improve Aurora Sancta, and those who do not experience its benefit are free to leave the religion and pursue a change of citizenship; these are not universal claims about Astrostelians, compulsory belief, or joint sovereignty. See [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) and [Origins of Aurastelia and Astrostelia](../events/aurastelia-astrostelia.md).
+
+
+
 > *"Where knowledge orbits consciousness, and stars are both science and scripture."*
 
 Astrostelia is one of the most scientifically advanced, cosmically conscious, and institutionally influential nations of Asthortera.
