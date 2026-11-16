@@ -155,7 +155,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 * **Sovereign Leadership Functions:** Head of State, Head of Government, Spiritual Leader, and Civilizational Apex for Resonance (within Aurastelian constitutional and institutional limits).
 * **Population:** 164 billion sentient beings
 * **Official Language:** Auroral Luminaris
-* **State Religion:** Aurora Sancta
+* **State Religion:** Aurora Sancta — a lived, revisable faith of the Aurora people and descendants, with freedom of conscience
 * **Currency:** \$ALC (Aurora Luminar Cosmic currency)
 * **Core National Values:** Spiritual harmony, emotional clarity, cosmic alignment, collective consciousness.
 
@@ -281,7 +281,13 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 #### 📿 Aurora Sancta
 
-* The national spiritual doctrine — lead without pride, rest without guilt, exist without suppression
+**Creator-ratified interpretation (2026-11-16):** Aurora Sancta is the religion of the **Aurora people and their descendants**. They can directly feel beneficial skyborne Aurora energy **when they look at the visible Aurora with their naked eyes**; this experiential possibility is not a guaranteed or compulsory sensation for every individual. Religious meaning, institutional teaching and scientific explanation must be distinguished.
+
+A person who **does not experience the benefit is free to leave Aurora Sancta and pursue a change of citizenship**. They are not spiritually defective or disloyal. Departure from the religion is separate from nationality transition; neither forced emigration nor compelled ritual participation follows. Queen Valethra **invites citizens to criticize Aurora Sancta and suggest revisions or improvements**, including criticism of the Queen's spiritual interpretations. Specific procedures for revisions or nationality changes remain open. See [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+**Lived relevance:** Silence, meditation, Aurora viewing and festivals remain meaningful practices, but the faith does not make worship a second compulsory profession. Aurastelian scientists, engineers, entrepreneurs, caregivers, educators and distinct members of [House of Valethra](../series/house-of-valethra.md) may follow different life paths and exercise reasoned dissent while remaining part of the civilizational culture.
+
+* The national spiritual doctrine — lead without pride, rest without guilt, exist without suppression; voluntary belonging, open criticism and reform
 
 ---
 
