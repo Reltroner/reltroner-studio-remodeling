@@ -625,7 +625,7 @@ Two locations hold highest priority in this doctrine:
 
 This doctrine is safeguarded by the High Sanctum of Aurora, and enacted under direct order from Her Radiant Majesty, Queen Valethra Seraphine Lunara.
 
-**All embassies, institutions, and academies must align with this doctrine** in training, education, and mission preparation.
+**Aurora Sancta-affiliated embassies' cultural programs, spiritual institutions, and academies participating in this voluntary spiritual-deployment framework** align their relevant training and mission preparation with its ethical purpose. **This is not mandatory worship or religious affiliation for every embassy employee, institution, professional, athlete, or resident;** ordinary civil law, conscience, and freedom to leave the faith remain distinct. The [2026-11-16 creator clarification](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) governs this older mandate's scope.
 
 ---
 
