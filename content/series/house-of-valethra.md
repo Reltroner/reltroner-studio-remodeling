@@ -360,6 +360,20 @@ The powerful narrative difference is **scale**. Valethra is a civilizational sov
 
 ---
 
+## Aurora Sancta — The House That Does Not Require One Spiritual Career (2026-11-16)
+
+Aurora Sancta is the national faith rooted in the **Aurora people's and descendants' direct experience of beneficial skyborne Aurora energy when seeing the Aurora with the naked eye**. The existence of lived benefit is not a command that all family members must share the Queen's profession, perform identical rituals, or claim identical experiences. Queen Valethra **invites Aurora citizens to criticize and propose revisions to Aurora Sancta**, including interpretations offered by her spiritual institutions.
+
+A person who does not experience the benefit is **free to leave the religion and pursue a change of citizenship**. Religious departure and nationality transition are **two distinct choices**, not compulsory linked punishments. Neither the palace nor an institutional spiritual leader can require a descendant or ordinary citizen to remain a believer because of ancestry or public reputation.
+
+The family's disclosed differences **demonstrate lived spiritual pluralism**, not an internal ranking of devotion: Valethra leads the nation and faith; her eldest daughter is institutionally engaged in spiritual education and service; her son pursues Aurora-energy business, production and trade; Hana's father investigates astronomy and culturally situated interpretation; the Royal Consort has a separate educational/memory role under discussion; and **Hana independently explores engineering, scientific questions, design and community cooperation**. Their decisions remain accountable to professional ethics and lawful boundaries irrespective of spiritual symbolism.
+
+Hana's questioning of inherited assumptions need not be framed as rejection of her grandmother or an act of sacrilege. She can be encouraged to test ideas and disagree with institutions, while also bearing real responsibility for errors such as the planned Season 43 unauthorized Roadglass-5 tracking. The family also remains free to disagree personally without automatic political consequences.
+
+The exact energy mechanism, relationship between visual ability and experience, formal religious amendment processes, and citizenship-transfer procedures remain open creator-level questions. See [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) and [Aurora Faith](../cultures/aurora-faith.md).
+
+---
+
 ## 10. The House's Distinct Professional Perspectives
 
 One family can hold several distinct legitimate perspectives without becoming a family-run government:
