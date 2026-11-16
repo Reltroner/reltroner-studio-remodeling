@@ -10,13 +10,13 @@ This directory contains source articles, not the numeric canon ledger. These col
 | [Characters](characters/README.md) | Character profiles and narrative agents | 25 |
 | [Cultures](cultures/README.md) | Languages, customs, arts, and social practices | 28 |
 | [Events](events/README.md) | Timelines, historical events, and incidents | 30 |
-| [Factions](factions/README.md) | Nations, institutions, and civilization profiles | 26 |
+| [Factions](factions/README.md) | Nations, institutions, and civilization profiles | 27 |
 | [Items](items/README.md) | Artifacts, objects, and story-world resources | 4 |
 | [Laws](laws/README.md) | Legal frameworks, regulations, and civic rules | 33 |
 | [Music](music/README.md) | Musical concepts and compositions | 30 |
 | [Myths](myths/README.md) | Legends, beliefs, and mythological narratives | 16 |
 | [Organizations](organizations/README.md) | Institutions and enterprises | 20 |
-| [Philosophies](philosophies/README.md) | Civilizational ideas and interpretive frameworks | 27 |
+| [Philosophies](philosophies/README.md) | Civilizational ideas and interpretive frameworks | 28 |
 | [Places](places/README.md) | Geography, cities, and spatial worldbuilding | 34 |
 | [Principles](principles/README.md) | Governance rules and thematic world principles | 32 |
 | [Remodeling (internal)](remodeling/README.md) | Drafting methodology, revision records, and templates | 6 |
@@ -29,6 +29,7 @@ This directory contains source articles, not the numeric canon ledger. These col
 ## Canonical Asthortera entry points
 
 - [19 national profiles](factions/README.md) — profiles identified from the active 19-country ledger.
+- [Aurora Sancta — lived energy, voluntary faith and doctrinal revision](philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) — creator-established Aurastelia/Aurora/Valethra canon; see the [national profile](factions/aurastelia.md) and [House of Valethra](series/house-of-valethra.md).
 - [Asthortera statistics](statistics/README.md) — current references with historical and supporting studies separated.
 - [History and events](events/README.md) — chronology and event documentation.
 - [Cross-domain statistical reference](statistics/asthortera-nccm-v6-active-cross-domain.md) — explanatory Year 0 canon report.
