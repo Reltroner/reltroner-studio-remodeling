@@ -124,8 +124,10 @@ Queen Valethra does not prioritize athletes for national pride — she elevates 
 
 ## 🔮 Core Belief: Movement Channels Light
 
-Aurora Sancta teaches:  
+Aurora Sancta's ceremonial language teaches:  
 > _“Aurora chooses movement.”_
+
+This is devotional metaphor, **not** a literal requirement that one must be constantly productive to qualify for skyborne Aurora-energy benefit.
 
 This means:  
 - The divine does not dwell in temples, but in those who move with inner resonance.  
@@ -136,7 +138,7 @@ Every sprint, every theorem solved, every empathetic act on the field — is a *
 ## 🧭 Sacred Framework
 
 ### 1. **Athletes as Light-Walkers**
-- They are spiritually anointed through the **Polaris Ritual**.
+- Athletes choosing the ceremonial Aurora Sancta path may be spiritually anointed through the **Polaris Ritual**; participation is not a requirement for athletic eligibility or citizenship.
 - They are seen as **Resonant Priests** of kinetic wisdom.
 
 ### 2. **Olympics as Public Ritual**
@@ -161,7 +163,7 @@ Every sprint, every theorem solved, every empathetic act on the field — is a *
 
 The Games in Kalgered, Year 21 AC, became the **first globally recognized ritual of Aurora Sancta**.
 
-From this day forward, all Aurastelian Olympic journeys will be archived not as sport — but as **Scripture of Light in Motion**.
+Within Aurora Sancta's religious archives, participating Aurastelian Olympic journeys may be interpreted as **Scripture of Light in Motion**. The events remain sport for athletes of other or no faith, and religious classification does not replace athletic records.
 
 ---
 
@@ -224,7 +226,7 @@ In Aurora Sancta, the true competitor is not one who dominates, but one who **el
 After the competition ends:
 - Do not celebrate.
 - Reflect.
-- Medals must be transmuted into **Aurora Light Relics**, and stored in the **Vault of Polaris** as timeless echoes of intent — not trophies of ego.
+- As a voluntary ceremonial practice, medals may be symbolically transmuted into **Aurora Light Relics** and recorded in the **Vault of Polaris** as echoes of intent, without denying ordinary athletes' right to keep their awards.
 
 ---
 
