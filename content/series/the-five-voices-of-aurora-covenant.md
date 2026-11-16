@@ -18,6 +18,16 @@ tags: ["The Five Voices of Aurora Covenant", "Andrea", "Elise", "Inela", "Olivia
 
 > **"Five sisters shared a beginning. The people who stayed helped make room for five different lives."**
 
+## Aurora Sancta and the Sisters' Autonomy — Creator Clarification (2026-11-16)
+
+The quintuplet sisters grow up in an Aurastelian environment shaped by Aurora Sancta, **a faith rooted in the Aurora people's and descendants' firsthand benefit from skyborne Aurora energy when seeing the Aurora with the naked eye**. This environment does **not** turn their volunteer upbringing into mandatory religious indoctrination, nor does it make all five sisters members of clergy or a royal religious organization.
+
+**Different professions, different personal convictions and different emotional responses are legitimate.** A person who does not experience Aurora's benefit may freely leave Aurora Sancta and pursue a change of citizenship without shame or coercion. Religious departure and nationality transition are distinct; the sisters' own individual beliefs are **not specified** merely by their residence, ancestry or friendship with Hana.
+
+Queen Valethra encourages Aurora citizens to criticize and propose improvements to Aurora Sancta, so the independent Aurora Covenant community can examine practices, governance and everyday relevance without assuming disagreement means hostility to Aurastelia. Aurora Covenant professional cooperation remains distinct from compulsory religious membership. This clarification does not rewrite the parents' accident or rehabilitation, the community's voluntary origins, or any Season 41–44 planned events. See [Aurora Sancta living-faith clarification](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+---
+
 ## 1. Purpose, Scope, and Canon Authority
 
 This is the focused **family, upbringing, and character-function reference** for **Andrea (A), Elise (E), Inela (I), Olivia (O), and Uriela (U)**, the five biological quintuplet sisters who become adult professionals within the **independent local Aurora Covenant community** in *The Abyss of Comfort*.
