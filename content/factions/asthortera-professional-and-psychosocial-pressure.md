@@ -35,6 +35,14 @@ A person may argue very firmly without intimidating anyone. Another person may l
 
 ## 3. Aurastelia — precise meaning of 97% and Near Zero
 
+### Aurora Sancta Is Not a Measure of Religious Obedience (2026-11-16)
+
+Aurora Sancta belongs to the **Aurora people and descendants**, whose spiritual tradition is rooted in the potential to **feel beneficial energy when viewing skyborne Aurora with the naked eye**. **Not experiencing the benefit is not aggression, moral failure or clinical illness.** Such people can leave Aurora Sancta and pursue a change of citizenship freely; changing religion does not mean automatic deportation. Queen Valethra invites citizens to criticize the faith and propose changes, including to traditional ritual assumptions and leadership interpretations.
+
+Neither the **97% outward emotional regulation** figure nor **Near Zero overt aggressive conflict** may be used to infer uniform religious belief, successful religious coercion, or an absence of criticism. Peaceful protests, religious dissent, scientific debate and independent professional lives remain compatible with both indicators. Details of Aurora-energy physiology, religious amendment procedure, and nationality rules remain open. See [Aurora Sancta living-faith clarification](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+
+
 ### Emotional Stability Rate — 97%
 
 **Definitional target:** a national characterization of **outward emotional-behavioral regulation** in observable interactions. Most Aurastelians generally do not express anger or distress through uncontrolled threatening shouting, destructive outbursts, violent rampages or intimidating aggression.
