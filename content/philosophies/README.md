@@ -1,7 +1,7 @@
 # Philosophies — content catalog
 
 **Purpose:** Civilizational ideas and interpretive frameworks.
-**Entries:** 27 Markdown source files. Listed by file path; content and Canon C values are unchanged.
+**Entries:** 28 Markdown source files. Listed by file path; content and Canon C values are unchanged.
 
 [Content architecture](../README.md)
 
@@ -14,6 +14,7 @@
 - [antagonist-design.md](./antagonist-design.md)
 - [astralis-philosophy-of-suffering-and-sustainability.md](./astralis-philosophy-of-suffering-and-sustainability.md)
 - [astralis-pinnacle.md](./astralis-pinnacle.md)
+- [aurora-sancta-living-faith-and-voluntary-resonance.md](./aurora-sancta-living-faith-and-voluntary-resonance.md)
 - [beyond-earth.md](./beyond-earth.md)
 - [compounding-as-a-cheat-code.md](./compounding-as-a-cheat-code.md)
 - [dual-sympathies-doctrine.md](./dual-sympathies-doctrine.md)
