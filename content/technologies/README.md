@@ -1,7 +1,7 @@
 # Technologies — content catalog
 
 **Purpose:** Fictional technologies and technical systems.
-**Entries:** 14 Markdown source files. Listed by file path; content and Canon C values are unchanged.
+**Entries:** 15 Markdown source files. Listed by file path; content and Canon C values are unchanged.
 
 [Content architecture](../README.md)
 
@@ -9,6 +9,7 @@
 
 ## Documents
 
+- [asthortera-personal-ai-physical-engineering.md](./asthortera-personal-ai-physical-engineering.md)
 - [astralis-colossus-stations.md](./astralis-colossus-stations.md)
 - [aurora-synchronization-tech.md](./aurora-synchronization-tech.md)
 - [entropy-firewall.md](./entropy-firewall.md)

@@ -21,3 +21,7 @@
 5. Promote through a deliberate **file allowlist** from remodeling to production. Exclude `content/remodeling/**`, historical ledgers, experimental proposals, tests/tools not required by the production build, and private drafting assets.
 6. **Never use Git reset/clean to force promotion.** Compare Git blob SHA, verify dependencies, review the release diff and merge via PR.
 7. Record `published: false` **and** `visibility: internal` for private documents. The directory-level exclusion is stronger than the frontmatter flag.
+
+## Asthortera cross-domain consolidation (internal)
+
+- [2026-11-17 integration decision register](./asthortera-2026-11-17-integration-decision-register.md) — discussion-to-document mapping, unpublished assumptions, evidence status and future canon gates. **Not for production content routes.**

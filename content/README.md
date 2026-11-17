@@ -18,18 +18,17 @@ This directory contains source articles, not the numeric canon ledger. These col
 | [Organizations](organizations/README.md) | Institutions and enterprises | 20 |
 | [Philosophies](philosophies/README.md) | Civilizational ideas and interpretive frameworks | 28 |
 | [Places](places/README.md) | Geography, cities, and spatial worldbuilding | 34 |
-| [Principles](principles/README.md) | Governance rules and thematic world principles | 32 |
-| [Remodeling (internal)](remodeling/README.md) | Drafting methodology, revision records, and templates | 6 |
+| [Principles](principles/README.md) | Governance rules and thematic world principles | 37 |
+| [Remodeling (internal)](remodeling/README.md) | Drafting methodology, revision records, and templates | 7 |
 | [Research](research/README.md) | Exploratory reference studies | 2 |
 | [Series](series/README.md) | Narrative series and publishing roadmaps | 8 |
-| [Statistics](statistics/README.md) | World and national statistical references | 27 |
-| [Technologies](technologies/README.md) | Fictional technologies and technical systems | 14 |
+| [Statistics](statistics/README.md) | World and national statistical references | 31 |
+| [Technologies](technologies/README.md) | Fictional technologies and technical systems | 15 |
 | [Video](video/README.md) | Video-related editorial content | 1 |
 
 ## Canonical Asthortera entry points
 
 - [19 national profiles](factions/README.md) — profiles identified from the active 19-country ledger.
-- [Aurora Sancta — lived energy, voluntary faith and doctrinal revision](philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) — creator-established Aurastelia/Aurora/Valethra canon; see the [national profile](factions/aurastelia.md) and [House of Valethra](series/house-of-valethra.md).
 - [Asthortera statistics](statistics/README.md) — current references with historical and supporting studies separated.
 - [History and events](events/README.md) — chronology and event documentation.
 - [Cross-domain statistical reference](statistics/asthortera-nccm-v6-active-cross-domain.md) — explanatory Year 0 canon report.

@@ -1,7 +1,7 @@
 # Statistics — content catalog
 
 **Purpose:** World and national statistical references.
-**Entries:** 27 Markdown source files. Listed by file path; content and Canon C values are unchanged.
+**Entries:** 31 Markdown source files. Listed by file path; content and Canon C values are unchanged.
 
 [Content architecture](../README.md)
 
@@ -22,12 +22,16 @@
 - [ai-ecosystem.md](./ai-ecosystem.md)
 - [asthortera-14-country-cross-domain-v3.md](./asthortera-14-country-cross-domain-v3.md)
 - [asthortera-37-country-lineage-and-kalgered-remodeling.md](./asthortera-37-country-lineage-and-kalgered-remodeling.md)
+- [asthortera-cosmeilian-phantomkind-life-course.md](./asthortera-cosmeilian-phantomkind-life-course.md)
 - [asthortera-cross-domain-qa-audit-2026-10-30.md](./asthortera-cross-domain-qa-audit-2026-10-30.md)
 - [asthortera-cross-domain-qa-v4-2026-10-30.md](./asthortera-cross-domain-qa-v4-2026-10-30.md)
 - [asthortera-data-analytics-notebook.md](./asthortera-data-analytics-notebook.md)
+- [asthortera-monetary-ppp-fiscal-parameter-register.md](./asthortera-monetary-ppp-fiscal-parameter-register.md)
 - [asthortera-nccm-remodeling.md](./asthortera-nccm-remodeling.md)
 - [asthortera-phantomkind-demography-v4.md](./asthortera-phantomkind-demography-v4.md)
+- [asthortera-qa-verification-labor-market.md](./asthortera-qa-verification-labor-market.md)
 - [asthortera-sdi-methodology-v3.md](./asthortera-sdi-methodology-v3.md)
+- [asthortera-species-demographic-variation.md](./asthortera-species-demographic-variation.md)
 - [cistheta_identity.md](./cistheta_identity.md)
 - [cosmeilia_identity.md](./cosmeilia_identity.md)
 - [culture-impact-index.md](./culture-impact-index.md)

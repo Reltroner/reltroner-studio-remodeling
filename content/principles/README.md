@@ -1,7 +1,7 @@
 # Principles — content catalog
 
 **Purpose:** Governance rules and thematic world principles.
-**Entries:** 32 Markdown source files. Listed by file path; content and Canon C values are unchanged.
+**Entries:** 37 Markdown source files. Listed by file path; content and Canon C values are unchanged.
 
 [Content architecture](../README.md)
 
@@ -10,7 +10,11 @@
 ## Documents
 
 - [anti-sexual-content.md](./anti-sexual-content.md)
+- [asthortera-cosmic-resource-and-monetary-economy.md](./asthortera-cosmic-resource-and-monetary-economy.md)
+- [asthortera-distributed-manufacturing-provenance.md](./asthortera-distributed-manufacturing-provenance.md)
+- [asthortera-integrated-civilization-model.md](./asthortera-integrated-civilization-model.md)
 - [asthortera-modular-economy.md](./asthortera-modular-economy.md)
+- [asthortera-nationality-centered-citizenship.md](./asthortera-nationality-centered-citizenship.md)
 - [asthortera-type-i9-doctrine.md](./asthortera-type-i9-doctrine.md)
 - [astralis-capital-doctrine.md](./astralis-capital-doctrine.md)
 - [civilizational-maturity-reltroner.md](./civilizational-maturity-reltroner.md)
@@ -33,6 +37,7 @@
 - [reltroner.md](./reltroner.md)
 - [reltronland-civilization-framework.md](./reltronland-civilization-framework.md)
 - [reltronland-education-framework.md](./reltronland-education-framework.md)
+- [reltronland-environmental-industrial-assurance.md](./reltronland-environmental-industrial-assurance.md)
 - [reltronland-fiscal-grid.md](./reltronland-fiscal-grid.md)
 - [reltronland-knowledge-architecture.md](./reltronland-knowledge-architecture.md)
 - [reltronland-military.md](./reltronland-military.md)

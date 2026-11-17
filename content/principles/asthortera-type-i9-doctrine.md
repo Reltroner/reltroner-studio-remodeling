@@ -23,7 +23,7 @@ This doctrine serves as the **philosophical and scientific foundation** for ener
 ---
 
 ### 🔸 Why Not Type II Yet?
-- Asthortera **consciously chooses not to extract energy from stars directly**, rejecting the path of unchecked power.
+- **Historical self-restraint and current scope (2026-11-17):** The original Type I.9 doctrine opposed uncontrolled direct stellar harvesting. The creator's later economic premise **allows licensed extraction and energy operations in verified uninhabited stellar systems** under the applicable sovereign and interstellar rules. This does not authorize exploitation of inhabited systems, nor does it silently revise the planet's Type I.9 philosophical classification. See [cosmic resource economy](./asthortera-cosmic-resource-and-monetary-economy.md).
 - The **Astralis Energy Codex (Year 949 BAC)** mandates that energy must serve sentience, not control it.
 - **Interstellar interaction** exists (e.g., with Depeisit, Cosmeilia, Cistheta) but is rare, revered, and ritualized.
 
