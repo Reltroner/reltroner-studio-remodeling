@@ -122,15 +122,15 @@ tags:
 - [1. National overview](#1-national-overview)
 - [2. Geography and settlements](#2-geography-and-settlements)
 - [3. History and national formation](#3-history-and-national-formation)
-- [4. Education and the culture of inquiry](#4-education-and-the-culture-of-inquiry)
 - [5. Politics and civic institutions](#5-politics-and-civic-institutions)
 - [6. Linguistic and cultural evolution](#6-linguistic-and-cultural-evolution)
+- [7. NCCM V6 national quantitative baseline](#7-nccm-v6-national-quantitative-baseline)
 - [8. Regional partnerships and diplomatic relationships](#8-regional-partnerships-and-diplomatic-relationships)
 - [9. Risks, limits and ethical tradeoffs](#9-risks-limits-and-ethical-tradeoffs)
 - [10. The Abyss of Comfort — proposed narrative tension](#10-the-abyss-of-comfort--proposed-narrative-tension)
-- [11. National identity versus countryball characterization](#11-national-identity-versus-countryball-characterization)
 - [12. Cross-domain QA and future remodeling agenda](#12-cross-domain-qa-and-future-remodeling-agenda)
 - [13. Canon, provisional facts and source-of-truth distinctions](#13-canon-provisional-facts-and-source-of-truth-distinctions)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->

@@ -102,14 +102,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 - [🌷 1. Core Identity](#-1-core-identity)
 - [🧬 2. Demographic Composition](#-2-demographic-composition)
-- [🗺️ 3. Geography & Landmark Features](#️-3-geography--landmark-features)
 - [🏙️ 4. Major Cities](#️-4-major-cities)
 - [🧘 5. Social & Cultural Life](#-5-social--cultural-life)
 - [🧠 6. Governance & Political Structure](#-6-governance--political-structure)
-- [✨ 8. Philosophy and Intergalactic Role](#-8-philosophy-and-intergalactic-role)
+- [🔿️ 7. Architecture & Technology](#️-7-architecture--technology)
 - [📊 9. Indexes & Indicators](#-9-indexes--indicators)
+- [Canonical Interpretation — External Emotional Stability and Overt Aggressive Conflict (2026-11-13)](#canonical-interpretation--external-emotional-stability-and-overt-aggressive-conflict-2026-11-13)
+- [Professional Pressure in the Realm of Resonant Light](#professional-pressure-in-the-realm-of-resonant-light)
 - [🔬 10. Psychological Effects on Visitors](#-10-psychological-effects-on-visitors)
-- [🎴 11. Cultural Fabric of Aurastelia](#-11-cultural-fabric-of-aurastelia)
 - [📜 12. Quotes from Queen Valethra](#-12-quotes-from-queen-valethra)
 - [🌌 Aurastelia Olympic Doctrine](#-aurastelia-olympic-doctrine)
 

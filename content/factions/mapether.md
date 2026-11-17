@@ -121,16 +121,16 @@ tags:
 
 - [1. National overview](#1-national-overview)
 - [2. Geography, coast and cultural landscapes](#2-geography-coast-and-cultural-landscapes)
-- [3. The long historical transformation](#3-the-long-historical-transformation)
+- [4. Textile engineering, fashion and the production economy](#4-textile-engineering-fashion-and-the-production-economy)
 - [5. Music, nightlife and national cultural life](#5-music-nightlife-and-national-cultural-life)
 - [6. Government, commercial neutrality and rights](#6-government-commercial-neutrality-and-rights)
 - [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
-- [8. Diplomacy and trade network](#8-diplomacy-and-trade-network)
 - [9. National language and its historical layers](#9-national-language-and-its-historical-layers)
 - [10. Urban design, architecture and material culture](#10-urban-design-architecture-and-material-culture)
+- [11. Education and non-theological reflection](#11-education-and-non-theological-reflection)
 - [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
-- [13. National character, limits and outstanding decisions](#13-national-character-limits-and-outstanding-decisions)
 - [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->

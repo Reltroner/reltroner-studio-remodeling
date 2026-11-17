@@ -120,16 +120,16 @@ tags:
 
 - [1. National identity and basic facts](#1-national-identity-and-basic-facts)
 - [2. Geography and the Reltronland–Krisberia frontier](#2-geography-and-the-reltronlandkrisberia-frontier)
-- [3. Historical lineage and the founding constraint](#3-historical-lineage-and-the-founding-constraint)
+- [4. Material civilization: what craftsmanship means](#4-material-civilization-what-craftsmanship-means)
 - [5. The craftsmanship learning pathway](#5-the-craftsmanship-learning-pathway)
 - [6. Government, social responsibility and institutional ethics](#6-government-social-responsibility-and-institutional-ethics)
 - [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
-- [8. Relations, exports and diplomacy](#8-relations-exports-and-diplomacy)
 - [9. Linguistic evolution and cultural autonomy](#9-linguistic-evolution-and-cultural-autonomy)
 - [10. Architecture and visual style](#10-architecture-and-visual-style)
+- [11. Peaceful sovereignty and institutional tension](#11-peaceful-sovereignty-and-institutional-tension)
 - [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
-- [13. Outstanding national-canon decisions](#13-outstanding-national-canon-decisions)
 - [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->

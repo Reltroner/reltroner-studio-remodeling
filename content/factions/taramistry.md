@@ -105,15 +105,15 @@ region: "Eastern and southeastern scientific-industrial belt of the eastern cont
 
 - [1. Deterministic Canon Logic](#1-deterministic-canon-logic)
 - [4. National Identity](#4-national-identity)
-- [6. Manifestations of Synthetism](#6-manifestations-of-synthetism)
+- [7. State Apparatus](#7-state-apparatus)
 - [9. Urban Centers](#9-urban-centers)
 - [12. Education System](#12-education-system)
 - [15. Economic Sectors](#15-economic-sectors)
-- [17. Statistical Overview](#17-statistical-overview)
-- [20. National Symbols](#20-national-symbols)
-- [23. Ethics and Public Trust](#23-ethics-and-public-trust)
+- [18. By Daily Expenditure](#18-by-daily-expenditure)
+- [21. Language — Tarisian](#21-language--tarisian)
+- [24. Security and Risk System](#24-security-and-risk-system)
 - [26. Foreign Relations](#26-foreign-relations)
-- [28. National Narrative Role in Asthortera](#28-national-narrative-role-in-asthortera)
+- [29. Final Canon Summary](#29-final-canon-summary)
 - [ARCHIVED — NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)](#archived--nccm-v3--cross-domain-benchmark-2026-10-30-development-material)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
