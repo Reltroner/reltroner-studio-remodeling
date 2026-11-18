@@ -1,6 +1,6 @@
 ---
 title: "For Recruiters & Collaborators"
-description: "Professional overview for recruiters and collaborators seeking a Full-Stack / Platform Engineer with system architecture, system engineering, IAM/security, Cloud/DevOps, ERP SaaS architecture, production delivery, and business-facing Problem → Solution → Result execution"
+description: "Full-Stack / Platform Engineer portfolio covering production engineering, identity, Cloud/DevOps, ERP, and Reltroner Statistics: provenance-aware analytics, source-drift QA, read-only REST/MCP integration, and verified delivery"
 date: "2026-09-15"
 published: true
 image: "/images/for-recruiters-banner.webp"
@@ -15,6 +15,8 @@ I'm **Rei Reltroner** (Raidan Sandra), a **Full-Stack / Platform Engineer | Syst
 I build systems that are not only functional, but also **auditable, predictable, maintainable, business-readable, and safe to operate in real production environments**.
 
 My strongest value is reducing uncertainty across multi-layer systems by turning ambiguous business and infrastructure problems into **modular, auditable, maintainable, and production-ready solutions**.
+
+My independent **[Reltroner Statistics](https://github.com/Reltroner/reltroner-statistics)** project extends that approach to **evidence-backed analytics, Git-source provenance, deterministic drift detection, cross-domain knowledge graphs, and AI-accessible read-only APIs**. Results and deployment authority are explicitly separated: verified build tests do not, by themselves, prove which version is live.
 
 My current professional direction is:
 
@@ -45,6 +47,8 @@ Full-Cycle Software Engineer with infrastructure, authentication, and business-p
 * Production deployment and verification across Cloudflare, Rancher/Kubernetes, Docker, GHCR, and GitHub Actions
 * Auditability, system integrity, failure-mode analysis, and structured engineering documentation
 * Business-facing communication that converts technical systems into client-readable value: **Problem → Solution → Result**
+* Source-verified data engineering: Git object SHA validation, cross-repository comparison, TypeScript domain rules, Python analytics, provenance-aware reporting, and evidence graphs
+* Read-only AI/tool integration through shared REST and stateless MCP contracts, with explicit source authority and hypothesis/production status boundaries
 
 ---
 
@@ -87,6 +91,7 @@ I have worked on systems involving:
 * Data-driven content architecture
 * Multi-layer debugging across SSR, UI state, configuration, middleware, deployment, and infrastructure
 * Affiliate SaaS enablement by converting complex ERP features into practical B2B sales narratives
+* Reltroner Statistics: deterministic source drift checks, statistical visualization, evidence-backed creative audits, eight-format exports, and read-only REST/MCP interfaces
 
 ---
 
@@ -106,6 +111,8 @@ I have worked on systems involving:
 * Writing clear documentation for incident reports, failure analysis, architecture constraints, business workflows, and system handoff
 * Working under time pressure while keeping production risk controlled
 * Validating production behavior through evidence rather than assumption
+* Separating production-canon data, proposed revisions, derived measurements, and unverified deployment status without silently promoting one into another
+* Publishing deterministic analysis artifacts with source SHA provenance, checksum-verified exports, and reproducible cross-platform tests
 
 ---
 
@@ -139,7 +146,44 @@ My goal is to make systems that:
 
 ---
 
-## Case Study 1 — Emergency SSO Domain Isolation for Production LMS
+## Case Study 1 — Reltroner Statistics: Evidence-Backed Data Observatory & Read-Only Intelligence API
+
+**Project:** Reltroner Statistics (independent engineering project)
+
+**Period:** November 2026 – Present
+
+**Repository:** https://github.com/Reltroner/reltroner-statistics
+
+**Stack:** Astro, React, TypeScript, Python, ECharts, Zod, Cloudflare Pages/Functions, GitHub Actions, Playwright, REST, MCP
+
+### Case
+
+Reltroner Studio's fictional-universe data spans a production-source repository and a separate remodeling workspace. Manual comparison can miss source drift, conflicting evidence, broken dependencies, and provenance. Analysis also needed to remain useful to both people and AI clients **without modifying upstream repositories or misrepresenting draft proposals as published canon**.
+
+### Solution
+
+I designed a modular, static-first observatory with:
+
+* **Verified source ingestion:** read-only GitHub access at pinned commits, recomputation of root Git tree identity, per-blob SHA checks, deterministic file/JSON/Markdown diffs, and repeatable Windows/Ubuntu baseline verification.
+* **Evidence-aware analytics:** typed observations, source/commit/field provenance, clear `CANON_OBSERVED`, `CANON_DERIVED`, `PROPOSED`, `SCENARIO` and `INSUFFICIENT_DATA` statuses, Python statistical analysis, anomaly/clustering exploration, and dependency/knowledge graphs.
+* **Visual exploration:** Astro pages and React/ECharts interfaces for statistics, comparison, drift findings, creative consistency, narrative impact, scenario calculation, and reporting.
+* **Auditable exports:** JSON, CSV, XLSX, TXT, Markdown, HTML, PDF, and XML generated from one report contract; deterministic ZIP bundling with manifests, source SHAs, and SHA-256 checksums.
+* **AI-ready read-only access:** shared TypeScript operation registry exposed through REST and stateless Streamable HTTP MCP, with bounded schemas and page-aware machine-readable mirrors. The system provides evidence and context; it does **not** autonomously ratify canon.
+
+### Result
+
+* A pinned comparator baseline covers **448 source paths** and **422 JSON-field findings**; its semantic digest is checked for cross-platform reproducibility.
+* Local release acceptance documented **635 generated pages**, **642 HTML-derived PDFs**, **18 REST operations**, and **16 MCP tools**.
+* On the documented isolated local test run, **180 Node unit tests**, **24 Python tests**, and **441 Playwright tests** passed (one browser test was intentionally skipped).
+* Source-vs-deployment identity remains explicit: a passing CI/build is not proof that the newest commit is live; publication uses exact build SHA/digest checks and fail-closed verification.
+
+**Value:** An extensible, traceable quality and decision-support platform that turns a large content universe into inspectable data, reproducible checks, and actionable engineering/creative evidence. Its domain is fictional worldbuilding; its source-control, analytics, verification, API, and delivery techniques are transferable to real software and data systems.
+
+**Project:** [Code and documentation](https://github.com/Reltroner/reltroner-statistics) · [Statistics website](https://statistics.reltroner.com) (verify current live build identity separately)
+
+---
+
+## Case Study 2 — Emergency SSO Domain Isolation for Production LMS
 
 **Project:** Reltroner Learning Academy / Reltroner Identity
 
@@ -278,7 +322,7 @@ Reltroner     → sso.reltroner.com
 
 ---
 
-## Case Study 2 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
+## Case Study 3 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
 
 **Project:** Tradixa Retail Management System
 
@@ -440,7 +484,7 @@ software architecture
 
 ---
 
-## Case Study 3 — Reltroner HRM
+## Case Study 4 — Reltroner HRM
 
 **Role:** Full-Stack / Platform Engineer
 
@@ -504,7 +548,7 @@ Repositories:
 
 ---
 
-## Case Study 4 — Modular Course Engine System
+## Case Study 5 — Modular Course Engine System
 
 **Project Type:** LMS / Learning Platform Architecture
 
@@ -559,7 +603,7 @@ Key improvements:
 
 ---
 
-## Case Study 5 — Security Incident Response: RSA Key Exposure
+## Case Study 6 — Security Incident Response: RSA Key Exposure
 
 ### Case
 
@@ -591,6 +635,30 @@ I handled the incident with a structured remediation process:
 ---
 
 # Work Experience
+
+## Independent Data / Platform Engineer — Reltroner Statistics
+
+**Independent project | November 2026 – Present**
+
+Designed and implemented an evidence-backed analytics and observability platform for the Asthortera / Reltroner Studio content ecosystem.
+
+### Key Contributions
+
+* Built a reproducible GitHub source-ingestion and diff pipeline with pinned commit SHA provenance, content-hash verification, structured observations, and deterministic comparators.
+* Developed statistics and quality-analysis layers combining TypeScript domain rules, Python analytics, provenance-rich knowledge graphs, and interactive Astro/React visualizations.
+* Implemented a canonical report model with eight export formats and checksum-verified ZIP evidence bundles.
+* Exposed bounded, read-only REST and MCP tools; separated production source, proposals, derived values, and deployment verification explicitly.
+* Established cross-platform validation, automated tests, CI workflows, safe publication controls, and exact build-identity verification.
+
+### Verified Engineering Evidence
+
+* Pinned source-drift baseline: 448 paths compared, 422 JSON-field findings.
+* Documented local acceptance: 635 site pages, 642 PDFs, 18 REST operations, 16 MCP tools.
+* Documented local tests: 180 Node tests, 24 Python tests, 441 browser tests passed; one browser test skipped by configuration.
+
+[Repository and implementation evidence](https://github.com/Reltroner/reltroner-statistics) — These figures are source/pinned-fixture or local build results, not a claim that the latest GitHub commit has been verified live.
+
+---
 
 ## Full-Cycle Solutions Associate — Skill-Wanderer
 
@@ -704,6 +772,8 @@ Designed and built a modular ERP platform with centralized authentication and au
 ## Frontend & Full-Stack Integration
 
 * Next.js
+* Astro
+* React
 * Nuxt.js
 * Vue.js
 * Blade
@@ -746,6 +816,17 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Architecture constraint documentation
 * Business-process architecture documentation
 * Production architecture validation
+
+## Data Engineering, Statistics & AI-Ready Systems
+
+* TypeScript source ingestion, deterministic file/field comparison, and Git SHA provenance verification
+* Python statistical analysis, clustering, anomaly exploration, and data validation
+* Zod / JSON Schema contracts, typed observations, statuses, and evidence-backed reporting
+* Knowledge graphs, dependency impact analysis, and consistency auditing
+* ECharts / React data visualization, Astro static publishing, and scenario calculators
+* Eight-format report exports with cryptographic checksums and deterministic ZIP manifests
+* Read-only REST APIs and stateless MCP gateways with versioned operation contracts
+* Source-of-truth separation and fail-closed deployment identity checks
 
 ## Authentication & Security
 
@@ -832,6 +913,7 @@ I bring a combination of **full-stack implementation across frontend and backend
 I am especially useful in teams that need someone who can:
 
 * Understand the system beyond one code file
+* Turn ambiguous multi-repository data into evidence-backed, reproducible analysis without changing source-of-truth repositories
 * Trace bugs across multiple layers
 * Understand authentication beyond simply “login works”
 * Reason about trust boundaries between frontend, backend, identity, and infrastructure
@@ -923,6 +1005,8 @@ Preferred focus areas:
 * [Recruiter Portfolio](https://www.reltroner.com/blog/for-recruiters)
 * [Reltroner HRM Demo](https://hrm.reltroner.com)
 * [Reltroner LMS](https://lms.reltroner.com)
+* [Reltroner Statistics — source and implementation evidence](https://github.com/Reltroner/reltroner-statistics)
+* [Reltroner Statistics — website](https://statistics.reltroner.com)
 * [Skill-Wanderer Course Portfolio](https://dojo.skill-wanderer.com/courses/restful-api-mastery-greybox)
 * [Codepolitan Certification](https://www.codepolitan.com/c/T250HUZ/)
 * [Reltroner GitHub](https://github.com/Reltroner?tab=repositories)
@@ -961,7 +1045,7 @@ problem
 → documentation
 ```
 
-I am especially interested in full-stack, backend, platform, system architecture, SaaS, LMS, ERP, identity/authentication, and business systems engineering roles.
+I am especially interested in full-stack, backend, platform, data/observability engineering, SaaS, LMS, ERP, identity/authentication, and business systems engineering roles. My Reltroner Statistics work also demonstrates deterministic analytics, traceable source comparisons, and safe AI-facing integrations.
 
 My current differentiator is that I can connect:
 
